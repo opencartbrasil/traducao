@@ -10,9 +10,9 @@ $_['text_authorization'] = 'Autorização';
 $_['text_sale']          = 'Venda';
 
 // Entry
-$_['entry_username']     = 'Usuário API:';
-$_['entry_password']     = 'Senha API:';
-$_['entry_signature']    = 'Assinatura API:';
+$_['entry_username']     = 'Usuário da API:';
+$_['entry_password']     = 'Senha da API:';
+$_['entry_signature']    = 'Assinatura da API:';
 $_['entry_test']         = 'Modo de Teste:';
 $_['entry_transaction']  = 'Método de Transação:';
 $_['entry_total']        = 'Total Mínimo:<br /><span class="help">Total mínimo que o pedido deve alcançar para que este método de pagamento seja habilitado.</span>'; 
@@ -23,7 +23,7 @@ $_['entry_sort_order']   = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']   = 'Atenção: Você não possui permissão para modificar o módulo PayPal Website Payment Pro!';
-$_['error_username']     = 'Atenção: O campo <b>Usuário API</b> tem seu preenchimento obrigatório!'; 
-$_['error_password']     = 'Atenção: O campo <b>Senha API</b> tem seu preenchimento obrigatório!'; 
-$_['error_signature']    = 'Atenção: O campo <b>Assinatura API</b> tem seu preenchimento obrigatório!'; 
+$_['error_username']     = 'Atenção: O campo <b>Usuário da API</b> tem seu preenchimento obrigatório!'; 
+$_['error_password']     = 'Atenção: O campo <b>Senha da API</b> tem seu preenchimento obrigatório!'; 
+$_['error_signature']    = 'Atenção: O campo <b>Assinatura da API</b> tem seu preenchimento obrigatório!'; 
 ?>

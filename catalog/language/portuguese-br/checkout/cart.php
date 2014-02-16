@@ -21,6 +21,17 @@ $_['text_shipping_estimate'] = 'Simular frete e taxas';
 $_['text_shipping_detail']   = 'Coloque o destino para simular o frete.';
 $_['text_shipping_method']   = 'Escolha o método de entrega que deseja para este pedido.';
 $_['text_empty']             = 'Você ainda não adicionou produtos.';
+$_['text_until_cancelled']   = 'Até ser cancelada';
+$_['text_recurring_item']    = 'Assinatura:';
+$_['text_payment_profile']   = 'Tipo de assintura';
+$_['text_trial_description'] = '%s a cada %d %s(s) repetido por %d vez(es) para avaliação.';
+$_['text_payment_description'] = '%s a cada %d %s(s) repetido por %d vez(es).';
+$_['text_payment_until_canceled_description'] = '%s a cada %d %s(s) até ser cancelado.';
+$_['text_day']               = 'dia';
+$_['text_week']              = 'semana';
+$_['text_semi_month']        = 'quinzena';
+$_['text_month']             = 'mês';
+$_['text_year']              = 'ano';
 
 // Column
 $_['column_image']           = 'Imagem';
@@ -53,4 +64,9 @@ $_['error_country']          = 'Atenção: Selecione um país!';
 $_['error_zone']             = 'Atenção: Selecione um estado!';
 $_['error_shipping']         = 'Atenção: É necessário escolher um método de entrega!';
 $_['error_no_shipping']      = 'Atenção: Não há opções de entrega disponíveis. Por favor, <a href="%s">contate-nos</a> para assistência!';
+$_['error_profile_required'] = 'Atenção: Selecione a assinatura!';
+
+$_['text_trial']             = '%s a cada %s %s repetido por %s vez(es) para avaliação ';
+$_['text_recurring']         = '%s a cada %s %s';
+$_['text_length']            = ' repetido %s vez(es)';
 ?>

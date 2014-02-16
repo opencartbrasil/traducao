@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']                  = 'PayPal';
+$_['heading_title']					 = 'PayPal Payment Standard';
 
 // Text 
 $_['text_payment']                   = 'Formas de Pagamento';
-$_['text_success']                   = 'Módulo PayPal modificado com sucesso!';
-$_['text_pp_standard']				 = '<a href="https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW" target="_blank"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_success']                   = 'Módulo PayPal Payment Standard modificado com sucesso!';
+$_['text_pp_standard']				 = '<a onclick="window.open(\'https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal Payments Standard" title="PayPal Payments Standard" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']             = 'Autorização';
 $_['text_sale']                      = 'Venda';
 
@@ -13,7 +13,7 @@ $_['text_sale']                      = 'Venda';
 $_['entry_email']                    = 'E-mail:';
 $_['entry_test']                     = 'Modo de Teste:';
 $_['entry_transaction']              = 'Método de Transação:';
-$_['entry_debug']		             = 'Modo de Debug:<br/><span class="help">Logs de informações adicionais para o sistema de log.</span>';
+$_['entry_debug']		             = 'Log de Depuração:<br/><span class="help">Logs de informações adicionais para o sistema de log.</span>';
 $_['entry_total']       			 = 'Total Mínimo:<br /><span class="help">Total mínimo que o pedido deve alcançar para que este método de pagamento seja habilitado.</span>'; 
 $_['entry_canceled_reversal_status'] = 'Situação do Cancelamento Revertido:<br /><span class="help">Isto significa que uma reversão foi cancelada, por exemplo, você, o comerciante, ganhou uma disputa com o cliente e os fundos para a operação, que foi revertida foram devolvidos.</span>';
 $_['entry_completed_status']         = 'Situação do Pedido Completo:';
@@ -30,6 +30,6 @@ $_['entry_status']                   = 'Situação:';
 $_['entry_sort_order']               = 'Ordem de Exibição:';
 
 // Error
-$_['error_permission']               = 'Atenção: Você não possui permissão para modificar o módulo PayPal!';
+$_['error_permission']               = 'Atenção: Você não possui permissão para modificar o módulo PayPal Payment Standard!';
 $_['error_email']                    = 'Atenção: O campo <b>E-mail</b> tem seu preenchimento obrigatório!'; 
 ?>

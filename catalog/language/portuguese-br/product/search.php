@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Busca';
- 
+
 // Text
 $_['text_search']       = 'Produtos que cumprem os critérios da busca';
 $_['text_keyword']      = 'Palavras-chave';

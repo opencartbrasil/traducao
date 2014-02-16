@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']    = 'Mapa da Loja';
- 
+
 // Text
 $_['text_special']     = 'Ofertas Especiais';
 $_['text_account']     = 'Minha Conta';

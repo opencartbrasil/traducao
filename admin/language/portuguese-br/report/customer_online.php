@@ -2,9 +2,9 @@
 // Heading
 $_['heading_title']     = 'Relatório de Clientes Online';
 
-// Text 
+// Text
 $_['text_guest']        = 'Visitante';
- 
+
 // Column
 $_['column_ip']         = 'IP';
 $_['column_customer']   = 'Cliente';

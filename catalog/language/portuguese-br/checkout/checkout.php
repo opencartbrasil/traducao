@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading W
 $_['heading_title']                  = 'Finalizar Compra';
 
 // Text
@@ -29,6 +29,17 @@ $_['text_address_existing']          = 'Quero utilizar um endereço já cadastra
 $_['text_shipping_method']           = 'Selecione a forma de entrega de sua preferência para este pedido.';
 $_['text_payment_method']            = 'Selecione a forma de pagamento de sua preferência para este pedido.';
 $_['text_comments']                  = 'Coloque aqui o comentário que você achar necessário sobre seu pedido.';
+
+$_['text_recurring_item']            = 'Assinatura:';
+$_['text_payment_profile']           = 'Assinatura';
+$_['text_trial_description']         = '%s a cada %d %s(s) repetido por %d vez(es) para avaliação';
+$_['text_payment_description']       = '%s a cada %d %s(s) repetido por %d vez(es)';
+$_['text_payment_until_canceled_description'] = '%s a cada %d %s(s) até ser cancelado.';
+$_['text_day']                       = 'dia';
+$_['text_week']                      = 'semana';
+$_['text_semi_month']                = 'quinzena';
+$_['text_month']                     = 'mês';
+$_['text_year']                      = 'ano';
 
 // Column
 $_['column_name']                    = 'Produto';
@@ -84,4 +95,8 @@ $_['error_shipping']                 = 'Atenção: Escolha uma forma de entrega!
 $_['error_no_shipping']              = 'Atenção: Não há opções de entrega disponíveis. Por favor, <a href="%s">contate-nos</a> para assistência.';
 $_['error_payment']                  = 'Atenção: Escolha uma forma de pagamento!';
 $_['error_no_payment']               = 'Atenção: Não há opções de pagamento disponíveis. Por favor, <a href="%s">contate-nos</a> para assistência.';
+
+$_['text_trial']                    = '%s a cada %s %s repetido por %s vez(es) para avaliação ';
+$_['text_recurring']                = '%s a cada %s %s';
+$_['text_length']                   = ' repetido %s vez(es)';
 ?>

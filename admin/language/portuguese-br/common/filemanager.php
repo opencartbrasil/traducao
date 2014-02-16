@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']    = 'Gerenciador de Arquivos';
- 
+
 // Text
 $_['text_uploaded']    = 'Arquivo enviado com sucesso!';
 $_['text_file_delete'] = 'Arquivo deletado com sucesso!';

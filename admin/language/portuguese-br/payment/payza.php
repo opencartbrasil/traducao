@@ -5,7 +5,7 @@ $_['heading_title']      = 'Payza';
 // Text 
 $_['text_payment']       = 'Formas de Pagamento';
 $_['text_success']       = 'Módulo Payza modificado com sucesso!';
-      
+
 // Entry
 $_['entry_merchant']     = 'ID do Comerciante:';
 $_['entry_security']     = 'Código de Segurança:';

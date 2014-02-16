@@ -8,7 +8,7 @@ $_['text_success']       = 'Módulo WorldPay modificado com sucesso!';
 $_['text_successful']    = 'Ativo - Sucesso';
 $_['text_declined']      = 'Ativo - Rejeitado';
 $_['text_off']           = 'Inativo';
-      
+
 // Entry
 $_['entry_merchant']     = 'ID do Comerciante:';
 $_['entry_password']     = 'Payment Response Password:<br /><span class="help">This has to be set in the WordPay control panel.</span>';

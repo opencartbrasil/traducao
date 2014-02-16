@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Produtos'; 
+$_['heading_title']          = 'Produtos';
 
 // Text  
 $_['text_success']           = 'Produto modificado com sucesso!';
@@ -74,6 +74,29 @@ $_['entry_related']			 = 'Produtos Relacionados:<br /><span class="help">Digite 
 $_['entry_tag']			     = 'Tags:<br /><span class="help">As tags ou etiquetas ajudam na busca pelo produto. Separe utilizando a vírgula ",".</span>';
 $_['entry_reward']           = 'Pontos por Fidelidade:';
 $_['entry_layout']           = 'Layout: Vai exibir os módulos vinculados ao layout escolhido, por padrão fica em branco.';
+
+$_['entry_profile']          = 'Assinatura:';
+
+$_['text_recurring_help']    = 'A assinatura é calculado pela frequência e ciclos.<br /> Por exemplo, se você usa uma frequência de "semana" e um ciclo de "2" , então o cliente será cobrado a cada 2 semanas.<br /> A duração é o número de vezes que o cliente vai fazer um pagamento, ajuste para 0 se você deseja pagamentos continuos até serem cancelados.';
+$_['text_recurring_title']   = 'Assinatura';
+$_['text_recurring_trial']   = 'Período de Teste';
+$_['entry_recurring']        = 'Assinatura:';
+$_['entry_recurring_price']  = 'Preço:';
+$_['entry_recurring_freq']   = 'Frequência:';
+$_['entry_recurring_cycle']  = 'Ciclo:<span class="help">Quantas vezes deve ser faturado, tem que ser 1 ou maior.</span>';
+$_['entry_recurring_length'] = 'Duração:<span class="help">0 = até ser cancelada.</span>';
+$_['entry_trial']            = 'Período de Teste:';
+$_['entry_trial_price']      = 'Preço:';
+$_['entry_trial_freq']       = 'Frequência:';
+$_['entry_trial_cycle']      = 'Ciclo:<span class="help">Quantas vezes deve ser faturado, tem que ser 1 ou maior.</span>';
+$_['entry_trial_length']     = 'Duração:<span class="help">0 = até ser cancelada.</span>';
+
+$_['text_length_day']        = 'Diária';
+$_['text_length_week']       = 'Semanal';
+$_['text_length_month']      = 'Mensal';
+$_['text_length_month_semi'] = 'Quinzenal';
+$_['text_length_year']       = 'Anual';
+
 
 // Error
 $_['error_warning']          = 'Atenção: Certifique-se de ter preenchido todos os campos obrigatórios e lembre-se, se você configurou mais de um idioma na loja é necessário preencher as informações em todos os idiomas obrigatoriamente!';

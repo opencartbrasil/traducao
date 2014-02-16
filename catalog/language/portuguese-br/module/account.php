@@ -17,4 +17,5 @@ $_['text_download']    = 'Meus Downloads';
 $_['text_return']      = 'Minhas Devoluções';
 $_['text_transaction'] = 'Créditos e Débitos';
 $_['text_newsletter']  = 'Meu Informativo';
+$_['text_recurring']   = 'Assinaturas';
 ?>
