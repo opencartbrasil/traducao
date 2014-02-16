@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']      = 'SagePay (US)';
+$_['heading_title']      = 'Sage Payment Solutions (US)';
 
 // Text 
 $_['text_payment']       = 'Formas de Pagamento'; 
-$_['text_success']       = 'Módulo SagePay (US) modificado com sucesso!';
+$_['text_success']       = 'Módulo Sage Payment Solutions (US) modificado com sucesso!';
 
 // Entry
 $_['entry_merchant_id']  = 'ID do Comerciante:';
@@ -16,7 +16,7 @@ $_['entry_status']       = 'Situação:';
 $_['entry_sort_order']   = 'Ordem de Exibição:'; 
 
 // Error
-$_['error_permission']   = 'Atenção: Você não possui permissão para modificar o módulo SagePay (US)!';
+$_['error_permission']   = 'Atenção: Você não possui permissão para modificar o módulo Sage Payment Solutions (US)!';
 $_['error_merchant_id']  = 'Atenção: O campo <b>ID do Comerciante</b> tem seu preenchimento obrigatório!';
 $_['error_merchant_key'] = 'Atenção: O campo <b>Chave do Comerciante</b> tem seu preenchimento obrigatório!';
 ?>

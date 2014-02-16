@@ -5,7 +5,7 @@ $_['heading_title']		 = 'PayPoint';
 // Text 
 $_['text_payment']		 = 'Formas de Pagamento';
 $_['text_success']		 = 'Módulo PayPoint modificado com sucesso!';
-$_['text_paypoint']		 = '<a onclick="window.open(\'https://www.paypoint.net/partners/opencart\');"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_paypoint']      = '<a href="https://www.paypoint.net/partners/opencart" target="_blank"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']			 = 'Produção';
 $_['text_successful']	 = 'Sucesso';
 $_['text_fail']			 = 'Falhou';

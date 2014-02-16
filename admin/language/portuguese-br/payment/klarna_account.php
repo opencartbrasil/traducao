@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']         = 'Klarna Invoice';
+$_['heading_title']         = 'Klarna Account';
 
 // Text
 $_['text_payment']          = 'Formas de Pagamento';
-$_['text_success']          = 'Módulo Klarna Invoice modificado com sucesso!';
-$_['text_klarna_invoice']   = '<a href="https://merchants.klarna.com/signup?locale=en&partner_id=d5c87110cebc383a826364769047042e777da5e8&utm_campaign=Platform&utm_medium=Partners&utm_source=Opencart" target="_blank"><img src="https://cdn.klarna.com/public/images/global/logos/v1/basic/global_basic_logo_std_blue-black.png?width=60&eid=opencart" alt="Klarna Invoice" title="Klarna Invoice" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_success']          = 'Módulo Klarna Account modificado com sucesso!';
+$_['text_klarna_account']   = '<a href="https://merchants.klarna.com/signup?locale=en&partner_id=d5c87110cebc383a826364769047042e777da5e8&utm_campaign=Platform&utm_medium=Partners&utm_source=Opencart" target="_blank"><img src="https://cdn.klarna.com/public/images/global/logos/v1/basic/global_basic_logo_std_blue-black.png?width=60&eid=opencart" alt="Klarna Account" title="Klarna Account" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']             = 'Produção';
 $_['text_beta']             = 'Teste';
 $_['text_sweden']           = 'Suécia';
@@ -27,7 +27,7 @@ $_['entry_status']          = 'Situação:';
 $_['entry_sort_order']      = 'Ordem de Exibição:';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não possui permissão para modificar o módulo Klarna Invoice!';
+$_['error_permission']      = 'Atenção: Você não possui permissão para modificar o módulo Klarna Account!';
 $_['error_pclass']          = 'Não foi possível recuperar pClass para %s. Código do Erro: %s; Mensagem: %s';
 $_['error_curl']            = 'Erros Curl - Código: %d; Mensagem: %s';
 $_['error_log']             = 'Houve erros na atualização do módulo. Por favor, verifique o arquivo de log.';

@@ -45,7 +45,6 @@ $_['entry_admin_limit']            = 'Itens por Página (Administração):<br />
 $_['entry_product_count']          = 'Qtd de Produtos no Departamento:<br /><span class="help">Exibir o número de produtos nos departamentos e subdepartamentos ? Ao desativar esta opção você pode melhorar o desempenho de sua loja.</span>';
 $_['entry_review']                 = 'Permitir Comentários:<br /><span class="help">Clientes podem fazer comentários sobre os produtos?</span>';
 $_['entry_download']               = 'Permitir Downloads:<br /><span class="help">Venda de downloads na(s) loja(s)?</span>';
-$_['entry_upload_allowed']         = 'Extensões Permitidas para Upload:<br /><span class="help">Adicionar quais extensões de arquivos são permitidos que os clientes enviem junto com o pedido de compra do produto. Use valores separados por vírgulas.</span>';
 $_['entry_voucher_min']            = 'Valor Mín. para Vale Presentes:<br /><span class="help">Valor mínimo para a compra de um vale presentes.</span>';
 $_['entry_voucher_max']            = 'Valor Máx. para Vale Presentes:<br /><span class="help">Valor máximo para a compra de um vale presentes.</span>';
 $_['entry_tax']                    = 'Exibir Preços com Impostos:<br /><span class="help">Exibir os preços dos produtos da loja já com os impostos?</span>';
@@ -70,6 +69,7 @@ $_['entry_stock_checkout']         = 'Venda sem Estoque:<br /><span class="help"
 $_['entry_stock_status']           = 'Situação do Estoque:<br /><span class="help">Situação padrão de estoque que aparecerá no cadastro de um novo produto.</span>';
 $_['entry_affiliate']              = 'Termos para Afiliado:<br /><span class="help">Termo que o candidato a afiliado deverá obrigatoriamente aceitar para cadastrar-se no Programa de Afiliados.</span>';
 $_['entry_commission']             = 'Comissão para Afiliados (%):<br /><span class="help">Valor percentual padrão que todos os afiliados receberão de comissão baseado no preço total do pedido.</span>';
+$_['entry_return']                 = 'Termos de Devolução:<br /><span class="help">Após selecionado, o cliente será forçado a concordar com os termos antes de solicitar a devolução.</span>';
 $_['entry_return_status']          = 'Situação da Devolução:<br /><span class="help">Situação padrão da devolução quando for feita uma solicitação pelo cliente.</span>';
 $_['entry_logo']                   = 'Logo da Loja:<br /><span class="help">Exibida no tema da loja e em e-mails que possuam este recurso.</span>';
 $_['entry_icon']                   = 'Favicon:<br /><span class="help">Exibido na barra de endereços do navegador. Deve ser uma imagem com extensão .png de 16x16 pixels.</span>';
@@ -82,6 +82,12 @@ $_['entry_image_related']          = 'Tamanho das imagens dos produtos relaciona
 $_['entry_image_compare']          = 'Tamanho das imagens dos produtos na Comparação:';
 $_['entry_image_wishlist']         = 'Tamanho das imagens dos produtos na Lista de Desejos:';
 $_['entry_image_cart']             = 'Tamanho das imagens miniatura dos produtos no carrinho:';
+$_['entry_ftp_host']               = 'Servidor FTP:';
+$_['entry_ftp_port']               = 'Porta FTP:';
+$_['entry_ftp_username']           = 'Usuário FTP:';
+$_['entry_ftp_password']           = 'Senha FTP:';
+$_['entry_ftp_root']               = 'Diretório FTP:<span class="help">O diretório de instalação do opencart, normalmente é: \'public_html/\'.</span>';
+$_['entry_ftp_status']             = 'Habilitar FTP:';
 $_['entry_mail_protocol']          = 'Protocolo de E-mail:<span class="help">Escolha "Mail" se seu servidor de hospedagem tiver suporte a função "Mail" do PHP, caso contrário utilize "SMTP".';
 $_['entry_mail_parameter']         = 'Parâmetros do Protocolo:<span class="help">Ex.: -r<br />Parâmetros adicionais para o protocolo "Mail", devem ser configurados aqui.';
 $_['entry_smtp_host']              = 'Servidor SMTP:';
@@ -92,19 +98,24 @@ $_['entry_smtp_timeout']           = 'Tempo de Conexão SMTP:';
 $_['entry_account_mail']           = 'Alerta de Nova Conta:<br /><span class="help">Avisar por e-mail quando uma nova conta for cadastrada?</span>';
 $_['entry_alert_mail']             = 'Alerta de Novo Pedido:<br /><span class="help">Avisar por e-mail quando um novo pedido for realizado?</span>';
 $_['entry_alert_emails']           = 'Alerta E-mails Adicionais:<br /><span class="help">Coloque os e-mails adicionais em que você também deseja receber mensagens de alerta, além do e-mail principal da loja. (Separados por vírgula)</span>';
-$_['entry_fraud_detection']        = 'Utilizar Sistema MaxMind Detecção de Fraude:<br /><span class="help">MaxMind é um serviço de detecção de fraude. Se você não possui uma chave de licença clique <a onclick="window.open(\'http://www.maxmind.com/?rId=opencart\');"><u>aqui</u></a>. Quando você obtiver a chave de licença, cole-a no campo abaixo.</span>';
+$_['entry_fraud_detection']        = 'Utilizar Sistema MaxMind Detecção de Fraude:<br /><span class="help">MaxMind é um serviço de detecção de fraude. Se você não possui uma chave de licença clique <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>aqui</u></a>. Quando você obtiver a chave de licença, cole-a no campo abaixo.</span>';
 $_['entry_fraud_key']              = 'Chave de Licença para o MaxMind:</span>';
 $_['entry_fraud_score']            = 'Pontos de Risco no MaxMind:<br /><span class="help">Quanto maior a pontuação, maior a possibilidade de fraude. Defina uma pontuação entre 0 - 100.</span>';
 $_['entry_fraud_status']           = 'MaxMind Situação do Pedido Fraudado:<br /><span class="help">Pedidos acima da pontuação serão atribuídos a esta situação e não serão liberados automaticamente.</span>';
-$_['entry_use_ssl']                = 'Utilizar SSL:<br /><span class="help">É necessário possuir um certificado SSL válido e instalado para o domínio da loja.</span>';
+$_['entry_secure']                 = 'Utilizar SSL:<br /><span class="help">É necessário possuir um certificado SSL válido e instalado para o domínio da loja e alterar os arquivos config.php.</span>';
+$_['entry_shared']                 = 'Utilizar Sessões Compartilhados:<br /><span class="help">Ativa o compartilhamento do cookie de sessão entre as lojas para que o carrinho possa ser utilizado em domínios diferentes.</span>';
+$_['entry_robots']                 = 'Robôs de Busca:<br /><span class="help">Lista de robôs de busca que não terão acesso as sessões compartilhadas. Digite um por linha.</span>';
 $_['entry_seo_url']                = 'Utilizar URL Amigável:<br /><span class="help">O módulo "mod-rewrite" do Apache deve estar instalado e o arquivo ".htaccess.txt" deve ser renomeado para ".htaccess" para que este recurso realmente funcione.</span>';
+$_['entry_file_extension_allowed'] = 'Extensões Permitidas:<br /><span class="help">Lista de extensões de arquivos que serão permitidas nos uploads na loja. Digite uma por linha.</span>';
+$_['entry_file_mime_allowed']      = 'Tipo de Arquivos Permitidos:<br /><span class="help">Lista de tipos de arquivos que serão permitidos nos uploads na loja. Digite um por linha.</span>';
 $_['entry_maintenance']            = 'Ativar Modo de Manutenção:<br /><span class="help">Fecha o acesso à loja para realização de manutenção. A loja continuará visível ao usuário logado como administrador.</span>';
+$_['entry_password']               = 'Habilitar Recuperação de Senha:<br /><span class="help">Habilita ou não a recuperação de senha na administração da loja. Este recurso será desativado automaticamente se o sistema identificar uma tentativa de invasão.</span>';
 $_['entry_encryption']             = 'Chave de Criptografia:<br /><span class="help">Chave secreta utilizada para encriptação dos dados durante as transações dos pedidos.</span>';
 $_['entry_compression']            = 'Nível de Compressão:<br /><span class="help">Compressão GZIP das páginas para maior eficiência. Nível de compressão deve estar entre 0 e 9. Só utilize se souber como funciona o GZIP.</span>';
 $_['entry_error_display']          = 'Exibir mensagens de Erro:<br /><span class="help">Exibir mensagens de erro na loja e na administração da loja.</span>';
 $_['entry_error_log']              = 'Registrar Erros:<br /><span class="help">Gravar erros da loja no Logs de Erros. (Sistema->Logs de Erros).</span>';
 $_['entry_error_filename']         = 'Nome do Arquivo de Log:<br /><span class="help">Ex.: error.txt<br />Nome do arquivo em que onde será armazendo os logs de erros.</span>';
-$_['entry_google_analytics']       = 'Código Google Analytics:<br /><span class="help">Acesse sua conta no Google Analytics, copie e cole o código fornecido neste campo para gerar estatísticas simples de acesso da sua loja.</span>';
+$_['entry_google_analytics']       = 'Código Google Analytics:<br /><span class="help">Acesse sua conta no <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, copie o código referente ao domínio de sua loja, e cole o código neste campo para gerar estatísticas simples de acesso da sua loja.</span>';
 
 // Error
 $_['error_warning']                = 'Atenção: Certifique-se de ter preenchido todos os campos obrigatórios!';
@@ -128,5 +139,10 @@ $_['error_image_related']          = 'Atenção: O campo <b>Tamanho das imagens 
 $_['error_image_compare']          = 'Atenção: O campo <b>Tamanho das imagens dos produtos na Comparação</b> tem seu preenchimento obrigatório!';
 $_['error_image_wishlist']         = 'Atenção: O campo <b>Tamanho das imagens dos produtos na Lista de Desejos</b> tem seu preenchimento obrigatório!';
 $_['error_image_cart']             = 'Atenção: O campo <b>Tamanho das imagens miniatura dos produtos no carrinho</b> tem seu preenchimento obrigatório!';
+$_['error_ftp_host']               = 'Atenção: O campo <b>Servidor FTP</b> é obrigatório!';
+$_['error_ftp_port']               = 'Atenção: O campo <b>Porta FTP</b> é obrigatório!';
+$_['error_ftp_username']           = 'Atenção: O campo <b>Usuário FTP</b> é obrigatório!';
+$_['error_ftp_password']           = 'Atenção: O campo <b>Senha FTP</b> é obrigatório!';
 $_['error_error_filename']         = 'Atenção: O campo <b>Nome do Arquivo de Log</b> tem seu preenchimento obrigatório!';
+$_['error_encryption']             = 'Atenção: O campo <b>Chave de Criptografia</b> deve ter entre 3 e 32 caracteres!';
 ?>

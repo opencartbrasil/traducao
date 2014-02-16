@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_refine']       = 'Filtrar';
+$_['text_refine']       = 'Subdepartamentos';
 $_['text_product']      = 'Produtos';
 $_['text_error']        = 'Departamento não encontrado!';
 $_['text_empty']        = 'Não há produtos para este departamento.';

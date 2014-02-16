@@ -11,7 +11,7 @@ $_['text_column_left']    = 'Coluna da Esquerda';
 $_['text_column_right']   = 'Coluna da Direita';
 
 // Entry
-$_['entry_code']          = 'Código Google Talk:<br /><span class="help">Vá em <a onclick="window.open(\'http://www.google.com/talk/service/badge/New\');"><u>Crie Google Talk chatback badge</u></a>, copie e cole o código gerado na caixa de texto ao lado.</span>';
+$_['entry_code']          = 'Código Google Talk:<br /><span class="help">Acesse <a href="http://www.google.com/talk/service/badge/New" target="_blank"><u>Create a Google Talk chatback badge</u></a>, copie e cole o código gerado na caixa de texto na página que vai ser carregada.</span>';
 $_['entry_layout']        = 'Layout:';
 $_['entry_position']      = 'Posição:';
 $_['entry_status']        = 'Situação:';

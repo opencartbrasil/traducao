@@ -22,7 +22,7 @@ $_['column_action']                = 'Ação';
 
 // Entry
 $_['entry_url']                    = 'URL da Loja:<br /><span class="help">URL completa para a sua loja. Certifique-se de adicionar \'/\' no final. Exemplo: "http://www.sualoja.com.br/". Não use os diretórios para criar uma nova loja. Você deve sempre apontar um outro domínio ou subdomínio.</span>';
-$_['entry_ssl']                    = 'URL para SSL:<br /><span class="help">URL SSL para a loja. Certifique-se de adicionar \'/\' no final. Exemplo: http://www.meudominio.com/caminho/<br /><br />Don\'t use directories to create a new store. Não use diretórios para criar uma nova loja. Você deve sempre apontar um outro domínio ou subdomínio para sua hospedagem.</span>';
+$_['entry_secure']                 = 'Utilizar SSL:<br /><span class="help">É necessário possuir um certificado SSL válido e instalado para o domínio da loja e alterar os arquivos config.php.</span>';
 $_['entry_name']                   = 'Nome Fantasia:<br /><span class="help">Se não houver pode ser um nome fictício para a loja.</span>';
 $_['entry_owner']                  = 'Razão Social:<br /><span class="help">Se não houver pode ser o nome do proprietário.</span>';
 $_['entry_address']                = 'Endereço:<br /><span class="help">Endereço completo da loja.</span>';

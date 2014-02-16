@@ -19,6 +19,8 @@ $_['text_customer']      = 'Cliente:';
 $_['text_comment']       = 'Comentários da Devolução';
 $_['text_history']       = 'Histórico da Devolução';
 $_['text_empty']         = 'Você ainda não fez nenhuma solicitação de devolução!';
+$_['text_agree']         = 'Eu li e concordo com os <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
+
 $_['text_error']         = 'A solicitação de devolução que você está procurando não foi encontrada!';
 
 // Column
@@ -49,13 +51,15 @@ $_['entry_fault_detail'] = 'Defeitos e Outros Detalhes:';
 $_['entry_captcha']      = 'Insira o código da imagem no campo abaixo:';
 
 // Error
-$_['error_order_id']     = 'O Nº do pedido é obrigatório!';
+$_['text_error']         = 'O número do pedido solicitado não foi identificado em nosso sistema!';
+$_['error_order_id']     = 'O Pedido Nº é obrigatório!';
 $_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
 $_['error_lastname']     = 'O sobrenome deve ter entre 10 e 32 caracteres!!';
 $_['error_email']        = 'O e-mail não é válido!';
 $_['error_telephone']    = 'O telefone deve ter entre 3 e 32 caracteres!';
-$_['error_product']      = 'O nome do produto deve ser maior que 3 e menor que 255 caracteres!!';
+$_['error_product']      = 'O nome do produto deve ser maior que 3 e menor que 255 caracteres!';
 $_['error_model']        = 'O modelo do produto deve ser maior que 3 e menor que 64 caracteres!';
 $_['error_reason']       = 'Você deve selecionar um motivo para a devolução!';
 $_['error_captcha']      = 'O código digitado não corresponde a imagem!';
+$_['error_agree']        = 'Atenção: Você deve concordar com os %s!';
 ?>

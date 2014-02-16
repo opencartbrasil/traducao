@@ -5,7 +5,7 @@ $_['heading_title']                  = 'PayPal';
 // Text 
 $_['text_payment']                   = 'Formas de Pagamento';
 $_['text_success']                   = 'Módulo PayPal modificado com sucesso!';
-$_['text_pp_standard']               = '<a onclick="window.open(\'https://www.paypal.com/pt/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_pp_standard']				 = '<a href="https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW" target="_blank"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']             = 'Autorização';
 $_['text_sale']                      = 'Venda';
 

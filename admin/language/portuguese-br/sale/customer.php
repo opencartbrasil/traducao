@@ -8,8 +8,8 @@ $_['text_default']          = 'Padrão';
 $_['text_approved']         = 'Você aprovou a conta de %s!';
 $_['text_wait']            	= 'Por favor aguarde...';
 $_['text_balance']          = 'Saldo:';
-$_['text_add_blacklist']    = 'Bloquear IP';
-$_['text_remove_blacklist'] = 'Remover IP';
+$_['text_add_ban_ip']       = 'Bloquear IP';
+$_['text_remove_ban_ip']    = 'Remover IP';
 
 // Column
 $_['column_name']           = 'Cliente';
@@ -19,6 +19,7 @@ $_['column_status']         = 'Situação';
 $_['column_login']          = 'Entrar na Loja';
 $_['column_approved']       = 'Aprovado';
 $_['column_date_added']     = 'Data da Criação';
+$_['column_comment']        = 'Comentário';
 $_['column_description']    = 'Descrição';
 $_['column_amount']         = 'Valor';
 $_['column_points']         = 'Pontos de Fidelidade';
@@ -47,9 +48,10 @@ $_['entry_postcode']        = 'CEP:';
 $_['entry_country']         = 'País:';
 $_['entry_zone']            = 'Estado:';
 $_['entry_default']         = 'Endereço Padrão:';
+$_['entry_comment']         = 'Comentário:';
+$_['entry_description']     = 'Descrição:';
 $_['entry_amount']          = 'Valor:';
 $_['entry_points']          = 'Pontos de Fidelidade:<span class="help">Use menos para remover pontos.</span>';
-$_['entry_description']     = 'Descrição:';
 
 // Error
 $_['error_warning']         = 'Atenção: Verifique cuidadosamente o formulário para evitar erros!';
