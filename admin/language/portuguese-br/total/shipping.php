@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Simular Frete';
+$_['heading_title']    = 'Frete';
 
 // Text
 $_['text_total']       = 'Finalização do Pedido';

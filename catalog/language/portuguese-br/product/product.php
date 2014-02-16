@@ -15,7 +15,8 @@ $_['text_option']       = 'Opções Disponíveis';
 $_['text_qty']          = 'Qtd:';
 $_['text_minimum']      = 'Este produto tem uma quantidade mínima de %s para venda';
 $_['text_or']           = '- OU -';
-$_['text_reviews']      = '%s comentários'; 
+$_['text_reviews']      = '%s comentários';
+$_['text_on']           = ' em ';
 $_['text_write']        = 'Fazer um comentário';
 $_['text_no_reviews']   = 'Não há comentários para este produto.';
 $_['text_note']         = '<span style="color: #FF0000;">Obs:</span> Não há suporte para o uso de tags HTML.';
@@ -46,6 +47,6 @@ $_['error_text']        = 'Atenção: Seu comentário deve ter entre 25 e 1000 c
 $_['error_rating']      = 'Atenção: Selecione uma classificação para a avaliação!';
 $_['error_captcha']     = 'Atenção: O código digitado não é o mesmo da imagem!';
 $_['error_upload']      = 'Atenção: É necessário enviar um arquivo!';
-$_['error_filename']    = 'Atenção: O nome do arquivo deve ter entre 3 e 128 caracteres!';
+$_['error_filename']    = 'Atenção: O nome do arquivo deve ter entre 3 e 64 caracteres!';
 $_['error_filetype']    = 'Atenção: O tipo de arquivo é inválido!';
 ?>

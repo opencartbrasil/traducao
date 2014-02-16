@@ -3,8 +3,8 @@
 $_['heading_title']        = 'Informativo';
 
 // Text 
-$_['text_success']         = 'Seu informativo foi enviado com sucesso!';
-$_['text_sent']            = 'Your message has been successfully sent to %s of %s recipetants!';
+$_['text_success']         = 'O informativo foi enviado com sucesso!';
+$_['text_sent']            = 'O informativo foi enviado com sucesso para %s de %s destinatários!';
 $_['text_default']         = 'Padrão';
 $_['text_newsletter']      = 'Todos os Assinantes do Informativo';
 $_['text_customer_all']    = 'Todos os Clientes';

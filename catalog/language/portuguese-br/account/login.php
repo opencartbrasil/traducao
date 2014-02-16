@@ -18,4 +18,5 @@ $_['entry_password']               = 'Sua senha:';
 
 // Error
 $_['error_login']                  = 'Atenção: E-mail ou senha incorreto(s), ou sua conta ainda não foi ativada.';
+$_['error_approved']               = 'Atenção: O seu cadastro necessita ser aprovado para que você tenha acesso ao serviços de nossa loja.'; 
 ?>

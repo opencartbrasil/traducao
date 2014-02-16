@@ -1,6 +1,4 @@
 <?php
 // Entry
-$_['entry_postcode'] = 'CEP:';
-$_['entry_country']  = 'País:';
-$_['entry_zone']     = 'Estado:';
+$_['text_title'] = 'Cartão de Crédito / Débito (Google Checkout)';
 ?>
