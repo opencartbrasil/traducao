@@ -38,6 +38,7 @@ $_['entry_status']        = 'Situação:';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não possui permissão para modificar os Cupons!';
+$_['error_exists']        = 'Atenção: O código do cupom já está em uso!';
 $_['error_name']          = 'Atenção: O campo <b>Cupom</b> deve ter entre 3 e 64 caracteres!';
 $_['error_code']          = 'Atenção: O campo <b>Código</b> deve ter entre 3 e 10 caracteres!';
 ?>

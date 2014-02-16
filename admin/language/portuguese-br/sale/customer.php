@@ -8,6 +8,8 @@ $_['text_default']          = 'Padrão';
 $_['text_approved']         = 'Você aprovou a conta de %s!';
 $_['text_wait']            	= 'Por favor aguarde...';
 $_['text_balance']          = 'Saldo:';
+$_['text_add_blacklist']    = 'Bloquear IP';
+$_['text_remove_blacklist'] = 'Remover IP';
 
 // Column
 $_['column_name']           = 'Cliente';
@@ -44,7 +46,7 @@ $_['entry_country']         = 'País:';
 $_['entry_zone']            = 'Estado:';
 $_['entry_default']         = 'Endereço Padrão:';
 $_['entry_amount']          = 'Valor:';
-$_['entry_points']          = 'Pontos de Fidelidade:';
+$_['entry_points']          = 'Pontos de Fidelidade:<span class="help">Use menos para remover pontos.</span>';
 $_['entry_description']     = 'Descrição:';
 
 // Error

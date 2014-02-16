@@ -13,7 +13,6 @@ $_['text_sale']                      = 'Venda';
 $_['entry_email']                    = 'E-mail:';
 $_['entry_test']                     = 'Modo de Teste:';
 $_['entry_transaction']              = 'Método de Transação:';
-$_['entry_pdt_token']	             = 'PDT Token:<br/><span class="help">Pagamento de Transferência de Dados Token é utilizado para aumentar a segurança e confiabilidade. Saiba como habilitar o PDT clicando <a href="https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=developer/howto_html_paymentdatatransfer" alt="">aqui</a></span>';
 $_['entry_debug']		             = 'Modo de Debug:<br/><span class="help">Logs de informações adicionais para o sistema de log.</span>';
 $_['entry_total']       			 = 'Total Mínimo:<br /><span class="help">Total mínimo que o pedido deve alcançar para que este método de pagamento seja habilitado.</span>'; 
 $_['entry_canceled_reversal_status'] = 'Situação do Cancelamento Revertido:<br /><span class="help">Isto significa que uma reversão foi cancelada, por exemplo, você, o comerciante, ganhou uma disputa com o cliente e os fundos para a operação, que foi revertida foram devolvidos.</span>';

@@ -1,6 +1,6 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Afiliado';
+$_['heading_title']    = 'Minha Conta';
 
 // Text
 $_['text_register']    = 'Cadastrar';

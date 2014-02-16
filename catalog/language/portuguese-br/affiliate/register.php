@@ -14,7 +14,7 @@ $_['text_your_password']        = 'Senha para Acesso';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Transferência Bancária';
-$_['text_agree']                = 'Li e aceitos os <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_agree']                = 'Li e aceitos os <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
 $_['entry_firstname']           = 'Nome:';

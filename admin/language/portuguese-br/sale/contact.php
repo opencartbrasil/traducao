@@ -4,6 +4,7 @@ $_['heading_title']        = 'Informativo';
 
 // Text 
 $_['text_success']         = 'Seu informativo foi enviado com sucesso!';
+$_['text_sent']            = 'Your message has been successfully sent to %s of %s recipetants!';
 $_['text_default']         = 'Padrão';
 $_['text_newsletter']      = 'Todos os Assinantes do Informativo';
 $_['text_customer_all']    = 'Todos os Clientes';
@@ -17,8 +18,8 @@ $_['text_product']         = 'Produtos';
 $_['entry_store']          = 'De:';
 $_['entry_to']             = 'Para:';
 $_['entry_customer_group'] = 'Grupo de Clientes:';
-$_['entry_customer']       = 'Cliente:';
-$_['entry_affiliate']      = 'Afiliado';
+$_['entry_customer']       = 'Cliente:<span class="help">Utiliza auto-completar.</span>';
+$_['entry_affiliate']      = 'Afiliado:<span class="help">Utiliza auto-completar.</span>';
 $_['entry_product']        = 'Produto:<br /><span class="help">Enviar apenas para os clientes que encomendaram os produtos da lista.</span>';
 $_['entry_subject']        = 'Assunto:';
 $_['entry_message']        = 'Mensagem:';

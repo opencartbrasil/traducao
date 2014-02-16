@@ -13,7 +13,6 @@ $_['text_all_status']   = 'Todas as Situações';
 $_['column_date_start'] = 'Data Inicial';
 $_['column_date_end']   = 'Data Final';
 $_['column_returns']    = 'Devoluções';
-$_['column_products']   = 'Produtos';
 
 // Entry
 $_['entry_date_start']  = 'Início:';

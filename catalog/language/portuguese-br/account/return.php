@@ -5,10 +5,10 @@ $_['heading_title']      = 'Devoluções';
 // Text
 $_['text_account']       = 'Minha Conta';
 $_['text_return']        = 'Informações da Devolução';
+$_['text_return_detail'] = 'Detalhes da Devolução';
 $_['text_description']   = '<p>Por favor, complete o formulário para obter um número de RMA (Retorno de Mercadoria Adquirida).</p>';
 $_['text_order']         = 'Informações do Pedido';
 $_['text_product']       = 'Informações do Produto e Motivo da Devolução';
-$_['text_additional']    = 'Informações Adicionais';
 $_['text_message']       = '<p>Obrigado. Sua solicitação de devolução foi enviada para o departamento responsável.</p><p> Você receberá notificações via e-mail sobre a situação de sua solicitação.</p>';
 $_['text_return_id']     = 'Devolução Nº:';
 $_['text_order_id']      = 'Pedido Nº:';
@@ -17,13 +17,12 @@ $_['text_status']        = 'Situação:';
 $_['text_date_added']    = 'Adicionada em:';
 $_['text_customer']      = 'Cliente:';
 $_['text_comment']       = 'Comentários da Devolução';
-$_['text_products']      = 'Produtos:';
 $_['text_history']       = 'Histórico da Devolução';
 $_['text_empty']         = 'Você ainda não fez nenhuma solicitação de devolução!';
 $_['text_error']         = 'A solicitação de devolução que você está procurando não foi encontrada!';
 
 // Column
-$_['column_name']        = 'Produto';
+$_['column_product']     = 'Produto';
 $_['column_model']       = 'Modelo';
 $_['column_quantity']    = 'Quantidade';
 $_['column_price']       = 'Preço';
@@ -55,8 +54,7 @@ $_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
 $_['error_lastname']     = 'O sobrenome deve ter entre 10 e 32 caracteres!!';
 $_['error_email']        = 'O e-mail não é válido!';
 $_['error_telephone']    = 'O telefone deve ter entre 3 e 32 caracteres!';
-$_['error_product']      = 'Você deve selecionar pelo menos um produto!';
-$_['error_name']         = 'O nome do produto deve ser maior que 3 e menor que 255 caracteres!!';
+$_['error_product']      = 'O nome do produto deve ser maior que 3 e menor que 255 caracteres!!';
 $_['error_model']        = 'O modelo do produto deve ser maior que 3 e menor que 64 caracteres!';
 $_['error_reason']       = 'Você deve selecionar um motivo para a devolução!';
 $_['error_captcha']      = 'O código digitado não corresponde a imagem!';

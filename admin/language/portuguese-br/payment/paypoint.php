@@ -12,6 +12,7 @@ $_['text_fail']			 = 'Falhou';
 
 // Entry
 $_['entry_merchant']	 = 'ID do Comerciante:';
+$_['entry_password']     = 'Senha Remota:<br /><span class="help">Deixe esvazia se você não tem "Digest Key Authentication" habilitada em sua conta.</span>';
 $_['entry_test']		 = 'Modo de Teste:';
 $_['entry_total']        = 'Total Mínimo:<br /><span class="help">Total mínimo que o pedido deve alcançar para que este método de pagamento seja habilitado.</span>'; 
 $_['entry_order_status'] = 'Situação do Pedido:';

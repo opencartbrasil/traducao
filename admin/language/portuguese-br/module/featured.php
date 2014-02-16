@@ -12,6 +12,7 @@ $_['text_column_right']   = 'Coluna da Direita';
 
 // Entry
 $_['entry_product']       = 'Produtos:';
+$_['entry_limit']         = 'Limite:';
 $_['entry_image']         = 'Imagem (L x A):';
 $_['entry_layout']        = 'Layout:';
 $_['entry_position']      = 'Posição:';

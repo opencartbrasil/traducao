@@ -10,7 +10,7 @@ $_['text_your_details']    = 'Detalhes Pessoais';
 $_['text_your_address']    = 'Dados do Endereço';
 $_['text_newsletter']      = 'Informativo da Loja';
 $_['text_your_password']   = 'Senha para Acesso';
-$_['text_agree']           = 'Li e aceito os <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_agree']           = 'Li e aceito os <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
 $_['entry_firstname']      = 'Nome:';

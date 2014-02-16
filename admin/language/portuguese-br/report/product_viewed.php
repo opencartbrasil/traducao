@@ -3,7 +3,7 @@
 $_['heading_title']  = 'Relatório de Produtos Visualizados';
 
 // Text
-$_['text_success']   = 'Sucesso: Você zerou o relatório de visualização de produtos!';
+$_['text_success']   = 'Você zerou o relatório de visualização de produtos!';
 
 // Column
 $_['column_name']    = 'Produto';
