@@ -9,7 +9,7 @@ $_['text_uninstall']	= 'Desinstalar';
 // Column
 $_['column_name']		= 'Recurso de Finalização';
 $_['column_status']		= 'Situação';
-$_['column_sort_order']	= 'Ordem';
+$_['column_sort_order']	= 'Ordem de Exibição';
 $_['column_action']		= 'Ação';
 
 // Error

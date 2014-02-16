@@ -25,7 +25,7 @@ $_['entry_keyword']          = 'URL Amigável:<br/><span class="help">Lembre-se 
 $_['entry_image']            = 'Imagem do Departamento:<span class="help">Clique em "Localizar" para enviar/selecionar uma imagem para representar este departamento.</span>';
 $_['entry_top']              = 'Menu Superior:<br/><span class="help">Marque se deseja exibir na barra de menu superior. Só funciona com departamento pai.</span>';
 $_['entry_column']           = 'Colunas:<br/><span class="help">Número de colunas que vão aparecer no departamento do menu superior. Só funciona com departamento pai.</span>';
-$_['entry_sort_order']       = 'Ordem:';
+$_['entry_sort_order']       = 'Ordem de Exibição:';
 $_['entry_status']           = 'Situação:';
 $_['entry_layout']           = 'Layout: Vai exibir os módulos vinculados ao layout escolhido, por padrão fica em branco.';
 

@@ -18,7 +18,7 @@ $_['entry_store']		= 'Loja:';
 $_['entry_keyword']     = 'URL Amigável:<br/><span class="help">Lembre-se que deve ser uma palavra única para toda a loja e não deve conter espaços, acentos ou ç.</span>';
 $_['entry_bottom']      = 'Exibição no Rodapé:<br/><span class="help">Exibe link para a página no rodapé da loja.</span>';
 $_['entry_status']		= 'Situação:';
-$_['entry_sort_order']	= 'Ordem:<br/><span class="help">Coloque -1 para não exibir na listagem.</span>';
+$_['entry_sort_order']	= 'Ordem de Exibição:<br/><span class="help">Coloque -1 para não exibir na listagem.</span>';
 $_['entry_layout']      = 'Layout:Vai exibir os módulos vinculados ao layout escolhido, por padrão fica em branco.';
 
 // Error 

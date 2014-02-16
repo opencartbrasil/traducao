@@ -25,7 +25,7 @@ $_['entry_weight_class']                     = 'Unidade de Peso:';
 $_['entry_tax_class']                        = 'Grupo de Impostos:';
 $_['entry_geo_zone']                         = 'Região Geográfica:';
 $_['entry_status']                           = 'Situação:';
-$_['entry_sort_order']                       = 'Ordem:';
+$_['entry_sort_order']                       = 'Ordem de Exibição:';
 
 // Tab
 $_['tab_1st_class_standard']                 = 'First Class Standard Post';

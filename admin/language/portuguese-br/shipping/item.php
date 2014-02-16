@@ -11,7 +11,7 @@ $_['entry_cost']       = 'Valor por Item:<br /><span class="help">Valor a ser co
 $_['entry_tax_class']  = 'Grupo de Impostos:';
 $_['entry_geo_zone']   = 'Região Geográfica:';
 $_['entry_status']     = 'Situação:';
-$_['entry_sort_order'] = 'Ordem:';
+$_['entry_sort_order'] = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Frete por Itens!';

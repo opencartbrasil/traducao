@@ -15,7 +15,7 @@ $_['entry_layout']        = 'Layout:';
 $_['entry_position']      = 'Posição:';
 $_['entry_count']    	  = 'Quantidade:';
 $_['entry_status']        = 'Situação:';
-$_['entry_sort_order']    = 'Ordem:';
+$_['entry_sort_order']    = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não possui permissão para modificar o módulo Menu Departamentos!';

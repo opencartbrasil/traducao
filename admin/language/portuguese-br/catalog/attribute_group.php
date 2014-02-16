@@ -12,7 +12,7 @@ $_['column_action']     = 'Ação';
 
 // Entry
 $_['entry_name']        = 'Grupo de Atributos:';
-$_['entry_sort_order']  = 'Ordem:';
+$_['entry_sort_order']  = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar os grupos de atributos!';

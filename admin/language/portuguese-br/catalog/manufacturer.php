@@ -21,7 +21,7 @@ $_['entry_name']		 = 'Fabricante:';
 $_['entry_store']		 = 'Loja:<br/><span class="help">Selecione a(s) loja(s) em que o fabricante será exibido.</span>';
 $_['entry_keyword']      = 'URL Amigável:<br/><span class="help">Lembre-se que deve ser uma palavra única para toda a loja e não deve conter espaços, acentos ou ç.</span>';
 $_['entry_image']        = 'Imagem do Fabricante:<span class="help">Clique em "Localizar" para enviar/selecionar uma imagem para representar este fabricante.</span>';
-$_['entry_sort_order']	 = 'Ordem:';
+$_['entry_sort_order']	 = 'Ordem de Exibição:';
 $_['entry_type']         = 'Tipo:';
 
 // Error

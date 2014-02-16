@@ -12,7 +12,7 @@ $_['entry_total']        = 'Total Mínimo:<br /><span class="help">Total mínimo
 $_['entry_order_status'] = 'Situação do Pedido:';
 $_['entry_geo_zone']	 = 'Região Geográfica:';
 $_['entry_status']		 = 'Situação:';
-$_['entry_sort_order']	 = 'Ordem:';
+$_['entry_sort_order']	 = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']	 = 'Atenção: Você não possui permissão para modificar o módulo Depósito ou Transferência Bancária!';

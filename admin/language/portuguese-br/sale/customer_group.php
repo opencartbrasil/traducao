@@ -7,7 +7,7 @@ $_['text_success']              = 'Grupo de Clientes modificado com sucesso!';
 
 // Column
 $_['column_name']               = 'Grupo de Clientes';
-$_['column_sort_order']         = 'Ordem';
+$_['column_sort_order']         = 'Ordem de Exibição';
 $_['column_action']             = 'Ação';
 
 // Entry
@@ -18,7 +18,7 @@ $_['entry_company_id_display']  = 'Exibir IE ou RG:<br /><span class="help">Exib
 $_['entry_company_id_required'] = 'IE ou RG Obrigatório:<br /><span class="help">Exigir que o cliente preencha este campo?</span>';
 $_['entry_tax_id_display']      = 'Exibir CNPJ ou CPF:<br /><span class="help">Exibir no cadastro do cliente o campo?</span>';
 $_['entry_tax_id_required']     = 'CNPJ ou CPF Obrigatório:<br /><span class="help">Exigir que o cliente preencha este campo?</span>';
-$_['entry_sort_order']          = 'Ordem:';
+$_['entry_sort_order']          = 'Ordem de Exibição:';
 
 
 // Error

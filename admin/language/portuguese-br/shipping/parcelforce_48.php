@@ -15,7 +15,7 @@ $_['entry_display_time']      = 'Tempo Estimado:<br /><span class="help">Deseja 
 $_['entry_tax_class']         = 'Grupo de Impostos:';
 $_['entry_geo_zone']          = 'Região Geográfica:';
 $_['entry_status']            = 'Situação:';
-$_['entry_sort_order']        = 'Ordem:';
+$_['entry_sort_order']        = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']        = 'Atenção: Você não possui permissão para modificar o módulo Parcelforce 48!';

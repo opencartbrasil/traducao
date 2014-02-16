@@ -49,6 +49,7 @@ $_['text_report_sale_return']          = 'Devoluções';
 $_['text_report_sale_coupon']          = 'Cupons';
 $_['text_report_product_viewed']       = 'Visualizações';
 $_['text_report_product_purchased']    = 'Comprados';
+$_['text_report_customer_online']      = 'Online';
 $_['text_report_customer_order']       = 'Pedidos';
 $_['text_report_customer_reward']      = 'Pontos de Fidelidade';
 $_['text_report_customer_credit']      = 'Créditos';

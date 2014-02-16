@@ -52,6 +52,7 @@ $_['entry_tax']                    = 'Exibir Preços com Impostos:<br /><span cl
 $_['entry_vat']                    = 'Validar Número VAT (IVA):<br /><span class="help">Validar o número VAT (IVA) com o serviço http://ec.europa.eu ?</span>';
 $_['entry_tax_default']            = 'Utilizar Endereço da Loja para Cálculo de Impostos:<br /><span class="help">Utilize o endereço da loja para calcular impostos caso o cliente não esteja logado. Você pode optar por utilizar como endereço de envio ou de pagamento.</span>';
 $_['entry_tax_customer']           = 'Utilizar Endereço do Cliente para Cálculo de Impostos:<br /><span class="help">Utilize o endereço padrão do cliente quando ele logar para calcular os impostos. Você pode optar por utilizar como endereço de envio ou de pagamento.</span>';
+$_['entry_customer_online']        = 'Clientes Online:<br /><span class="help">Monitorar o acesso de clientes via relatório de clientes online?</span>';
 $_['entry_customer_group']         = 'Grupo de Clientes:<br /><span class="help">Grupo de clientes padrão no cadastro de clientes da loja.</span>';
 $_['entry_customer_group_display'] = 'Grupos de Clientes:<br /><span class="help">Caso marque mais de um grupo, o seu cliente poderá selecionar em que grupo deseja se cadastrar.</span>';
 $_['entry_customer_price']         = 'Autenticar para Exibir Preços:<br /><span class="help">Só exibir os preços dos produtos quando o cliente estiver autenticado na loja?</span>';

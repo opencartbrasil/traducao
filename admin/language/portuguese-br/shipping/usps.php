@@ -65,7 +65,7 @@ $_['entry_weight_class']    = 'Unidade de Peso:<br /><span class="help">Recomend
 $_['entry_tax']             = 'Classe de Impostos:';
 $_['entry_geo_zone']        = 'Região Geográfica:';
 $_['entry_status']          = 'Situação:';
-$_['entry_sort_order']      = 'Ordem:';
+$_['entry_sort_order']      = 'Ordem de Exibição:';
 $_['entry_debug']      		= 'Modo de Debug:<br /><span class="help">Salvar e enviar/receber dados de log do sistema</span>';
 
 // Error

@@ -8,7 +8,7 @@ $_['text_success']		= 'Idioma modificado com sucesso!';
 // Column
 $_['column_name']		= 'Idioma';
 $_['column_code']		= 'Código';
-$_['column_sort_order']	= 'Ordem';
+$_['column_sort_order']	= 'Ordem de Exibição';
 $_['column_action']		= 'Ação';
 
 // Entry
@@ -19,7 +19,7 @@ $_['entry_image']		= 'Imagem:<br /><span class="help">Ex.: br.png</span>';
 $_['entry_directory']	= 'Pasta:<br /><span class="help">Ex.: protuguese-br<br />Diretório onde estão os arquivos do idioma (case-sensitive).</span>';
 $_['entry_filename']	= 'Nome do Arquivo:<br /><span class="help">Ex.: protuguese-br<br />Nome do arquivo de configurações do idioma sem a extensão ".php".</span>';
 $_['entry_status']		= 'Situação:';
-$_['entry_sort_order']	= 'Ordem:';
+$_['entry_sort_order']	= 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']	= 'Atenção: Você não possui permissão para modificar os idiomas!';
