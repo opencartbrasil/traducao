@@ -1,0 +1,123 @@
+<?php
+// Heading
+$_['heading_title']           = 'Pedidos';
+
+// Text
+$_['text_success']            = 'Pedido modificado com sucesso!';
+$_['text_order_id']           = 'Pedido Nº:';
+$_['text_invoice_no']         = 'Fatura Nº:';
+$_['text_invoice_date']       = 'Data da Fatura:';
+$_['text_store_name']         = 'Loja:';
+$_['text_store_url']          = 'URL da Loja:';
+$_['text_customer']           = 'Cliente:';
+$_['text_customer_group']     = 'Grupo do Cliente:';
+$_['text_email']              = 'E-mail:';
+$_['text_ip']                 = 'Endereço IP:';
+$_['text_telephone']          = 'Telefone:';
+$_['text_fax']                = 'Fax:';
+$_['text_shipping_method']    = 'Método de Envio:';
+$_['text_payment_method']     = 'Método de Pagamento:';
+$_['text_total']              = 'Total Original do Pedido:';
+$_['text_reward']             = 'Pontos de Fidelidade:';
+$_['text_order_status']       = 'Situação do Pedido:';
+$_['text_comment']            = 'Comentários:';
+$_['text_affiliate']          = 'Afiliado:';
+$_['text_commission']         = 'Comissão:';
+$_['text_date_added']         = 'Data da Criação:';
+$_['text_date_modified']      = 'Última Modificação:';
+$_['text_firstname']          = 'Nome:';
+$_['text_lastname']           = 'Sobrenome:';
+$_['text_company']            = 'Empresa:';
+$_['text_address_1']          = 'Endereço, número:';
+$_['text_address_2']          = 'Bairro:';
+$_['text_postcode']           = 'CEP:';
+$_['text_city']               = 'Cidade:';
+$_['text_zone']               = 'Estado:';
+$_['text_zone_code']          = 'Sigla do Estado:';
+$_['text_country']            = 'País:';
+$_['text_download']           = 'Downloads';
+$_['text_invoice']            = 'Fatura';
+$_['text_to']                 = 'Para';
+$_['text_ship_to']            = 'Enviar Para (se endereço for diferente)';
+$_['text_abandoned_orders']   = 'Pedidos Abandonados';
+$_['text_default']            = 'Padrão';
+$_['text_wait']               = 'Aguarde!';
+$_['text_create_invoice_no']  = 'Criar Nº da Fatura';
+$_['text_reward_add']         = 'Adicionar Pontos de Fidelidade';
+$_['text_reward_added']       = 'Pontos de Fidelidade Adicionados!';
+$_['text_reward_remove']      = 'Remover Pontos de Fidelidade';
+$_['text_reward_removed']     = 'Pontos de Fidelidade Removidos!';
+$_['text_commission_add']     = 'Adicionar Comissão';
+$_['text_commission_added']   = 'Comissão Adicionada!"';
+$_['text_commission_remove']  = 'Remover Comissão';
+$_['text_commission_removed'] = 'Comissão Removida!';
+$_['text_credit_add']         = 'Adicionar Crédito';
+$_['text_credit_added']       = 'Crédito Adicionado!';
+$_['text_credit_remove']      = 'Remover Crédito';
+$_['text_credit_removed']     = 'Crédito Removido!';
+$_['text_upload']             = 'Seu arquivo foi enviado com sucesso!';
+
+// Column
+$_['column_order_id']         = 'Pedido Nº';
+$_['column_customer']         = 'Cliente';
+$_['column_status']           = 'Situação';
+$_['column_date_added']       = 'Data da Criação';
+$_['column_date_modified']    = 'Data da Modificação';
+$_['column_total']            = 'Total';
+$_['column_product']          = 'Produto';
+$_['column_model']            = 'Modelo';
+$_['column_quantity']         = 'Quantidade';
+$_['column_price']            = 'Unitário';
+$_['column_download']         = 'Download';
+$_['column_filename']         = 'Nome do Arquivo';
+$_['column_remaining']        = 'Downloads Restantes';
+$_['column_comment']          = 'Comentário';
+$_['column_notify']           = 'Cliente Notificado';
+$_['column_action']           = 'Ação';
+
+// Entry
+$_['entry_store']             = 'Loja:';
+$_['entry_customer']          = 'Cliente:';
+$_['entry_customer_group']    = 'Grupo de Clientes:';
+$_['entry_firstname']         = 'Nome:';
+$_['entry_lastname']          = 'Sobrenome:';
+$_['entry_email']             = 'E-mail:';
+$_['entry_telephone']         = 'Telefone:';
+$_['entry_fax']               = 'Fax:';
+$_['entry_address']           = 'Escolher Endereço:';
+$_['entry_company']           = 'Empresa:';
+$_['entry_address_1']         = 'Endereço, número:';
+$_['entry_address_2']         = 'Bairro:';
+$_['entry_city']              = 'Cidade:';
+$_['entry_postcode']          = 'CEP:';
+$_['entry_country']           = 'País:';
+$_['entry_zone']              = 'Estado:';
+$_['entry_zone_code']         = 'Sigla do Estado:';
+$_['entry_product']           = 'Produto:';
+$_['entry_option']            = 'Opção(ões) Escolhidas:';
+$_['entry_quantity']          = 'Quantidade:';
+$_['entry_affiliate']         = 'Afiliado:';
+$_['entry_order_status']      = 'Situação do Pedido:';
+$_['entry_notify']            = 'Notificar Cliente:';
+$_['entry_comment']           = 'Comentário:';
+$_['entry_shipping']          = 'Forma de Envio:';
+$_['entry_payment']           = 'Forma de Pagamento:';
+
+// Error
+$_['error_permission']        = 'Atenção: Você não possui permissão para modificar os Pedidos!';
+$_['error_firstname']         = 'Atenção: O campo <b>Nome</b> deve ter entre 1 e 32 caracteres!';
+$_['error_lastname']          = 'Atenção: O campo <b>Sobrenome</b> deve ter entre 1 e 32 caracteres!';
+$_['error_email']             = 'Atenção: O e-mail fornecido parece não ser válido!';
+$_['error_telephone']         = 'Atenção: O campo <b>Telefone</b> deve ter entre 3 e 32 caracteres!';
+$_['error_password']          = 'Atenção: O campo <b>Senha</b> deve ter entre 4 e 20 caracteres!';
+$_['error_confirm']           = 'Atenção: A senha repetida não foi confirmada!';
+$_['error_address_1']         = 'Atenção: O campo <b>Endereço, número</b> deve ter entre 3 e 128 caracteres!';
+$_['error_city']              = 'Atenção: O campo <b>Cidade</b> deve ter entre 2 e 128 caracteres!';
+$_['error_postcode']          = 'Atenção: O campo <b>CEP</b> deve ter 8 caracteres!';
+$_['error_country']           = 'Atenção: Selecione um País!';
+$_['error_zone']              = 'Atenção: Selecione um Estado!';
+$_['error_upload']            = 'Atenção: O Upload é obrigatório!';
+$_['error_filename']          = 'Atenção: O nome do arquivo deve ter entre 3 e 128 caracteres!';
+$_['error_filetype']          = 'Atenção: O tipo de arquivo não é válido!';
+$_['error_action']            = 'Atenção: Não foi possível concluir esta ação!';
+?>
