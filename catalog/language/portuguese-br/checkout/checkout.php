@@ -1,5 +1,5 @@
 <?php
-// Heading W
+// Heading
 $_['heading_title']                  = 'Finalizar Compra';
 
 // Text
