@@ -13,7 +13,7 @@ $_['text_login']             = 'Atenção: Acesse sua <a href="%s">conta</a> ou 
 $_['text_points']            = 'Pontos de fidelidade: %s';
 $_['text_items']             = '%s item(ns) - %s';
 $_['text_next']              = 'O que você gostaria de fazer em seguida?';
-$_['text_next_choice']       = 'Escolha se você tem um código de desconto ou pontos de fidelidade, ou se gostaria de calcular o custo do entrega.';
+$_['text_next_choice']       = 'Escolha se você tem um código de desconto ou pontos de fidelidade, ou se gostaria de calcular o custo da entrega.';
 $_['text_use_coupon']        = 'Utilizar cupom';
 $_['text_use_voucher']       = 'Utilizar vale presentes';
 $_['text_use_reward']        = 'Utilizar pontos de fidelidade (%s disponíveis)';
