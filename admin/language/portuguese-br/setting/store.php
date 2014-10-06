@@ -17,7 +17,7 @@ $_['text_payment']                 = 'Endereço de Pagamento';
 
 // Column
 $_['column_name']                  = 'Loja';
-$_['column_url']	               = 'URL da Loja';
+$_['column_url']	                 = 'Url da Loja';
 $_['column_action']                = 'Ação';
 
 // Entry
