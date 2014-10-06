@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Frete Fixo';
+$_['heading_title']    = 'Flat Rate';
 
 // Text
-$_['text_shipping']    = 'Formas de Envio';
-$_['text_success']     = 'Módulo Frete Fixo modificado com sucesso!';
+$_['text_shipping']    = 'Shipping';
+$_['text_success']     = 'Success: You have modified flat rate shipping!';
+$_['text_edit']        = 'Edit Flat Rate Shipping';
 
 // Entry
-$_['entry_cost']       = 'Valor Fixo:<br /><span class="help">Valor fixo a ser cobrado pelo envio de todos os itens do pedido.</span>';
-$_['entry_tax_class']  = 'Grupo de Impostos:';
-$_['entry_geo_zone']   = 'Região Geográfica:';
-$_['entry_status']     = 'Situação:';
-$_['entry_sort_order'] = 'Ordem de Exibição:';
+$_['entry_cost']       = 'Cost';
+$_['entry_tax_class']  = 'Tax Class';
+$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_status']     = 'Status';
+$_['entry_sort_order'] = 'Sort Order';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Frete Fixo!';
-?>
+$_['error_permission'] = 'Warning: You do not have permission to modify flat rate shipping!';

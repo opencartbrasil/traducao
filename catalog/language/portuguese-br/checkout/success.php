@@ -1,11 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'O Pedido foi Cadastrado!';
+$_['heading_title']        = 'Your order has been placed!';
 
 // Text
-$_['text_customer'] = '<p>Seu pedido foi processado com sucesso!</p><p>Caso tenha criado uma conta você pode ver o histórico dos seus pedidos acessando <a href="%s">sua conta</a> e clicando em <a href="%s">Histórico de Pedidos</a>.</p><p>Se seu pedido está associado a downloads, acesse os <a href="%s">Meus Downloads</a> para vê-los.</p><p>Por favor, entre em contato conosco caso tenha dúvidas clicando <a href="%s">aqui</a>.</p><p>Obrigado por comprar em nossa loja!</p>';
-$_['text_guest']    = '<p>Seu pedido foi processado com sucesso!</p><p>Caso você tenha dúvidas entre em contato conosco clicando <a href="%s">aqui</a>.</p><p>Obrigado por comprar em nossa loja!</p>';
-$_['text_basket']   = 'Meu Carrinho';
-$_['text_checkout'] = 'Finalizar Compra';
-$_['text_success']  = 'Sucesso';
-?>
+$_['text_basket']          = 'Shopping Cart';
+$_['text_checkout']        = 'Checkout';
+$_['text_success']         = 'Success';
+$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';

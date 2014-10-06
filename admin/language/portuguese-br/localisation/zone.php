@@ -1,28 +1,30 @@
 <?php
 // Heading
-$_['heading_title']			 = 'Estados';
+$_['heading_title']          = 'Estados';
 
 // Text
-$_['text_success']			 = 'Estado modificado com sucesso!';
+$_['text_success']           = 'Estado modificado com sucesso!';
+$_['text_list']              = 'Listando estados';
+$_['text_add']               = 'Novo estado';
+$_['text_edit']              = 'Editando estado';
 
 // Column
-$_['column_name']			 = 'Estado';
-$_['column_code']			 = 'Sigla';
-$_['column_country']		 = 'País';
-$_['column_action']			 = 'Ação';
+$_['column_name']            = 'Estado';
+$_['column_code']            = 'Código';
+$_['column_country']         = 'País';
+$_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_status']			 = 'Situação:';
-$_['entry_name']			 = 'Estado:';
-$_['entry_code']			 = 'Sigla:';
-$_['entry_country']			 = 'País:';
+$_['entry_status']           = 'Situação';
+$_['entry_name']             = 'Estado';
+$_['entry_code']             = 'Código';
+$_['entry_country']          = 'País';
 
 // Error
-$_['error_permission']		 = 'Atenção: Você não possui permissão para modificar os estados!';
-$_['error_name']			 = 'Atenção: O campo <b>Estado</b> deve ter entre 3 e 128 caracteres!';
-$_['error_default']			 = 'Atenção: Este estado não pode ser excluído, pois está vinculado como estado padrão da loja!';
-$_['error_store']			 = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s loja(s)!';
-$_['error_address']			 = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s cadastro(s) de endereço!';
-$_['error_affiliate']        = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s cadastro(s) de afiliado(s)!';
-$_['error_zone_to_geo_zone'] = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s região(ões) geográfica(s)!';
-?>
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar os estados!';
+$_['error_name']             = 'A estado deve ter entre 3 e 128 caracteres!';
+$_['error_default']          = 'Atenção: Este estado não pode ser excluído, pois ele está definido como o estado padrão!';
+$_['error_store']            = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s lojas!';
+$_['error_address']          = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s endereços!';
+$_['error_affiliate']        = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s afiliados!';
+$_['error_zone_to_geo_zone'] = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s regiões!';

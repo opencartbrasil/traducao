@@ -1,25 +1,20 @@
 <?php
-//Headings
-$_['lang_title']                    = 'OpenBay Pro for Amazon US | Stock updates';
+// Heading
+$_['heading_title']        				= 'Stock updates';
+$_['text_openbay']						= 'OpenBay Pro';
+$_['text_amazon']						= 'Amazon US';
 
-//Text
-$_['lang_stock_updates']            = 'Stock updates';
-$_['lang_openbay']                  = 'OpenBay Pro';
-$_['lang_overview']                 = 'Amazon US Overview';
-$_['lang_my_account']               = 'My account';
-$_['lang_btn_return']               = 'Cancel';
+// Text
+$_['text_empty']                    	= 'No results!';
 
-//Table columns
-$_['lang_ref']                      = 'Ref';
-$_['lang_date_requested']           = 'Date requested';
-$_['lang_date_updated']             = 'Date updated';
-$_['lang_status']                   = 'Status';
-$_['lang_sku']                      = 'Amazonus SKU';
-$_['lang_stock']                    = 'Stock';
+// Entry
+$_['entry_date_start']               	= 'Date Start';
+$_['entry_date_end']                 	= 'Date End';
 
-//Table headings
-$_['lang_empty']                    = 'No results!';
-$_['lang_date_start']               = 'Date Start:';
-$_['lang_date_end']                 = 'Date End:';
-$_['lang_filter_btn']               = 'Filter';
-?>
+// Column
+$_['column_ref']                      	= 'Ref';
+$_['column_date_requested']           	= 'Date requested';
+$_['column_date_updated']             	= 'Date updated';
+$_['column_status']                   	= 'Status';
+$_['column_sku']                      	= 'Amazon SKU';
+$_['column_stock']                    	= 'Stock';

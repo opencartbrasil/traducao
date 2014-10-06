@@ -1,15 +1,14 @@
 <?php
-// Heading 
-$_['heading_title']      = 'Indicações';
+// Heading
+$_['heading_title']      = 'Your Transactions';
 
 // Column
-$_['column_date_added']  = 'Adicionado em';
-$_['column_description'] = 'Descrição';
-$_['column_amount']      = 'Montante (%s)';
+$_['column_date_added']  = 'Date Added';
+$_['column_description'] = 'Description';
+$_['column_amount']      = 'Amount (%s)';
 
 // Text
-$_['text_account']       = 'Painel de Afiliado';
-$_['text_transaction']   = 'Indicações';
-$_['text_balance']       = 'Seu saldo atual é:';
-$_['text_empty']         = 'Você ainda não tem nenhuma indicação!';
-?>
+$_['text_account']       = 'Account';
+$_['text_transaction']   = 'Your Transactions';
+$_['text_balance']       = 'Your current balance is:';
+$_['text_empty']         = 'You do not have any transactions!';

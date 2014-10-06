@@ -1,20 +1,23 @@
 <?php
 // Heading
-$_['heading_title']		 = 'Depósito ou Transferência Bancária';
+$_['heading_title']					= 'Bank Transfer';
 
-// Text 
-$_['text_payment']		 = 'Formas de Pagamento';
-$_['text_success']		 = 'Módulo Depósito ou Transferência Bancária modificado com sucesso!';
+// Text
+$_['text_payment']					= 'Payment';
+$_['text_success']					= 'Success: You have modified bank transfer details!';
+$_['text_edit']                     = 'Edit Bank Transfer';
 
 // Entry
-$_['entry_bank']		 = 'Instruções:';
-$_['entry_total']        = 'Total Mínimo:<br /><span class="help">Total mínimo que o pedido deve alcançar para que este método de pagamento seja habilitado.</span>'; 
-$_['entry_order_status'] = 'Situação do Pedido:';
-$_['entry_geo_zone']	 = 'Região Geográfica:';
-$_['entry_status']		 = 'Situação:';
-$_['entry_sort_order']	 = 'Ordem de Exibição:';
+$_['entry_bank']					= 'Bank Transfer Instructions';
+$_['entry_total']					= 'Total';
+$_['entry_order_status']			= 'Order Status';
+$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_status']					= 'Status';
+$_['entry_sort_order']				= 'Sort Order';
+
+// Help
+$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Atenção: Você não possui permissão para modificar o módulo Depósito ou Transferência Bancária!';
-$_['error_bank']		 = 'Atenção: O campo <b>Instruções</b> tem seu preenchimento obrigatório!';
-?>
+$_['error_permission']				= 'Warning: You do not have permission to modify payment bank transfer!';
+$_['error_bank']					= 'Bank Transfer Instructions Required!';

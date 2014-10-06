@@ -1,61 +1,52 @@
 <?php
 // Text
-$_['text_search']       = 'Busca';
-$_['text_brand']        = 'Fabricantes';
-$_['text_manufacturer'] = 'Fabricante:';
-$_['text_model']        = 'Modelo:';
-$_['text_reward']       = 'Pontos pela Compra:'; 
-$_['text_points']       = 'Pontos necessários para comprar:';
-$_['text_stock']        = 'Disponibilidade:';
-$_['text_instock']      = 'Em Estoque';
-$_['text_price']        = 'Preço:'; 
-$_['text_tax']          = 'Sem Impostos:';  
-$_['text_discount']     = '%s ou mais %s';
-$_['text_option']       = 'Opções Disponíveis';
-$_['text_qty']          = 'Qtd:';
-$_['text_minimum']      = 'Este produto tem uma quantidade mínima de %s para venda';
-$_['text_or']           = '- OU -';
-$_['text_reviews']      = '%s comentários';
-$_['text_on']           = ' em ';
-$_['text_write']        = 'Fazer um comentário';
-$_['text_no_reviews']   = 'Não há comentários para este produto.';
-$_['text_note']         = '<span style="color: #FF0000;">Obs:</span> Não há suporte para o uso de tags HTML.';
-$_['text_share']        = 'Compartilhe';
-$_['text_success']      = 'Obrigado por seu comentário. Ele foi enviado para aprovação.';
-$_['text_upload']       = 'Seu arquivo foi enviado com sucesso!';
-$_['text_wait']         = 'Por favor, aguarde.';
-$_['text_tags']         = 'Tags:';
-$_['text_error']        = 'Produto não encontrado!';
-$_['text_payment_profile'] = 'Tipo de Assintura';
-$_['text_trial_description'] = '%s a cada %d %s(s) repetido por %d vez(es) para avaliação.';
-$_['text_payment_description'] = '%s a cada %d %s(s) repetido por %d vez(es).';
-$_['text_payment_until_canceled_description'] = '%s a cada %d %s(s) até ser cancelado.';
-$_['text_day']          = 'dia';
-$_['text_week']         = 'semana';
-$_['text_semi_month']   = 'meio mês';
-$_['text_month']        = 'mês';
-$_['text_year']         = 'ano';
+$_['text_search']                             = 'Search';
+$_['text_brand']                              = 'Brand';
+$_['text_manufacturer']                       = 'Brand:';
+$_['text_model']                              = 'Product Code:';
+$_['text_reward']                             = 'Reward Points:';
+$_['text_points']                             = 'Price in reward points:';
+$_['text_stock']                              = 'Availability:';
+$_['text_instock']                            = 'In Stock';
+$_['text_tax']                                = 'Ex Tax:';
+$_['text_discount']                           = ' or more ';
+$_['text_option']                             = 'Available Options';
+$_['text_minimum']                            = 'This product has a minimum quantity of %s';
+$_['text_reviews']                            = '%s reviews';
+$_['text_write']                              = 'Write a review';
+$_['text_login']                              = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
+$_['text_no_reviews']                         = 'There are no reviews for this product.';
+$_['text_note']                               = '<span class="text-danger">Note:</span> HTML is not translated!';
+$_['text_success']                            = 'Thank you for your review. It has been submitted to the webmaster for approval.';
+$_['text_related']                            = 'Related Products';
+$_['text_tags']                               = 'Tags:';
+$_['text_error']                              = 'Product not found!';
+$_['text_payment_recurring']                    = 'Payment Profiles';
+$_['text_trial_description']                  = '%s every %d %s(s) for %d payment(s) then';
+$_['text_payment_description']                = '%s every %d %s(s) for %d payment(s)';
+$_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
+$_['text_day']                                = 'day';
+$_['text_week']                               = 'week';
+$_['text_semi_month']                         = 'half-month';
+$_['text_month']                              = 'month';
+$_['text_year']                               = 'year';
 
 // Entry
-$_['entry_name']        = 'Seu Nome:';
-$_['entry_review']      = 'Seu Comentário:';
-$_['entry_rating']      = 'Avaliação:';
-$_['entry_good']        = 'Bom';
-$_['entry_bad']         = 'Ruim';
-$_['entry_captcha']     = 'Digite o código da imagem:';
+$_['entry_qty']                               = 'Qty';
+$_['entry_name']                              = 'Your Name';
+$_['entry_review']                            = 'Your Review';
+$_['entry_rating']                            = 'Rating';
+$_['entry_good']                              = 'Good';
+$_['entry_bad']                               = 'Bad';
+$_['entry_captcha']                           = 'Enter the code in the box below';
 
 // Tabs
-$_['tab_description']   = 'Descrição';
-$_['tab_attribute']     = 'Especificação';
-$_['tab_review']        = 'Comentários (%s)';
-$_['tab_related']       = 'Produtos Relacionados'; 
+$_['tab_description']                         = 'Description';
+$_['tab_attribute']                           = 'Specification';
+$_['tab_review']                              = 'Reviews (%s)';
 
 // Error
-$_['error_name']        = 'Atenção: Seu nome deve ter entre 3 e 25 caracteres!';
-$_['error_text']        = 'Atenção: Seu comentário deve ter entre 25 e 1000 caracteres!';
-$_['error_rating']      = 'Atenção: Selecione uma classificação para a avaliação!';
-$_['error_captcha']     = 'Atenção: O código digitado não é o mesmo da imagem!';
-$_['error_upload']      = 'Atenção: É necessário enviar um arquivo!';
-$_['error_filename']    = 'Atenção: O nome do arquivo deve ter entre 3 e 64 caracteres!';
-$_['error_filetype']    = 'Atenção: O tipo de arquivo é inválido!';
-?>
+$_['error_name']                              = 'Warning: Review Name must be between 3 and 25 characters!';
+$_['error_text']                              = 'Warning: Review Text must be between 25 and 1000 characters!';
+$_['error_rating']                            = 'Warning: Please select a review rating!';
+$_['error_captcha']                           = 'Warning: Verification code does not match the image!';

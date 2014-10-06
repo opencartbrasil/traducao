@@ -1,18 +1,29 @@
 <?php
-$_['lang_openbay']              = 'OpenBay Pro';
-$_['lang_page_title']           = 'OpenBay Pro for eBay';
-$_['lang_ebay']                 = 'eBay';
-$_['lang_heading']              = 'Syncronise';
-$_['lang_btn_return']           = 'Return';
-$_['lang_legend_ebay_sync']     = 'Sync with eBay';
-$_['lang_sync_desc']            = 'You need to sync your store with the latest available shipping options and categories from eBay, this data is only for the options when listing an item to eBay - it will not import categories to your store etc. <br /><strong>You should update these frequently to ensure you always have the latest data from eBay.</strong>';
-$_['lang_sync_cats_lbl']        = 'Get main categories<span class="help">This does not import any categories to your store!</span>';
-$_['lang_sync_shop_lbl']        = 'Get shop categories<span class="help">This does not import any categories to your store!</span>';
-$_['lang_sync_setting_lbl']     = 'Get settings<span class="help">This imports available payment types, shipping, locations and more.</span>';
-$_['lang_sync_btn']             = 'Update';
-$_['lang_ajax_ebay_categories'] = 'This may take a while, wait 5 minutes before you do anything else.';
-$_['lang_ajax_cat_import']      = 'Your eBay shop categories have been imported.';
-$_['lang_ajax_setting_import']  = 'Your settings have been imported.';
-$_['lang_ajax_setting_import_e']= 'There was an error loading the settings.';
-$_['lang_ajax_load_error']      = 'Error connecting to the server';
-?>
+// Heading
+$_['heading_title']           	= 'Syncronise';
+$_['text_openbay']              = 'OpenBay Pro';
+$_['text_ebay']                 = 'eBay';
+
+// Buttons
+$_['button_update']				= 'Update';
+
+// Entry
+$_['entry_sync_categories']     = 'Get main eBay categories';
+$_['entry_sync_shop']        	= 'Get you shop categories';
+$_['entry_sync_setting']     	= 'Get settings';
+
+// Text
+$_['text_complete']             = 'Complete';
+$_['text_sync_desc']            = 'Sync your store with the latest available shipping and categories options from eBay, this data is only for the options when listing an item to eBay - it will not import categories to your store etc.';
+$_['text_ebay_categories'] 		= 'This may take a while, wait 5 minutes before you do anything else.';
+$_['text_category_import']      = 'Your eBay shop categories have been imported.';
+$_['text_setting_import']  		= 'Your settings have been imported.';
+
+// Help
+$_['help_sync_categories']   	= 'This does not import any categories to your store!';
+$_['help_sync_shop']   			= 'This does not import any categories to your store!';
+$_['help_sync_setting']			= 'This imports available payment types, shipping, locations and more.';
+
+// Errors
+$_['error_settings']			= 'There was an error loading the settings.';
+$_['error_failed']              = 'Failed to load';

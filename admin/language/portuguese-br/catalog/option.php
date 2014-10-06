@@ -4,38 +4,37 @@ $_['heading_title']       = 'Opções';
 
 // Text
 $_['text_success']        = 'Opção modificada com sucesso!';
-$_['text_choose']         = 'Escolha';
-$_['text_select']         = 'Menu de Seleção';
-$_['text_radio']          = 'Única Seleção';
-$_['text_checkbox']       = 'Múltipla Seleção';
+$_['text_list']           = 'Listando opções';
+$_['text_add']            = 'Nova opção';
+$_['text_edit']           = 'Editando opção';
+$_['text_choose']         = 'Com opção de seleção';
+$_['text_select']         = 'Menu de seleção';
+$_['text_radio']          = 'Única seleção';
+$_['text_checkbox']       = 'Multipla seleção';
 $_['text_image']          = 'Imagem';
-$_['text_input']          = 'Entrada';
-$_['text_text']           = 'Texto';
-$_['text_textarea']       = 'Texto Longo';
-$_['text_file']           = 'Arquivo';
+$_['text_input']          = 'Campo de texto simples';
+$_['text_text']           = 'Texto em uma linha';
+$_['text_textarea']       = 'Texto em várias linhas';
+$_['text_file']           = 'Upload';
 $_['text_date']           = 'Data';
-$_['text_datetime']       = 'Data e Hora';
+$_['text_datetime']       = 'Data e hora';
 $_['text_time']           = 'Hora';
-$_['text_image_manager']  = 'Gerenciador de Arquivos';
-$_['text_browse']         = 'Localizar';
-$_['text_clear']          = 'Apagar';
 
 // Column
-$_['column_name']		  = 'Opção';
-$_['column_sort_order']	  = 'Ordem';
-$_['column_action']		  = 'Ação';
+$_['column_name']         = 'Opção';
+$_['column_sort_order']   = 'Ordem na lista';
+$_['column_action']       = 'Ação';
 
 // Entry
-$_['entry_name']          = 'Opção:';
-$_['entry_type']          = 'Tipo:';
-$_['entry_image']         = 'Imagem:';
-$_['entry_option_value']  = 'Valor da Opção:';
-$_['entry_sort_order']    = 'Ordem de Exibição:';
+$_['entry_name']          = 'Opção';
+$_['entry_type']          = 'Tipo de opção';
+$_['entry_option_value']  = 'Valor';
+$_['entry_image']         = 'Imagem';
+$_['entry_sort_order']    = 'Ordem na lista';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar as opções!';
-$_['error_name']          = 'O campo <b>Opção</b> deve ter entre 1 e 128 caracteres!';
-$_['error_type']          = 'Atenção: Você deve adicionar pelo menos um valor para a opção!';
-$_['error_option_value']  = 'O campo <b>Valor da Opção</b> deve ter entre 1 e 128 caracteres!';
-$_['error_product']       = 'Atenção: Esta opção não pode ser excluída, pois está vinculado a %s produto(s)!';
-?>
+$_['error_name']          = 'A opção deve ter entre 1 e 128 caracteres!';
+$_['error_type']          = 'O tipo de opção é obrigatório!';
+$_['error_option_value']  = 'O valor deve ter entre 1 e 128 caracteres!';
+$_['error_product']       = 'Atenção: Esta opção não pode ser excluída, pois está vinculada a %s produtos!';

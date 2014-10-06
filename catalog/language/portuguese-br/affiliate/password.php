@@ -1,17 +1,16 @@
 <?php
-// Heading 
-$_['heading_title']  = 'Alterar Senha';
+// Heading
+$_['heading_title']  = 'Change Password';
 
 // Text
-$_['text_account']   = 'Painel de Afiliado';
-$_['text_password']  = 'Coloque abaixo a nova senha que você deseja utilizar';
-$_['text_success']   = 'Senha alterada com sucesso!';
+$_['text_account']   = 'Account';
+$_['text_password']  = 'Your Password';
+$_['text_success']   = 'Success: Your password has been successfully updated.';
 
 // Entry
-$_['entry_password'] = 'Nova Senha:';
-$_['entry_confirm']  = 'Repetir a Senha:';
+$_['entry_password'] = 'Password';
+$_['entry_confirm']  = 'Password Confirm';
 
 // Error
-$_['error_password'] = 'A senha deve possuir entre 3 e 20 caracteres!';
-$_['error_confirm']  = 'A senha repetida não foi confirmada!';
-?>
+$_['error_password'] = 'Password must be between 4 and 20 characters!';
+$_['error_confirm']  = 'Password confirmation does not match password!';

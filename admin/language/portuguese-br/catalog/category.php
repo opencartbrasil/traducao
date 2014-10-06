@@ -4,34 +4,41 @@ $_['heading_title']          = 'Departamentos';
 
 // Text
 $_['text_success']           = 'Departamento modificado com sucesso!';
+$_['text_list']              = 'Listando departamentos';
+$_['text_add']               = 'Novo departamento';
+$_['text_edit']              = 'Editando departamento';
 $_['text_default']           = 'Padrão';
-$_['text_image_manager']     = 'Gerenciador de Arquivos';
-$_['text_browse']            = 'Localizar';
-$_['text_clear']             = 'Apagar';
 
 // Column
 $_['column_name']            = 'Departamento';
-$_['column_sort_order']      = 'Ordem';
+$_['column_sort_order']      = 'Ordem na lista';
 $_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_name']             = 'Departamento:';
-$_['entry_meta_keyword']	 = 'Meta Palavras-Chave:<br/><span class="help">São palavras que serão colocadas automaticamente no HTML da página do departamento com o fim de melhorar os resultados em buscadores.</span>';
-$_['entry_meta_description'] = 'Meta Descrição:<span class="help">É uma descrição que será colocada automaticamente no HTML da página do departamento com o fim de fornecer um resumo da página em buscadores.</span>';
-$_['entry_description']		 = 'Descrição:<span class="help">Informações sobre a categoria.</span>';
-$_['entry_parent']           = 'Departamento Pai:<span class="help">Selecione um departamento caso este departamento pertença a um outro departamento já existente.</span>';
-$_['entry_filter']           = 'Filtros:<br /><span class="help">Digite o nome do filtro já cadastrado para selecioná-lo a partir do sistema de autocompletar.</span>';
-$_['entry_store']            = 'Loja:';
-$_['entry_keyword']          = 'URL Amigável:<br/><span class="help">Lembre-se que deve ser uma palavra única para toda a loja e não deve conter espaços, acentos ou ç.</span>';
-$_['entry_image']            = 'Imagem do Departamento:<span class="help">Clique em "Localizar" para enviar/selecionar uma imagem para representar este departamento.</span>';
-$_['entry_top']              = 'Menu Superior:<br/><span class="help">Marque se deseja exibir na barra de menu superior. Só funciona com departamento pai.</span>';
-$_['entry_column']           = 'Colunas:<br/><span class="help">Número de colunas que vão aparecer no departamento do menu superior. Só funciona com departamento pai.</span>';
-$_['entry_sort_order']       = 'Ordem de Exibição:';
-$_['entry_status']           = 'Situação:';
-$_['entry_layout']           = 'Layout: Vai exibir os módulos vinculados ao layout escolhido, por padrão fica em branco.';
+$_['entry_name']             = 'Departamento';
+$_['entry_description']      = 'Descrição';
+$_['entry_meta_title'] 	     = 'Meta título';
+$_['entry_meta_keyword'] 	 = 'Meta palavras-chaves';
+$_['entry_meta_description'] = 'Meta descrição';
+$_['entry_keyword']          = 'Url amigável';
+$_['entry_parent']           = 'Departamento pai';
+$_['entry_filter']           = 'Filtros';
+$_['entry_store']            = 'Lojas';
+$_['entry_image']            = 'Imagem';
+$_['entry_top']              = 'Exibir no menu superior?';
+$_['entry_column']           = 'Colunas';
+$_['entry_sort_order']       = 'Ordem na lista';
+$_['entry_status']           = 'Situação';
+$_['entry_layout']           = 'Layout substituto';
 
-// Error 
-$_['error_warning']          = 'Atenção: Certifique-se de ter preenchido todos os campos obrigatórios e lembre-se, se você configurou mais de um idioma deve preencher as informações em todos os idiomas obrigatoriamente!';
+// Help
+$_['help_filter']            = '(autocompletar)';
+$_['help_keyword']           = 'Não utilize espaços, substituir os espaços por - e certifique-se que a palavra é globalmente exclusiva.';
+$_['help_top']               = 'A exibição no menu superior, só funciona para os departamentos pai.';
+$_['help_column']            = 'O número de colunas para organizar os departamentos inferiores em até 3 níveis. Só funciona para os departamentos pai.';
+
+// Error
+$_['error_warning']          = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
 $_['error_permission']       = 'Atenção: Você não tem permissão para modificar os departamentos!';
-$_['error_name']             = 'O campo <b>Departamento</b> deve ter entre 2 e 32 caracteres!';
-?>
+$_['error_name']             = 'O departamento deve ter entre 2 e 32 caracteres!';
+$_['error_meta_title']       = 'O meta título deve ter entre 3 e 255 caracteres!';

@@ -1,4 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Pagamento Grátis';
-?>
+$_['text_title'] = 'Free Checkout';

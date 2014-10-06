@@ -1,7 +1,6 @@
 <?php
 // Text
-$_['text_title']       = 'Depósito ou Transferência Bancária';
-$_['text_instruction'] = 'Instruções para o pagamento por depósito ou transferência bancária';
-$_['text_description'] = 'Deposite ou transfira o valor total do pedido para:';
-$_['text_payment']     = 'Após o depósito ou transferência, envie a cópia do comprovante respondendo o e-mail com dados do pedido que você receberá.';
-?>
+$_['text_title']				= 'Bank Transfer';
+$_['text_instruction']			= 'Bank Transfer Instructions';
+$_['text_description']			= 'Please transfer the total amount to the following bank account.';
+$_['text_payment']				= 'Your order will not ship until we receive payment.';

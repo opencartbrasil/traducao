@@ -1,9 +1,8 @@
 <?php
-// Heading 
-$_['heading_title'] = 'Sair';
+// Heading
+$_['heading_title'] = 'Account Logout';
 
 // Text
-$_['text_message']  = '<p>Você saiu de sua conta no sistema de afiliados. Agora você pode sair da loja de maneira segura.</p>';
-$_['text_account']  = 'Programa de Afiliados';
-$_['text_logout']   = 'Sair';
-?>
+$_['text_message']  = '<p>You have been logged off your Affiliate Account.</p>';
+$_['text_account']  = 'Account';
+$_['text_logout']   = 'Logout';

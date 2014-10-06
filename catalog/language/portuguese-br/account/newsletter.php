@@ -1,12 +1,11 @@
 <?php
-// Heading 
-$_['heading_title']    = 'Meu Informativo';
+// Heading
+$_['heading_title']    = 'Newsletter Subscription';
 
 // Text
-$_['text_account']     = 'Minha Conta';
-$_['text_newsletter']  = 'Meu Informativo';
-$_['text_success']     = 'Inscrição no informativo atualizada com sucesso!';
+$_['text_account']     = 'Account';
+$_['text_newsletter']  = 'Newsletter';
+$_['text_success']     = 'Success: Your newsletter subscription has been successfully updated!';
 
 // Entry
-$_['entry_newsletter'] = 'Receber o Informativo:';
-?>
+$_['entry_newsletter'] = 'Subscribe';

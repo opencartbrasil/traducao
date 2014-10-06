@@ -1,22 +1,27 @@
 <?php
+// Heading
+$_['express_text_title']		= 'Confirm order';
+
 // Text
-$_['text_title']              = 'PayPal Express Checkout';
-$_['button_continue']         = 'Continuar';
-$_['text_cart']               = 'Meu Carrinho';
-$_['text_shipping_updated']   = 'Serviço de envio atualizado';
-$_['text_trial']              = '%s a cada %s %s repetido por %s vez(es) ';
-$_['text_recurring']          = '%s a cada %s %s';
-$_['text_length']             = ' repetido por %s vez(es)';
+$_['text_title']				= 'PayPal Express Checkout';
+$_['button_continue']			= 'Continue';
+$_['text_cart']					= 'Shopping Cart';
+$_['text_shipping_updated']		= 'Shipping service updated';
+$_['text_trial']				= '%s every %s %s for %s payments then ';
+$_['text_recurring']			= '%s every %s %s';
+$_['text_recurring_item']		= 'Recurring Item';
+$_['text_length']				= ' for %s payments';
+
+// Entry
+$_['express_entry_coupon']		= 'Enter your coupon here:';
+
+// Button
+$_['express_button_coupon']		= 'Add';
+$_['express_button_confirm']	= 'Confirm';
+$_['express_button_login']		= 'Continue to PayPal';
+$_['express_button_shipping']	= 'Update shipping';
+$_['button_cancel_recurring']	= 'Cancel payments';
 
 // Error
-$_['error_heading_title']     = 'Ocorreu um erro';
-$_['error_too_many_failures'] = 'Seu pagamento falhou várias vezes';
-
-// Express
-$_['express_text_title']      = 'Confirmar Pedido';
-$_['express_button_coupon']   = 'Adicionar';
-$_['express_button_confirm']  = 'Confirmar';
-$_['express_button_login']    = 'Acessar PayPal';
-$_['express_button_shipping'] = 'Atualizar Envio';
-$_['express_entry_coupon']    = 'Código do cupom:';
-?>
+$_['error_heading_title']		= 'There was an error';
+$_['error_too_many_failures']	= 'Your payment has failed too many times';

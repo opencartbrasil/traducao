@@ -1,4 +1,3 @@
 <?php
-// Heading 
-$_['text_coupon'] = 'Cupom (%s)';
-?>
+// Text
+$_['text_coupon'] = 'Coupon (%s)';

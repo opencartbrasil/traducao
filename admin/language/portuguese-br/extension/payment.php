@@ -1,17 +1,16 @@
 <?php
 // Heading
-$_['heading_title']		= 'Formas de Pagamento';
+$_['heading_title']     = 'Pagamentos';
 
 // Text
-$_['text_install']		= 'Instalar';
-$_['text_uninstall']	= 'Desinstalar';
+$_['text_success']      = 'Pagamento modificado com sucesso!';
+$_['text_list']         = 'Listando pagamentos';
 
 // Column
-$_['column_name']		= 'Forma de Pagamento';
-$_['column_status']		= 'Situação';
-$_['column_sort_order']	= 'Ordem de Exibição';
-$_['column_action']		= 'Ação';
+$_['column_name']       = 'Pagamento';
+$_['column_status']     = 'Situação';
+$_['column_sort_order'] = 'Ordem na lista';
+$_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as formas de pagamento!';
-?>
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os pagamentos!';

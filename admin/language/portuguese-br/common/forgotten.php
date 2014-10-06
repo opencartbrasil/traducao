@@ -10,11 +10,10 @@ $_['text_success']    = 'O e-mail com um link para redefinir sua senha foi envia
 
 // Entry
 $_['entry_email']     = 'Seu e-mail já cadastrado:';
-$_['entry_password']  = 'Nova Senha:';
-$_['entry_confirm']   = 'Repetir Senha:';
+$_['entry_password']  = 'Nova senha:';
+$_['entry_confirm']   = 'Repetir senha:';
 
 // Error
 $_['error_email']     = 'Atenção: O endereço de e-mail fornecido não foi encontrado em nosso sistema, por favor tente novamente!';
 $_['error_password']  = 'A nova senha deve ter entre 3 e 20 caracteres!';
 $_['error_confirm']   = 'A senha repetida não foi confirmada!';
-?>

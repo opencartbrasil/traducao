@@ -1,7 +1,6 @@
 <?php
 // Text
-$_['text_title']    = 'PayPal';
-$_['text_reason'] 	= 'Razão';
-$_['text_testmode']	= 'Atenção: O Gateway de Pagamento está em \"Modo de Teste\". Sua conta não será cobrada.';
-$_['text_total']	= 'Transporte, manuseio, descontos e impostos';
-?>
+$_['text_title']				= 'PayPal';
+$_['text_reason']				= 'REASON';
+$_['text_testmode']				= 'Warning: The payment gateway is in \'Sandbox Mode\'. Your account will not be charged.';
+$_['text_total']				= 'Shipping, Handling, Discounts & Taxes';

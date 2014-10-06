@@ -1,17 +1,16 @@
 <?php
 // Heading
-$_['heading_title']		= 'Formas de Envio';
+$_['heading_title']     = 'Fretes';
 
 // Text
-$_['text_install']		= 'Instalar';
-$_['text_uninstall']	= 'Desinstalar';
+$_['text_success']      = 'Frete modificado com sucesso!';
+$_['text_list']         = 'Listando fretes';
 
 // Column
-$_['column_name']		= 'Forma de Envio';
-$_['column_status']		= 'Situação';
-$_['column_sort_order']	= 'Ordem de Exibição';
-$_['column_action']		= 'Ação';
+$_['column_name']       = 'Frete';
+$_['column_status']     = 'Situação';
+$_['column_sort_order'] = 'Ordem na lista';
+$_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as formas de envio!';
-?>
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os fretes!';

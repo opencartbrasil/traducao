@@ -1,15 +1,14 @@
 <?php
-// Heading 
-$_['heading_title']      = 'Créditos e Débitos';
+// Heading
+$_['heading_title']      = 'Your Transactions';
 
 // Column
-$_['column_date_added']  = 'Adicionado em';
-$_['column_description'] = 'Descrição';
-$_['column_amount']      = 'Montante (%s)';
+$_['column_date_added']  = 'Date Added';
+$_['column_description'] = 'Description';
+$_['column_amount']      = 'Amount (%s)';
 
 // Text
-$_['text_account']       = 'Minha Conta';
-$_['text_transaction']   = 'Créditos e Débitos';
-$_['text_total']         = 'Seu saldo atual é:';
-$_['text_empty']         = 'Não há registro de crédito ou débito!';
-?>
+$_['text_account']       = 'Account';
+$_['text_transaction']   = 'Your Transactions';
+$_['text_total']         = 'Your current balance is:';
+$_['text_empty']         = 'You do not have any transactions!';

@@ -1,13 +1,12 @@
 <?php
 // Heading
-$_['heading_title']     = 'Obrigado por comprar com %s .... ';
+$_['heading_title']				= 'Thank you for shopping with %s .... ';
 
 // Text
-$_['text_title']        = 'Cartão de Crédito/Débito (WorldPay)';
-$_['text_response']     = 'Resposta do WorldPay:';
-$_['text_success']      = '... seu pagamento foi recebido com sucesso.';
-$_['text_success_wait'] = '<b><span style="color: #FF0000">Por favor, aguarde...</span></b> enquanto finalizamos o processamento de seu pedido.<br />Se você não for automaticamente redirecionado em 10 segundos, por favor, <a href="%s">clique aqui</a>.';
-$_['text_failure']      = '... seu pagamento foi cancelado!';
-$_['text_failure_wait'] = '<b><span style="color: #FF0000">Por favor, aguarde...</span></b><br />Se você não for automaticamente redirecionado em 10 segundos, por favor, clique <a href="%s">aqui</a>.';									  
-$_['text_pw_mismatch']  = 'A senha de retorno não combina. O pedido requer análise.';
-?>
+$_['text_title']				= 'Credit Card / Debit Card (WorldPay)';
+$_['text_response']				= 'Response from WorldPay:';
+$_['text_success']				= '... your payment was successfully received.';
+$_['text_success_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
+$_['text_failure']				= '... Your payment has been cancelled!';
+$_['text_failure_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
+$_['text_pw_mismatch']			= 'CallbackPW does not match. Order requires investigation.';

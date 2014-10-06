@@ -1,5 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Frete Grátis';
-$_['text_description'] = 'Nenhum valor será cobrado.';
-?>
+$_['text_title']       = 'Free Shipping';
+$_['text_description'] = 'Free Shipping';

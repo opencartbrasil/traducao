@@ -1,25 +1,30 @@
 <?php
 // Heading
-$_['heading_title']	   = 'Unidades de Medidas';
+$_['heading_title']    = 'Unidades de medida';
 
 // Text
-$_['text_success']	   = 'Unidade de Medidas modificada com sucesso!';
+$_['text_success']     = 'Unidade de medida modificada com sucesso!';
+$_['text_list']        = 'Listando unidades de medidas';
+$_['text_add']         = 'Nova unidade de medida';
+$_['text_edit']        = 'Editando unidade de medida';
 
 // Column
-$_['column_title']	   = 'Unidade de Medidas';
-$_['column_unit']      = 'Representação';
-$_['column_value']	   = 'Valor';
-$_['column_action']	   = 'Ação';
+$_['column_title']     = 'Unidade de medida';
+$_['column_unit']      = 'Unidade';
+$_['column_value']     = 'Valor';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_title']	   = 'Unidade de Medidas:';
-$_['entry_unit']	   = 'Representação:';
-$_['entry_value']	   = 'Valor:<br /><span class="help">Defina 1,00 se esta for sua unidade padrão.</span>';
+$_['entry_title']      = 'Unidade de medida';
+$_['entry_unit']       = 'Unidade';
+$_['entry_value']      = 'Valor';
+
+// Help
+$_['help_value']       = 'Defina para 1.00000, se está é a sua unidade de medida padrão.';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar as unidades de medidas!';
-$_['error_title']	   = 'Atenção: O campo <b>Unidade de Medidas</b> deve ter entre 3 e 32 caracteres!';
-$_['error_unit']	   = 'Atenção: O campo <b>Representação</b> deve ter entre 1 e 4 caracteres!';
-$_['error_default']	   = 'Atenção: Esta unidade de medida não pode ser excluída, pois está vinculada como unidade de medidas padrão da loja!';
-$_['error_product']	   = 'Atenção: Esta unidade de medida não pode ser excluída, pois está vinculada a %s produto(s)!';
-?>
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as unidades de medidas!';
+$_['error_title']      = 'A unidade de medida deve ter entre 3 e 32 caracteres!';
+$_['error_unit']       = 'A unidade deve ser entre 1 e 4 caracteres!';
+$_['error_default']    = 'Atenção: Esta unidade de medida não pode ser excluída, pois ela está definida como a unidade de medida padrão!';
+$_['error_product']    = 'Atenção: Esta unidade de medida não pode ser excluída, pois está vinculada a %s produtos!';

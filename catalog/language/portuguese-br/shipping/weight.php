@@ -1,5 +1,4 @@
 <?php
 // Text
-$_['text_title']  = 'Frete por Peso';
-$_['text_weight'] = 'Peso Total:';
-?>
+$_['text_title']  = 'Weight Based Shipping';
+$_['text_weight'] = 'Weight:';

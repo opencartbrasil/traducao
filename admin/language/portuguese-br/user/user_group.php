@@ -1,21 +1,23 @@
 <?php
 // Heading
-$_['heading_title']    = 'Grupos de Usuários';
+$_['heading_title']     = 'Grupos de usuários';
 
 // Text
-$_['text_success']     = 'Grupo de Usuário modificado com sucesso!';
+$_['text_success']      = 'Grupo de usuários modificado com sucesso!';
+$_['text_list']         = 'Listando grupos de usuários';
+$_['text_add']          = 'Novo grupo de usuários';
+$_['text_edit']         = 'Editando grupo de usuários';
 
 // Column
-$_['column_name']      = 'Grupo de Usuário';
-$_['column_action']    = 'Ação';
+$_['column_name']       = 'Grupo de usuários';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_name']       = 'Grupo de Usuário:';
-$_['entry_access']     = 'Permissões de Acesso:';
-$_['entry_modify']     = 'Permissões de Modificação:';
+$_['entry_name']        = 'Grupo de usuários';
+$_['entry_access']      = 'Permissões de acesso';
+$_['entry_modify']      = 'Permissões de modificação';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os grupos de usuários!';
-$_['error_name']       = 'Atenção: O campo <b>Grupo de Usuário</b> deve ter entre  3 e 64 caracteres!';
-$_['error_user']       = 'Atenção: Este grupo de usuário não pode ser excluído, pois está vinculado a %s usuário(s)!';
-?>
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os grupos de usuários!';
+$_['error_name']        = 'O grupo de usuários deve ter entre 3 e 64 caracteres!';
+$_['error_user']        = 'Atenção: O grupo de usuários não pode ser excluído pois ele possui %s usuários vinculados a ele!';

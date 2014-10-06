@@ -3,16 +3,19 @@
 $_['heading_title']    = 'Citylink';
 
 // Text
-$_['text_shipping']    = 'Formas de Envio';
-$_['text_success']     = 'Módulo Citylink modificado com sucesso!';
+$_['text_shipping']    = 'Shipping';
+$_['text_success']     = 'Success: You have modified Citylink shipping!';
+$_['text_edit']        = 'Edit Citylink Shipping';
 
 // Entry
-$_['entry_rate']       = 'Valor:<br /><span class="help">Digite valores no formato de 5,2 casas decimais (Ex.: 12345.67). Exemplo: .1:1,.25:1.27 - Pesos menores ou iguais a 0.1Kg custariam &pound; 1.00, pesos menores ou iguais a 0.25g mas maiores que 0.1Kg custariam 1.27. Não digite "kg" ou símbolos.</span>';
-$_['entry_tax_class']  = 'Grupo de Impostos:';
-$_['entry_geo_zone']   = 'Região Geográfica:';
-$_['entry_status']     = 'Situação:';
-$_['entry_sort_order'] = 'Ordem de Exibição:';
+$_['entry_rate']       = 'Citylink Rates';
+$_['entry_tax_class']  = 'Tax Class';
+$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_status']     = 'Status';
+$_['entry_sort_order'] = 'Sort Order';
+
+// Help
+$_['help_rate']        = 'Enter values upto 5,2 decimal places. (12345.67) Example: .1:1,.25:1.27 - Weights less than or equal to 0.1Kg would cost &pound;1.00, Weights less than or equal to 0.25g but more than 0.1Kg will cost 1.27. Do not enter KG or symbols.';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Citylink!';
-?>
+$_['error_permission'] = 'Warning: You do not have permission to modify Citylink shipping!';

@@ -1,5 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Frete por Itens';
-$_['text_description'] = 'Valor total baseado na quantidade de itens do pedido.';
-?>
+$_['text_title']       = 'Per Item';
+$_['text_description'] = 'Per Item Shipping Rate';

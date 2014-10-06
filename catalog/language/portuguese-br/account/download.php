@@ -1,14 +1,14 @@
 <?php
-// Heading 
-$_['heading_title']   = 'Meus Downloads';
+// Heading
+$_['heading_title']     = 'Account Downloads';
 
 // Text
-$_['text_account']    = 'Minha Conta';
-$_['text_downloads']  = 'Downloads';
-$_['text_order']      = 'Pedido Nº:';
-$_['text_date_added'] = 'Adicionado em:';
-$_['text_name']       = 'Nome:';
-$_['text_remaining']  = 'Restam:';
-$_['text_size']       = 'Tamanho:';
-$_['text_empty']      = 'Nenhum pedido de download foi registrado até o momento!';
-?>
+$_['text_account']      = 'Account';
+$_['text_downloads']    = 'Downloads';
+$_['text_empty']        = 'You have not made any previous downloadable orders!';
+
+// Column
+$_['column_order_id']   = 'Order ID';
+$_['column_name']       = 'Name';
+$_['column_size']       = 'Size';
+$_['column_date_added'] = 'Date Added';

@@ -3,12 +3,16 @@
 $_['heading_title']         = 'United States Postal Service';
 
 // Text
-$_['text_shipping']         = 'Formas de Envio';
-$_['text_success']          = 'Módulo Frete United States Postal Service atualizado com sucesso!';
-$_['text_domestic_0']       = 'First-Class';
+$_['text_shipping']         = 'Shipping';
+$_['text_success']          = 'Success: You have modified United States Postal Service!';
+$_['text_edit']             = 'Edit United States Postal Service Shipping';
+$_['text_domestic_00']      = 'First-Class Mail Parcel';
+$_['text_domestic_01']      = 'First-Class Mail Large Envelope';
+$_['text_domestic_02']      = 'First-Class Mail Letter';
+$_['text_domestic_03']      = 'First-Class Mail Postcards';
 $_['text_domestic_1']       = 'Priority Mail';
 $_['text_domestic_2']       = 'Express Mail Hold for Pickup';
-$_['text_domestic_3']       = 'Express Mail PO to Addressee';
+$_['text_domestic_3']       = 'Express Mail';
 $_['text_domestic_4']       = 'Parcel Post';
 $_['text_domestic_5']       = 'Bound Printed Matter';
 $_['text_domestic_6']       = 'Media Mail';
@@ -33,47 +37,52 @@ $_['text_international_7']  = 'Global Express Guaranteed Non-Document Non-Rectan
 $_['text_international_8']  = 'Priority Mail Flat Rate Envelope';
 $_['text_international_9']  = 'Priority Mail Flat Rate Box';
 $_['text_international_10'] = 'Express Mail International Flat Rate Envelope';
-$_['text_international_11'] = 'Priority Mail Large Flat Rate Box';
+$_['text_international_11'] = 'Priority Mail Flat Rate Large Box';
 $_['text_international_12'] = 'Global Express Guaranteed Envelope';
 $_['text_international_13'] = 'First Class Mail International Letters';
 $_['text_international_14'] = 'First Class Mail International Flats';
 $_['text_international_15'] = 'First Class Mail International Parcels';
-$_['text_international_16'] = 'Priority Mail Small Flat Rate Box';
+$_['text_international_16'] = 'Priority Mail Flat Rate Small Box';
 $_['text_international_21'] = 'Postcards';
 $_['text_regular']          = 'Regular';
-$_['text_large']            = 'Grande';
-$_['text_rectangular']      = 'Retangular';
-$_['text_non_rectangular']  = 'Não-retangular';
-$_['text_variable']         = 'Variável';
-$_['text_letter']           = 'Carta';
-$_['text_parcel']           = 'Pacote';
+$_['text_large']            = 'Large';
+$_['text_rectangular']      = 'Rectangular';
+$_['text_non_rectangular']  = 'Non Rectangular';
+$_['text_variable']         = 'Variable';
 
 // Entry
-$_['entry_user_id']         = 'ID do Usuário:';
-$_['entry_postcode']        = 'CEP:';
-$_['entry_domestic']        = 'Serviços Domésticos:';
-$_['entry_international']   = 'Serviços Internacionais:';
-$_['entry_size']            = 'Tamanho:';
-$_['entry_container']       = 'Container:';
-$_['entry_machinable']      = 'Maquinável:';
-$_['entry_firstclass']      = 'Domestic First Class Rate Type:<br/><span class="help">First class applies to 13oz packages or less. When disabled, standard premium rates are returned.</span>';
-$_['entry_dimension']       = 'Dimensões (C x L x A):';
-$_['entry_girth']           = 'Circunferência:';
-$_['entry_display_time']    = 'Exibir Tempo de Entrega:<br /><span class="help">Deseja exibir o tempo para entrega? (ex.: Entrega de 3 a 5 dias)</span>';
-$_['entry_display_weight']  = 'Exibir Peso de Entrega:<br /><span class="help">Deseja exibir o peso do frete? (ex.: Peso de entrega: 2.7674 kg)</span>';
-$_['entry_weight_class']    = 'Unidade de Peso:<br /><span class="help">Recomenda-se libras.</span>';
-$_['entry_tax']             = 'Classe de Impostos:';
-$_['entry_geo_zone']        = 'Região Geográfica:';
-$_['entry_status']          = 'Situação:';
-$_['entry_sort_order']      = 'Ordem de Exibição:';
-$_['entry_debug']      		= 'Modo de Debug:<br /><span class="help">Salvar e enviar/receber dados de log do sistema</span>';
+$_['entry_user_id']         = 'User ID';
+$_['entry_postcode']        = 'Zip Code';
+$_['entry_domestic']        = 'Domestic Services';
+$_['entry_international']   = 'International Services';
+$_['entry_size']            = 'Size';
+$_['entry_container']       = 'Container';
+$_['entry_machinable']      = 'Machinable';
+$_['entry_dimension']       = 'Dimensions (L x W x H)';
+$_['entry_length']          = 'Length';
+$_['entry_height']          = 'Height';
+$_['entry_width']           = 'Width';
+$_['entry_display_time']    = 'Display Delivery Time';
+$_['entry_display_weight']  = 'Display Delivery Weight';
+$_['entry_weight_class']    = 'Weight Class';
+$_['entry_tax']             = 'Tax Class';
+$_['entry_geo_zone']        = 'Geo Zone';
+$_['entry_status']          = 'Status';
+$_['entry_sort_order']      = 'Sort Order';
+$_['entry_debug']      		= 'Debug Mode';
+
+// Help
+$_['help_dimension']        = 'Average package dimensions for shipping package. Product dimensions are not used for shipping at this time.';
+$_['help_display_time']     = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
+$_['help_display_weight']   = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)';
+$_['help_weight_class']     = 'Must be set to Pound.';
+$_['help_debug']      		= 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não possui permissão para modificar o módulo United States Postal Service!';
-$_['error_user_id']         = 'O campo <b>ID do usuário</b> tem seu preenchimento obrigatório!';
-$_['error_postcode']        = 'O campo <b>CEP</b> tem seu preenchimento obrigatório!';
-$_['error_width']        	= 'Largura Obrigatória!';
-$_['error_length']        	= 'Comprimento Obrigatório!';
-$_['error_height']        	= 'Altura Obrigatória!';
-$_['error_girth']        	= 'Girth Obrigatório!';
-?>
+$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_user_id']         = 'User ID Required!';
+$_['error_postcode']        = 'Zip Code Required!';
+$_['error_width']        	= 'Width Required!';
+$_['error_length']        	= 'Length Required!';
+$_['error_height']        	= 'Height Required!';
+$_['error_girth']        	= 'Girth Required!';

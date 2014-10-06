@@ -1,7 +1,6 @@
 <?php
 // Text
 $_['text_title']    = 'Australia Post';
-$_['text_express']  = 'Expresso';
-$_['text_standard'] = 'Avançado';
-$_['text_eta']      = 'dias';
-?>
+$_['text_express']  = 'Express';
+$_['text_standard'] = 'Standard';
+$_['text_eta']      = 'days';

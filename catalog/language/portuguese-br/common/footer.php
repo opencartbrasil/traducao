@@ -1,18 +1,17 @@
 <?php
 // Text
-$_['text_information']  = 'Informações';
-$_['text_service']      = 'Atendimento';
+$_['text_information']  = 'Information';
+$_['text_service']      = 'Customer Service';
 $_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contate-nos';
-$_['text_return']       = 'Devoluções';
-$_['text_sitemap']      = 'Mapa da Loja';
-$_['text_manufacturer'] = 'Lista de Fabricantes';
-$_['text_voucher']      = 'Comprar Vale Presente';
-$_['text_affiliate']    = 'Programa de Afiliados';
-$_['text_special']      = 'Ofertas Especiais';
-$_['text_account']      = 'Minha Conta';
-$_['text_order']        = 'Histórico de Pedidos';
-$_['text_wishlist']     = 'Lista de Desejos';
-$_['text_newsletter']   = 'Meu Informativo';
-$_['text_powered']      = 'Criado com <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-?>
+$_['text_contact']      = 'Contact Us';
+$_['text_return']       = 'Returns';
+$_['text_sitemap']      = 'Site Map';
+$_['text_manufacturer'] = 'Brands';
+$_['text_voucher']      = 'Gift Vouchers';
+$_['text_affiliate']    = 'Affiliates';
+$_['text_special']      = 'Specials';
+$_['text_account']      = 'My Account';
+$_['text_order']        = 'Order History';
+$_['text_wishlist']     = 'Wish List';
+$_['text_newsletter']   = 'Newsletter';
+$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';

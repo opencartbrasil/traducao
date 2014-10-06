@@ -2,14 +2,14 @@
 // Heading
 $_['heading_title']    = 'Google Sitemap';
 
-// Text 
-$_['text_feed']        = 'Feed de Produtos';
-$_['text_success']     = 'Módulo Google Sitemap modificado com sucesso!';
+// Text
+$_['text_feed']        = 'Feeds';
+$_['text_success']     = 'Success: You have modified Google Sitemap feed!';
+$_['text_list']        = 'Layout List';
 
 // Entry
-$_['entry_status']     = 'Situação:';
-$_['entry_data_feed']  = 'URL do Feed:';
+$_['entry_status']     = 'Status';
+$_['entry_data_feed']  = 'Data Feed Url';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Google Sitemap!';
-?>
+$_['error_permission'] = 'Warning: You do not have permission to modify Google Sitemap feed!';

@@ -1,19 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Ips Bloqueados';
+$_['heading_title']    = 'IPs banidos';
 
 // Text
-$_['text_success']     = 'Ips Bloqueados modificado com sucesso!';
+$_['text_success']     = 'IP banido com sucesso!';
+$_['text_list']        = 'Listando IPs banidos';
+$_['text_add']         = 'Novo IP banido';
+$_['text_edit']        = 'Editando IP banindo';
 
 // Column
 $_['column_ip']        = 'IP';
-$_['column_customer']  = 'Clientes';
+$_['column_customer']  = 'Cliente';
 $_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_ip']         = 'IP:';
+$_['entry_ip']         = 'IP';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar os IPs Bloqueados!';
-$_['error_ip']         = 'Atenção: O campo <b>IP</b> deve ter entre 1 e 15 caracteres!';
-?>
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os IPs banidos!';
+$_['error_ip']         = 'O IP deve ter entre 1 e 40 caracteres!';

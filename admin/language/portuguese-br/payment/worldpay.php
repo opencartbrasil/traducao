@@ -1,27 +1,33 @@
 <?php
 // Heading
-$_['heading_title']      = 'WorldPay';
+$_['heading_title']					= 'WorldPay';
 
-// Text 
-$_['text_payment']       = 'Formas de Pagamento';
-$_['text_success']       = 'Módulo WorldPay modificado com sucesso!';
-$_['text_successful']    = 'Ativo - Sucesso';
-$_['text_declined']      = 'Ativo - Rejeitado';
-$_['text_off']           = 'Inativo';
+// Text
+$_['text_payment']					= 'Payment';
+$_['text_success']					= 'Success: You have modified WorldPay account details!';
+$_['text_edit']                     = 'Edit WorldPay';
+$_['text_worldpay']					= '<a href="https://business.worldpay.com/partner/opencart" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_successful']				= 'On - Always Successful';
+$_['text_declined']					= 'On - Always Declined';
+$_['text_off']						= 'Off';
 
 // Entry
-$_['entry_merchant']     = 'ID do Comerciante:';
-$_['entry_password']     = 'Payment Response Password:<br /><span class="help">This has to be set in the WordPay control panel.</span>';
-$_['entry_callback']     = 'URL de Retorno:<br /><span class="help">Isto deve ser configurado no painel de controle do WorldPay. Você também precisa marcar "Habilitar retorno ao vendedor".</span>';
-$_['entry_test']         = 'Modo de Teste:';
-$_['entry_total']        = 'Total Mínimo:<br /><span class="help">Total mínimo que o pedido deve alcançar para que este método de pagamento seja habilitado.</span>'; 
-$_['entry_order_status'] = 'Situação do Pedido:';
-$_['entry_geo_zone']     = 'Região Geográfica:';
-$_['entry_status']       = 'Situação:';
-$_['entry_sort_order']   = 'Ordem de Exibição:';
+$_['entry_merchant']				= 'Merchant ID';
+$_['entry_password']				= 'Payment Response Password';
+$_['entry_callback']				= 'Relay Response URL';
+$_['entry_test']					= 'Test Mode';
+$_['entry_total']					= 'Total';
+$_['entry_order_status']			= 'Order Status';
+$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_status']					= 'Status';
+$_['entry_sort_order']				= 'Sort Order';
+
+// Help
+$_['help_password']					= 'This has to be set in the WorldPay control panel.';
+$_['help_callback']					= 'This has to be set in the WorldPay control panel. You will also need to check the "Enable the Shopper Response".';
+$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não possui permissão para modificar o módulo WorldPay!';
-$_['error_merchant']     = 'Atenção: O campo <b>ID do Comerciante</b> tem seu preenchimento obrigatório!';
-$_['error_password']     = 'Atenção: O campo <b>Senha</b> tem seu preenchimento obrigatório!';
-?>
+$_['error_permission']				= 'Warning: You do not have permission to modify payment WorldPay!';
+$_['error_merchant']				= 'Merchant ID Required!';
+$_['error_password']				= 'Password Required!';

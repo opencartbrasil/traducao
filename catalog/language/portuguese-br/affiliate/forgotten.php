@@ -1,17 +1,16 @@
 <?php
-// Heading 
-$_['heading_title']   = 'Recuperar Senha';
+// Heading
+$_['heading_title']   = 'Forgot Your Password?';
 
 // Text
-$_['text_account']    = 'Programa de Afiliados';
-$_['text_forgotten']  = 'Recuperar Senha';
-$_['text_your_email'] = '<p>Coloque abaixo o e-mail que você utilizou quando cadastrou sua conta</p>';
-$_['text_email']      = 'Clique em <strong>Continuar</strong> para gerarmos uma nova senha, e logo após, enviá-la para o seu e-mail.<br />Este processo é feito automaticamente por nosso sistema.';
-$_['text_success']    = 'Uma nova senha foi gerada e enviada para o seu e-mail.';
+$_['text_account']    = 'Account';
+$_['text_forgotten']  = 'Forgotten Password';
+$_['text_your_email'] = 'Your E-Mail Address';
+$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you';
+$_['text_success']    = 'Success: A new password has been sent to your e-mail address.';
 
 // Entry
-$_['entry_email']     = 'Seu e-mail já cadastrado:';
+$_['entry_email']     = 'E-Mail Address';
 
 // Error
-$_['error_email']     = 'Atenção: O e-mail digitado não está cadastrado em nossa loja. Por favor, tente outro e-mail.';
-?>
+$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';

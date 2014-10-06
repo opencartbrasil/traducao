@@ -1,25 +1,24 @@
 <?php
-// Heading 
-$_['heading_title']             = 'Pagamento';
+// Heading
+$_['heading_title']             = 'Payment Method';
 
 // Text
-$_['text_account']              = 'Painel de Afiliado';
-$_['text_payment']              = 'Pagamento';
-$_['text_your_payment']         = 'Informações para Recebimento';
-$_['text_your_password']        = 'Senha';
+$_['text_account']              = 'Account';
+$_['text_payment']              = 'Payment';
+$_['text_your_payment']         = 'Payment Information';
+$_['text_your_password']        = 'Your Password';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Transferência Bancária';
-$_['text_success']              = 'Sua conta foi atualizada.';
+$_['text_bank']                 = 'Bank Transfer';
+$_['text_success']              = 'Success: Your account has been successfully updated.';
 
 // Entry
-$_['entry_tax']                 = 'Imposto:';
-$_['entry_payment']             = 'Método de Recebimento:';
-$_['entry_cheque']              = 'Cheque em nome de:';
-$_['entry_paypal']              = 'E-mail da conta no PayPal:';
-$_['entry_bank_name']           = 'Nome do Banco:';
-$_['entry_bank_branch_number']  = 'Número da Agência:';
-$_['entry_bank_swift_code']     = 'Código SWIFT:';
-$_['entry_bank_account_name']   = 'Titular da Conta:';
-$_['entry_bank_account_number'] = 'Número da Conta:';
-?>
+$_['entry_tax']                 = 'Tax ID';
+$_['entry_payment']             = 'Payment Method';
+$_['entry_cheque']              = 'Cheque Payee Name';
+$_['entry_paypal']              = 'PayPal Email Account';
+$_['entry_bank_name']           = 'Bank Name';
+$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
+$_['entry_bank_swift_code']     = 'SWIFT Code';
+$_['entry_bank_account_name']   = 'Account Name';
+$_['entry_bank_account_number'] = 'Account Number';

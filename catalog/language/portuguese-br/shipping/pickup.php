@@ -1,5 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Retirada na Loja';
-$_['text_description'] = 'Nenhum valor será cobrado.';
-?>
+$_['text_title']       = 'Pickup';
+$_['text_description'] = 'Pickup From Store';

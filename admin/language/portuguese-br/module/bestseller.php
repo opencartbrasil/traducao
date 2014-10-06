@@ -1,24 +1,20 @@
 <?php
 // Heading
-$_['heading_title']       = 'Produtos Mais Vendidos';
+$_['heading_title']    = 'Bestsellers';
 
 // Text
-$_['text_module']         = 'Módulos';
-$_['text_success']        = 'Módulo Produtos Mais Vendidos modificado com sucesso!';
-$_['text_content_top']    = 'Topo do Conteúdo';
-$_['text_content_bottom'] = 'Rodapé do Conteúdo';
-$_['text_column_left']    = 'Coluna da Esquerda';
-$_['text_column_right']   = 'Coluna da Direita';
+$_['text_module']      = 'Modules';
+$_['text_success']     = 'Success: You have modified bestsellers module!';
+$_['text_edit']        = 'Edit Bestsellers Module';
 
 // Entry
-$_['entry_limit']         = 'Limite:';
-$_['entry_image']         = 'Imagem (L x A):';
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Posição:';
-$_['entry_status']        = 'Situação:';
-$_['entry_sort_order']    = 'Ordem de Exibição:';
+$_['entry_limit']      = 'Limit';
+$_['entry_image']      = 'Image (W x H) and Resize Type';
+$_['entry_width']      = 'Width';
+$_['entry_height']     = 'Height';
+$_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission']    = 'Atenção: Você não possui permissão para modificar o módulo Produtos Mais Vendidos!';
-$_['error_image']         = 'Atenção: O campo <b>Imagem (L x A)</b> tem seu preenchimento obrigatório!';
-?>
+$_['error_permission'] = 'Warning: You do not have permission to modify bestsellers module!';
+$_['error_module']     = 'Warning: Module required!';
+$_['error_image']      = 'Image width &amp; height dimensions required!';

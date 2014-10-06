@@ -1,7 +1,6 @@
 <?php
-// Heading 
-$_['heading_title'] = 'Ofertas Especiais';
+// Heading
+$_['heading_title'] = 'Specials';
 
 // Text
-$_['text_reviews']  = 'Baseado em %s comentários.'; 
-?>
+$_['text_tax']      = 'Ex Tax:';

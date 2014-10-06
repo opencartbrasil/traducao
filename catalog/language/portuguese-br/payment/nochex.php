@@ -1,4 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Cartão de Crédito/Débito (NOCHEX)';
-?>
+$_['text_title'] = 'Credit Card / Debit Card (NOCHEX)';

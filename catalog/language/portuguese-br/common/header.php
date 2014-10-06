@@ -1,11 +1,16 @@
 <?php
 // Text
-$_['text_home']          = 'Principal';
-$_['text_wishlist']      = 'Lista de Desejos (%s)';
-$_['text_shopping_cart'] = 'Meu Carrinho';
-$_['text_search']        = 'Busca';
-$_['text_welcome']       = 'Olá, visitante. Acesse sua <a href="%s">conta</a> ou <a href="%s">cadastre-se</a>.';
-$_['text_logged']        = 'Você acessou como <a href="%s">%s</a> <b>(</b> <a href="%s">Sair</a> <b>)</b>';
-$_['text_account']       = 'Minha Conta';
-$_['text_checkout']      = 'Finalizar Pedido';
-?>
+$_['text_home']          = 'Home';
+$_['text_wishlist']      = 'Wish List (%s)';
+$_['text_shopping_cart'] = 'Shopping Cart';
+$_['text_category']      = 'Categories';
+$_['text_account']       = 'My Account';
+$_['text_register']      = 'Register';
+$_['text_login']         = 'Login';
+$_['text_order']         = 'Order History';
+$_['text_transaction']   = 'Transactions';
+$_['text_download']      = 'Downloads';
+$_['text_logout']        = 'Logout';
+$_['text_checkout']      = 'Checkout';
+$_['text_search']        = 'Search';
+$_['text_all']           = 'See All';

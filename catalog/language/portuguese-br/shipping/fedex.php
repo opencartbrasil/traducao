@@ -1,8 +1,8 @@
 <?php
 // Text
 $_['text_title']                               = 'Fedex';
-$_['text_weight']                              = 'Peso:';
-$_['text_eta']                                 = 'Tempo Estimado:';
+$_['text_weight']                              = 'Weight:';
+$_['text_eta']                                 = 'Estimated Time:';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';
@@ -24,4 +24,3 @@ $_['text_international_priority_freight']      = 'International Priority Freight
 $_['text_priority_overnight']                  = 'Priority Overnight';
 $_['text_smart_post']                          = 'Smart Post';
 $_['text_standard_overnight']                  = 'Standard Overnight';
-?>

@@ -3,22 +3,22 @@
 $_['heading_title']    = 'Klarna Fee';
 
 // Text
-$_['text_total']       = 'Finalização do Pedido';
-$_['text_success']     = 'Módulo Klarna Fee modificado com sucesso!';
-$_['text_sweden']      = 'Suécia';
-$_['text_norway']      = 'Noruega';
-$_['text_finland']     = 'Finlândia';
-$_['text_denmark']     = 'Dinamarca';
-$_['text_germany']     = 'Alemânha';
-$_['text_netherlands'] = 'Holanda';
+$_['text_total']       = 'Order Totals';
+$_['text_success']     = 'Success: You have modified Klarna fee total!';
+$_['text_edit']        = 'Edit Klarna Fee Total';
+$_['text_sweden']      = 'Sweden';
+$_['text_norway']      = 'Norway';
+$_['text_finland']     = 'Finland';
+$_['text_denmark']     = 'Denmark';
+$_['text_germany']     = 'Germany';
+$_['text_netherlands'] = 'The Netherlands';
 
 // Entry
-$_['entry_total']      = 'Total do Pedido:';
-$_['entry_fee']        = 'Taxa de Fatura:';
-$_['entry_tax_class']  = 'Grupo de Impostos:';
-$_['entry_status']     = 'Situação:';
-$_['entry_sort_order'] = 'Ordem de Exibição:';
+$_['entry_total']      = 'Order Total';
+$_['entry_fee']        = 'Invoice Fee';
+$_['entry_tax_class']  = 'Tax Class';
+$_['entry_status']     = 'Status';
+$_['entry_sort_order'] = 'Sort Order';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Klarna Fee!';
-?>
+$_['error_permission'] = 'Warning: You do not have permission to modify Klarna fee total!';
