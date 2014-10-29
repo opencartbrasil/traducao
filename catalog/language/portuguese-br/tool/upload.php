@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_upload']    = 'Your file was successfully uploaded!';
+$_['text_upload']    = 'Seu arquivo foi enviado com sucesso!';
 
 // Error
-$_['error_filename'] = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype'] = 'Invalid file type!';
-$_['error_upload']   = 'Upload required!';
+$_['error_filename'] = 'Nome do arquivo deve ter entre 3 a 64 caracteres!';
+$_['error_filetype'] = 'Tipo de arquivo inválido!';
+$_['error_upload']   = 'Envio obrigatorio!';
