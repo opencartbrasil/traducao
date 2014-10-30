@@ -1,2 +1,2 @@
 <?php
-$_['text_total'] = 'total';
+$_['text_total'] = 'Total';
