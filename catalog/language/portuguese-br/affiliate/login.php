@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']                 = 'Affiliate Program';
+$_['heading_title']                 = 'Programa de afiliados';
 
 // Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
+$_['text_account']                  = 'Conta';
+$_['text_login']                    = 'Entrar';
+$_['text_description']              = '<p>%s programa de afiliados é gratuito e permite que os membros ganhar receita colocando um link ou links em seu web site que anuncia o %s ou produtos específicos sobre ele. Todas as vendas efectuadas a clientes que clicaram nesses links vão ganhar a Comissão do afiliado. A taxa de Comissão padrão atualmente é % s.</p><p>Para obter mais informações, visite nossa página de perguntas frequentes ou consulte nosso afiliado termos &amp; condições.</p>';
+$_['text_new_affiliate']            = 'Novo afiliado';
+$_['text_register_account']         = '<p>Não estou atualmente afiliado.</p><p>Clique continuar abaixo para criar uma nova conta de afiliado. Por favor, note que isto não está ligado de alguma forma a sua conta de cliente.</p>';
+$_['text_returning_affiliate']      = 'Login de afiliados';
+$_['text_i_am_returning_affiliate'] = 'Eu sou um afiliado retornando.';
+$_['text_forgotten']                = 'Esqueceu a senha';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
+$_['entry_email']                   = 'Afiliado E-Mail';
+$_['entry_password']                = 'Senha';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Aviso: Cadastro não encontrado com o E-mail e Senha informados.';
+$_['error_approved']                = 'Aviso: Sua conta requer aprovação antes de poder realizar o login.';

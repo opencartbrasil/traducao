@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Acessar Conta';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Minha conta';
+$_['text_login']                   = 'Acessar conta';
+$_['text_new_customer']            = 'Sou um novo cliente';
+$_['text_register']                = 'Cadastrar-se (recomendado)';
+$_['text_register_account']        = 'Ao cadastrar-se e criar uma conta você poderá comprar mais rapidamente, saber a situação de seus pedidos e acompanhar as compras já realizadas.';
+$_['text_returning_customer']      = 'Já sou cliente';
+$_['text_i_am_returning_customer'] = 'Digite abaixo seu e-mail e senha já cadastrados na loja';
+$_['text_forgotten']               = 'Esqueceu sua senha?';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+$_['entry_email']                  = 'Seu e-mail';
+$_['entry_password']               = 'Sua senha';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                  = 'Atenção: E-mail ou senha incorreto(s), ou sua conta ainda não foi ativada.';
+$_['error_approved']               = 'Atenção: O seu cadastro necessita ser aprovado para que você tenha acesso ao serviços de nossa loja.';

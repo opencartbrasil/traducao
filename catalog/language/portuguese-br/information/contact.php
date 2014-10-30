@@ -1,29 +1,29 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']  = 'Contate-nos';
 
 // Text
-$_['text_location']  = 'Our Location';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
+$_['text_location']  = 'Nossa localização';
+$_['text_store']     = 'Nossas lojas';
+$_['text_contact']   = 'Formulário de contato';
+$_['text_address']   = 'Endereço';
+$_['text_telephone'] = 'Telefone';
 $_['text_fax']       = 'Fax';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_open']      = 'Horário de funcionamento';
+$_['text_comment']   = 'Comentários';
+$_['text_success']   = '<p>Sua dúvida foi enviada com sucesso para nossa Central de Atendimento!</p>';
 
 // Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
-$_['entry_captcha']  = 'Enter the code in the box below';
+$_['entry_name']     = 'Seu nome';
+$_['entry_email']    = 'Endereço de E-mail';
+$_['entry_enquiry']  = 'Dúvida';
+$_['entry_captcha']  = 'Digite o código na caixa abaixo';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = 'Dúvida %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
-$_['error_captcha']  = 'Verification code does not match the image!';
+$_['error_name']     = 'Nome deve ser entre 3 e 32 caracteres!';
+$_['error_email']    = 'Endereço de e-mail não parece ser válido!';
+$_['error_enquiry']  = 'Dúvida deve ter entre 10 e 3000 caracteres!';
+$_['error_captcha']  = 'Código de verificação não corresponde a imagem!';

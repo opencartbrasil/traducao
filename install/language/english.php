@@ -39,7 +39,7 @@ $_['text_global']            = 'Register Globals';
 $_['text_magic']             = 'Magic Quotes GPC';
 $_['text_file_upload']       = 'File Uploads';
 $_['text_session']           = 'Session Auto Start';
-$_['text_db']            	 = 'Database';
+$_['text_db']                = 'Database';
 $_['text_mysqli']            = 'MySQLi';
 $_['text_mysql']             = 'MySQL';
 $_['text_mpdo']              = 'mPDO';
@@ -65,28 +65,28 @@ $_['text_loading']           = 'Carregando extensões...';
 $_['text_store']             = 'visite a loja de extensões';
 $_['text_mail_list']         = 'Junte-se à lista de discussão';
 $_['text_mail_list_small']   = 'Fique informado sobre atualizações e eventos OpenCart.';
-$_['text_openbay']   		 = 'O serviço OpenBay Pro permite que as lojas tenham a capacidade de vincular-se a mercados como eBay e Amazon. Importe pedidos, os organize e atualize através do seu OpenCart...';
-$_['text_maxmind']   		 = 'A MaxMind fornece aos comerciantes a capacidade de identificar transações arriscadas rapidamente, reduzindo o risco de fraudes e minimizando o tempo gasto revisando pedidos, dando uma pontuação de risco para cada pedido...';
-$_['text_more_info']   		 = 'Mais informações';
-$_['text_facebook']   		 = 'Curta-nos no Facebook';
+$_['text_openbay']   	     = 'O serviço OpenBay Pro permite que as lojas tenham a capacidade de vincular-se a mercados como eBay e Amazon. Importe pedidos, os organize e atualize através do seu OpenCart...';
+$_['text_maxmind']   	     = 'A MaxMind fornece aos comerciantes a capacidade de identificar transações arriscadas rapidamente, reduzindo o risco de fraudes e minimizando o tempo gasto revisando pedidos, dando uma pontuação de risco para cada pedido...';
+$_['text_more_info']   	     = 'Mais informações';
+$_['text_facebook']   	     = 'Curta-nos no Facebook';
 $_['text_facebook_info']     = 'Conte-nos o quanto você gosta do OpenCart!';
 $_['text_facebook_link']     = 'Visite nossa página no Facebook';
-$_['text_forum']    	 	 = 'Fórum da comunidade';
-$_['text_forum_info']    	 = 'Obtenha ajuda de outros usuários OpenCart';
-$_['text_forum_link']    	 = 'Visite o nosso fórum';
-$_['text_commercial']    	 = 'Suporte comercial';
+$_['text_forum']    	     = 'Fórum da comunidade';
+$_['text_forum_info']        = 'Obtenha ajuda de outros usuários OpenCart';
+$_['text_forum_link']        = 'Visite o nosso fórum';
+$_['text_commercial']        = 'Suporte comercial';
 $_['text_commercial_info']   = 'Serviço de desenvolvimento de parceiros OpenCart';
 $_['text_commercial_link']   = 'Visite nossa página de parceiros';
-$_['text_view']   		     = 'Ver detalhes';
-$_['text_download']   		 = 'Download';
-$_['text_downloads']   		 = 'Downloads';
-$_['text_price']   		 	 = 'Preço';
-$_['text_view']   		     = 'Ver detalhes';
+$_['text_view']   	     = 'Ver detalhes';
+$_['text_download']   	     = 'Download';
+$_['text_downloads']   	     = 'Downloads';
+$_['text_price']             = 'Preço';
+$_['text_view']   	     = 'Ver detalhes';
 $_['text_maxmind_success']   = 'O serviço MaxMind foi instalado';
-$_['text_maxmind_top']   	 = 'Se você não possui uma chave de licença';
-$_['text_maxmind_link']   	 = 'clique aqui';
-$_['text_ebay_about']	 	 = 'O eBay movimenta bilhões de dólares através de sua plataforma, pois permite que vendedores autônomos ou empresariais vendam seus bens através de varejo online com preço fixo ou leilão. Está disponível para vendedores de todo o mundo.';
-$_['text_amazon_about']	 	 = 'Amazon Marketplace é um mercado online de preço fixo, que permiti que os vendedores ofereçam artigos novos e usados​​, juntamente com serviço de varejo exclusivo da Amazon.';
+$_['text_maxmind_top']       = 'Se você não possui uma chave de licença';
+$_['text_maxmind_link']      = 'clique aqui';
+$_['text_ebay_about']	     = 'O eBay movimenta bilhões de dólares através de sua plataforma, pois permite que vendedores autônomos ou empresariais vendam seus bens através de varejo online com preço fixo ou leilão. Está disponível para vendedores de todo o mundo.';
+$_['text_amazon_about']	     = 'Amazon Marketplace é um mercado online de preço fixo, que permiti que os vendedores ofereçam artigos novos e usados​​, juntamente com serviço de varejo exclusivo da Amazon.';
 
 // Entry
 $_['entry_db_driver']        = 'Driver';
@@ -99,7 +99,7 @@ $_['entry_username']         = 'Usuário';
 $_['entry_password']         = 'Senha';
 $_['entry_email']            = 'E-mail';
 $_['entry_licence_key']      = 'Chave de licença';
-$_['entry_risk']      		 = 'Pontuação de risco';
+$_['entry_risk']      	     = 'Pontuação de risco';
 $_['entry_fraud_status']     = 'Situação dos pedidos fraudulentos';
 
 // Help
@@ -107,17 +107,17 @@ $_['help_maxmind_risk']      = 'Quanto maior a pontuação, maior é o risco do 
 $_['help_maxmind_fraud']     = 'Para pedidos que rceberem uma pontuação superior a pontução definida, a situação escolhida para pedidos fraudulentos será definida automaticamente.';
 
 // Error
-$_['error_key'] 			 = 'A licença Maxmind é necessária';
-$_['error_score'] 			 = 'A pontuação dever ser entre 0 e 100';
-$_['error_db_hostname'] 	 = 'O servidor é necessário!';
-$_['error_db_username'] 	 = 'O usuário é necessário!';
-$_['error_db_database']		 = 'O banco de dados é necessário!';
-$_['error_db_prefix'] 		 = 'O prefixo pode conter apenas caracteres minúsculos no intervalo de a-z, 0-9 e _ (sublinhados)';
-$_['error_db_connect'] 		 = 'Erro: Não foi possível conectar ao banco de dados, verifique se o servidor de banco de dados, nome de usuário e senha estão corretos!';
-$_['error_username'] 		 = 'O usuário é necessário!';
-$_['error_password'] 		 = 'A senha é necessária!';
-$_['error_email'] 			 = 'O e-mail não é válido!';
-$_['error_config'] 			 = 'Erro: Não foi possível gravar no arquivo config.php, verifique se você definiu as permissões corretas: ';
+$_['error_key'] 	     = 'A licença Maxmind é necessária';
+$_['error_score'] 	     = 'A pontuação dever ser entre 0 e 100';
+$_['error_db_hostname']      = 'O servidor é necessário!';
+$_['error_db_username']      = 'O usuário é necessário!';
+$_['error_db_database']	     = 'O banco de dados é necessário!';
+$_['error_db_prefix'] 	     = 'O prefixo pode conter apenas caracteres minúsculos no intervalo de a-z, 0-9 e _ (sublinhados)';
+$_['error_db_connect'] 	     = 'Erro: Não foi possível conectar ao banco de dados, verifique se o servidor de banco de dados, nome de usuário e senha estão corretos!';
+$_['error_username'] 	     = 'O usuário é necessário!';
+$_['error_password'] 	     = 'A senha é necessária!';
+$_['error_email'] 	     = 'O e-mail não é válido!';
+$_['error_config'] 	     = 'Erro: Não foi possível gravar no arquivo config.php, verifique se você definiu as permissões corretas: ';
 
 // Buttons
 $_['button_continue']        = 'Continuar';
@@ -128,7 +128,7 @@ $_['button_register']        = 'Registrar';
 $_['button_register_eu']     = 'Registrar Europa';
 $_['button_register_us']     = 'Registrar USA';
 
-$_['text_terms'] = '<h3>GNU GENERAL PUBLIC LICENSE</h3>
+$_['text_terms']             = '<h3>GNU GENERAL PUBLIC LICENSE</h3>
         <p>Version 3, 29 June 2007</p>
         <p>Copyright &copy; 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
         <p> Everyone is permitted to copy and distribute verbatim copies
