@@ -19,4 +19,4 @@ $_['text_dimension']    = 'Dimensões (L x W x H)';
 $_['text_compare']      = 'Comparação de Produto (%s)';
 $_['text_success']      = 'Successo: Você adicionou o <a href="%s">%s</a> para sua <a href="%s">comparação de produtos</a>!';
 $_['text_remove']       = 'Successo: Você modificou sua comparação de produto!';
-$_['text_empty']        = 'You have not chosen any products to compare.';
+$_['text_empty']        = 'Você não escolheu nenhum produto para comparar.';
