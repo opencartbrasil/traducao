@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'My Account';
+$_['heading_title']      = 'Minha Conta';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_my_account']    = 'My Account';
-$_['text_my_orders']     = 'My Orders';
-$_['text_my_newsletter'] = 'Newsletter';
-$_['text_edit']          = 'Edit your account information';
-$_['text_password']      = 'Change your password';
+$_['text_account']       = 'Conta';
+$_['text_my_account']    = 'Minha Conta';
+$_['text_my_orders']     = 'Meus Pedidos';
+$_['text_my_newsletter'] = 'Mala Direta';
+$_['text_edit']          = 'Editar suas informações de conta';
+$_['text_password']      = 'Alterar senha';
 $_['text_address']       = 'Modify your address book entries';
 $_['text_wishlist']      = 'Modify your wish list';
 $_['text_order']         = 'View your order history';

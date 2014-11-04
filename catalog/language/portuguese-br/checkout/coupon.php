@@ -9,5 +9,5 @@ $_['text_success']  = 'Sucesso: Seu desconto foi aplicado!';
 $_['entry_coupon']  = 'Entre com o cupom aqui';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Aviso: Cupom é inválido , expirou ou atingiu o seu limite de uso !';
+$_['error_empty']   = 'Aviso: Por favor, insira um código de cupom !';
