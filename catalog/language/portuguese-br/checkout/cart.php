@@ -3,9 +3,9 @@
 $_['heading_title']    = 'Carrinho de Compras';
 
 // Text
-$_['text_success']     = 'Success: Você adicionou <a href="%s">%s</a> para seu <a href="%s">carrinho de compras</a>!';
-$_['text_remove']      = 'Success: Você modificou seu carrinho de compras!';
-$_['text_login']       = 'Attention: Você precisa <a href="%s">logar</a> ou <a href="%s">criar uma conta</a> para ver os preços!';
+$_['text_success']     = 'Successo: Você adicionou <a href="%s">%s</a> para seu <a href="%s">carrinho de compras</a>!';
+$_['text_remove']      = 'Successo: Você modificou seu carrinho de compras!';
+$_['text_login']       = 'Atenção: Você precisa <a href="%s">logar</a> ou <a href="%s">criar uma conta</a> para ver os preços!';
 $_['text_items']       = '%s item(s) - %s';
 $_['text_points']      = 'Pontos: %s';
 $_['text_next']        = 'O que você gostaria de fazer?';
@@ -16,12 +16,12 @@ $_['text_week']        = 'semana';
 $_['text_semi_month']  = 'meio mês';
 $_['text_month']       = 'mês';
 $_['text_year']        = 'ano';
-$_['text_trial']       = '%s every %s %s for %s payments then ';
-$_['text_recurring']   = '%s every %s %s';
+$_['text_trial']       = '%s cada %s %s para %s pagamentos em seguida ';
+$_['text_recurring']   = '%s cada %s %s';
 $_['text_length']      = ' para %s pagamentos';
-$_['text_until_cancelled']   	= 'until cancelled';
-$_['text_recurring_item']    	              = 'Recurring item';
-$_['text_payment_recurring']                    = 'Payment Profile';
+$_['text_until_cancelled']   	= 'Até ser cancelada';
+$_['text_recurring_item']    	              = 'Item recorrente';
+$_['text_payment_recurring']                    = 'Perfil de pagamento';
 $_['text_trial_description'] 	              = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description'] 	              = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
@@ -35,8 +35,8 @@ $_['column_price']          = 'Unidade';
 $_['column_total']          = 'Total';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_required']         = '%s required!';
-$_['error_product']          = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']            = 'Os produtos marcados com *** não estão disponíveis na quantidade desejada ou não em estoque !';
+$_['error_minimum']          = 'O montante mínimo de ordem para %s é %s!';
+$_['error_required']         = '%s requerido';
+$_['error_product']          = 'Aviso: Não há nenhum produto em seu carrinho!';
+$_['error_recurring_required'] = 'Por favor, selecione um pagamento recorrente !';
