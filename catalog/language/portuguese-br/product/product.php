@@ -9,11 +9,11 @@ $_['text_points']                             = 'Price in reward points:';
 $_['text_stock']                              = 'Availability:';
 $_['text_instock']                            = 'Em Estoque';
 $_['text_tax']                                = 'Ex Tax:';
-$_['text_discount']                           = ' or more ';
-$_['text_option']                             = 'Available Options';
-$_['text_minimum']                            = 'This product has a minimum quantity of %s';
-$_['text_reviews']                            = '%s reviews';
-$_['text_write']                              = 'Write a review';
+$_['text_discount']                           = ' ou mais ';
+$_['text_option']                             = 'Opções Disponíveis';
+$_['text_minimum']                            = 'Este produto tem quantidade minima de %s';
+$_['text_reviews']                            = '%s avaliações';
+$_['text_write']                              = 'Deixe sua avaliação';
 $_['text_login']                              = 'Por favor faça <a href="%s">login</a> ou <a href="%s">registre-se</a> para fazer review';
 $_['text_no_reviews']                         = 'Não temos review para este produto';
 $_['text_note']                               = '<span class="text-danger">Note:</span> HTML is not translated!';
@@ -21,15 +21,15 @@ $_['text_success']                            = 'Thank you for your review. It h
 $_['text_related']                            = 'Produtos Relacionados';
 $_['text_tags']                               = 'Tags:';
 $_['text_error']                              = 'Produto indisponivel!';
-$_['text_payment_recurring']                    = 'Payment Profiles';
-$_['text_trial_description']                  = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description']                = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
-$_['text_day']                                = 'day';
-$_['text_week']                               = 'week';
-$_['text_semi_month']                         = 'half-month';
-$_['text_month']                              = 'month';
-$_['text_year']                               = 'year';
+$_['text_payment_recurring']                    = 'Perfis de Pagamento';
+$_['text_trial_description']                  = '%s todo %d %s(s) para %d pagamento(s) então';
+$_['text_payment_description']                = '%s todo %d %s(s) para %d pagamento(s)';
+$_['text_payment_until_canceled_description'] = '%s todo %d %s(s) until cancelados';
+$_['text_day']                                = 'dia';
+$_['text_week']                               = 'semana';
+$_['text_semi_month']                         = 'meio mês';
+$_['text_month']                              = 'mês';
+$_['text_year']                               = 'ano';
 
 // Entry
 $_['entry_qty']                               = 'Qnt';
@@ -43,10 +43,10 @@ $_['entry_captcha']                           = 'Digite o codigo da caixa';
 // Tabs
 $_['tab_description']                         = 'Descrição';
 $_['tab_attribute']                           = 'Especificação';
-$_['tab_review']                              = 'Reviews (%s)';
+$_['tab_review']                              = 'Avaliações (%s)';
 
 // Error
-$_['error_name']                              = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']                              = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']                            = 'Warning: Please select a review rating!';
-$_['error_captcha']                           = 'Warning: Verification code does not match the image!';
+$_['error_name']                              = 'Aviso:  Nome da avaliação devem ter entre 3 e 25 caracteres!';
+$_['error_text']                              = 'Aviso : Texto da avaliação deve ter entre 25 e 1000 caracteres!';
+$_['error_rating']                            = 'Aviso: Por favor, selecione uma classificação!';
+$_['error_captcha']                           = 'Atenção: O código de verificação não corresponde à imagem!';
