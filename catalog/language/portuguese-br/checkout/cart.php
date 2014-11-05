@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shopping Cart';
+$_['heading_title']    = 'Carrinho de Compras';
 
 // Text
-$_['text_success']     = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']      = 'Success: You have modified your shopping cart!';
-$_['text_login']       = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
+$_['text_success']     = 'Successo: Você adicionou <a href="%s">%s</a> para seu <a href="%s">carrinho de compras</a>!';
+$_['text_remove']      = 'Successo: Você modificou seu carrinho de compras!';
+$_['text_login']       = 'Atenção: Você precisa <a href="%s">logar</a> ou <a href="%s">criar uma conta</a> para ver os preços!';
 $_['text_items']       = '%s item(s) - %s';
-$_['text_points']      = 'Reward Points: %s';
-$_['text_next']        = 'What would you like to do next?';
-$_['text_next_choice'] = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_empty']       = 'Your shopping cart is empty!';
-$_['text_day']         = 'day';
-$_['text_week']        = 'week';
-$_['text_semi_month']  = 'half-month';
-$_['text_month']       = 'month';
-$_['text_year']        = 'year';
-$_['text_trial']       = '%s every %s %s for %s payments then ';
-$_['text_recurring']   = '%s every %s %s';
-$_['text_length']      = ' for %s payments';
-$_['text_until_cancelled']   	= 'until cancelled';
-$_['text_recurring_item']    	              = 'Recurring item';
-$_['text_payment_recurring']                    = 'Payment Profile';
+$_['text_points']      = 'Pontos: %s';
+$_['text_next']        = 'O que você gostaria de fazer?';
+$_['text_next_choice'] = 'Escolha se você tiver um código de desconto ou pontos de recompensa que você deseja usar ou gostaria de estimar o custo de entrega.';
+$_['text_empty']       = 'Seu carrinho esta vazio!';
+$_['text_day']         = 'dia';
+$_['text_week']        = 'semana';
+$_['text_semi_month']  = 'meio mês';
+$_['text_month']       = 'mês';
+$_['text_year']        = 'ano';
+$_['text_trial']       = '%s cada %s %s para %s pagamentos em seguida ';
+$_['text_recurring']   = '%s cada %s %s';
+$_['text_length']      = ' para %s pagamentos';
+$_['text_until_cancelled']   	= 'Até ser cancelada';
+$_['text_recurring_item']    	              = 'Item recorrente';
+$_['text_payment_recurring']                    = 'Perfil de pagamento';
 $_['text_trial_description'] 	              = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description'] 	              = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
 
 // Column
-$_['column_image']          = 'Image';
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Unit Price';
+$_['column_image']          = 'Imagem';
+$_['column_name']           = 'Produto';
+$_['column_model']          = 'Modelo';
+$_['column_quantity']       = 'Quantidate';
+$_['column_price']          = 'Unidade';
 $_['column_total']          = 'Total';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_required']         = '%s required!';
-$_['error_product']          = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']            = 'Os produtos marcados com *** não estão disponíveis na quantidade desejada ou não em estoque !';
+$_['error_minimum']          = 'O montante mínimo de ordem para %s é %s!';
+$_['error_required']         = '%s requerido';
+$_['error_product']          = 'Aviso: Não há nenhum produto em seu carrinho!';
+$_['error_recurring_required'] = 'Por favor, selecione um pagamento recorrente !';

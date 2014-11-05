@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']      = 'My Account Information';
+$_['heading_title']      = 'Minha conta';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_edit']          = 'Edit Information';
-$_['text_your_details']  = 'Your Personal Details';
-$_['text_success']       = 'Success: Your account has been successfully updated.';
+$_['text_account']       = 'Conta';
+$_['text_edit']          = 'Editar Informações';
+$_['text_your_details']  = 'Informações Pessoais';
+$_['text_success']       = 'Sucesso: Suas informações foram atualizadas.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
+$_['entry_firstname']    = 'Nome';
+$_['entry_lastname']     = 'Sobrenome';
 $_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Telephone';
+$_['entry_telephone']    = 'Telefone';
 $_['entry_fax']          = 'Fax';
 
 // Error
