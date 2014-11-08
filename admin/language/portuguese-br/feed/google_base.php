@@ -5,7 +5,7 @@ $_['heading_title']    = 'Google Base';
 // Text
 $_['text_feed']        = 'Feed de Produtos';
 $_['text_success']     = 'Módulo Google Base modificado com sucesso';
-$_['text_list']        = 'Lista do Layou';
+$_['text_list']        = 'Lista do Layout';
 
 // Entry
 $_['entry_status']     = 'Situação';
