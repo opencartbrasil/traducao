@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Google Base';
 
 // Text
-$_['text_feed']        = 'Feeds';
-$_['text_success']     = 'Success: You have modified Google Base feed!';
-$_['text_list']        = 'Layout List';
+$_['text_feed']        = 'Feed de Produtos';
+$_['text_success']     = 'Módulo Google Base modificado com sucesso';
+$_['text_list']        = 'Lista do Layou';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_data_feed']  = 'Data Feed Url';
+$_['entry_status']     = 'Situação';
+$_['entry_data_feed']  = 'URL do Feed';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Base feed!';
+$_['error_permission'] = 'Atençãoo: Você não possui permissão para modificar o módulo Google Base!';
