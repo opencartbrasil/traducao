@@ -12,4 +12,4 @@ $_['entry_status']     = 'Situação';
 $_['entry_data_feed']  = 'URL do Feed';
 
 // Error
-$_['error_permission'] = 'Atençãoo: Você não possui permissão para modificar o módulo Google Base!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Google Base!';
