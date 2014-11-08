@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
+$_['heading_title']     = 'Lista de Fabricantes';
 
 // Text
-$_['text_brand']        = 'Brand';
+$_['text_brand']        = 'Fabricantes';
 $_['text_index']        = 'Brand Index:';
 $_['text_error']        = 'Brand not found!';
 $_['text_empty']        = 'There are no products to list.';
