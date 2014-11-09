@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']    = 'Latest';
+$_['heading_title']    = 'Produtos Novos';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified latest module!';
-$_['text_edit']        = 'Edit Latest Module';
+$_['text_module']      = 'Módulos';
+$_['text_success']     = 'Módulo Produtos Novos modificado com sucesso!!';
+$_['text_edit']        = 'Editar Produtos Novos';
 
 // Entry
-$_['entry_limit']      = 'Limit';
-$_['entry_image']      = 'Image (W x H) and Resize Type';
-$_['entry_width']      = 'Width';
-$_['entry_height']     = 'Height';
-$_['entry_status']     = 'Status';
+$_['entry_limit']      = 'Limite';
+$_['entry_image']      = 'Imagem (L x A)';
+$_['entry_width']      = 'Largura';
+$_['entry_height']     = 'Altura';
+$_['entry_status']     = 'Situação';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify latest module!';
-$_['error_module']     = 'Warning: Module required!';
-$_['error_image']      = 'Image width &amp; height dimensions required!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Produtos Novos!';
+$_['error_module']     = 'Atenção: Módulo necessário!';
+$_['error_image']      = 'Largura &amp; Altura Dimensões necessárias!';
