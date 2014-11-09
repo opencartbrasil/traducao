@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Taxa de Manuseio';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified handling fee total!';
-$_['text_edit']        = 'Edit Handling Fee Total';
+$_['text_total']       = 'Finalização do Pedido';
+$_['text_success']     = 'Módulo Taxa de Manuseio modificado com sucesso!';
+$_['text_edit']        = 'Editar Taxa de Manuseio';
 
 // Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_total']      = 'Total do Pedido';
+$_['entry_fee']        = 'Taxa';
+$_['entry_tax_class']  = 'Grupo de Impostos';
+$_['entry_status']     = 'Situação';
+$_['entry_sort_order'] = 'Ordem de Exibição';
 
 // Help
 $_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Taxa de Manuseio!';
