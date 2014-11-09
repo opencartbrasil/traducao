@@ -15,7 +15,7 @@ $_['text_payment_address']  = 'Endereço de Cobrança';
 $_['text_payment_method']   = 'Método de Pagamento:';
 $_['text_comment']          = 'Comentários do Pedido';
 $_['text_history']          = 'Histórico do Pedido';
-$_['text_success']          = 'Você adicionou os produtos do Pedido Nº %s no seu carrinho de compras!';
+$_['text_success']          = 'Você adicionou <a href="%s">%s</a> ao seu <a href="%s">carrinho</a>!';
 $_['text_empty']            = 'Você ainda não fez nenhum pedido!';
 $_['text_error']            = 'O pedido que você está procurando não foi encontrado!';
 
