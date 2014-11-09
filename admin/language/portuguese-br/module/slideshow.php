@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']    = 'Slideshow';
+$_['heading_title']    = 'Banners em Slideshow';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified slideshow module!';
-$_['text_edit']        = 'Edit Slideshow Module';
+$_['text_module']      = 'Módulos';
+$_['text_success']     = 'Módulo Banners em Slideshow modificado com sucesso!';
+$_['text_edit']        = 'Editar Banners em Slideshow';
 
 // Entry
 $_['entry_banner']     = 'Banner';
-$_['entry_dimension']  = 'Dimension (W x H) and Resize Type';
-$_['entry_width']      = 'Width';
-$_['entry_height']     = 'Height';
-$_['entry_status']     = 'Status';
+$_['entry_dimension']  = 'Dimensão (L x A)';
+$_['entry_width']      = 'Largura';
+$_['entry_height']     = 'Altura';
+$_['entry_status']     = 'Situação';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify slideshow module!';
-$_['error_module']     = 'Warning: Module required!';
-$_['error_dimension']  = 'Width &amp; Height dimensions required!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo!';
+$_['error_module']     = 'Atenção: Módulo necessário!';
+$_['error_dimension']  = 'Largura &amp; Altura Dimensões necessárias!';
