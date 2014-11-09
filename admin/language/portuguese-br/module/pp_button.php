@@ -3,12 +3,12 @@
 $_['heading_title']    = 'PayPal Express Checkout Button';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified PayPal Express Checkout Button module!';
-$_['text_edit']        = 'Edit PayPal Express Checkout Button Module';
+$_['text_module']      = 'Módulo';
+$_['text_success']     = 'Módulo PayPal Express Checkout Button modificado com sucesso!';
+$_['text_edit']        = 'Editar PayPal Express Checkout Button';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Situção';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify PayPal Express Checkout Button module!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo PayPal Express Checkout Button!';
