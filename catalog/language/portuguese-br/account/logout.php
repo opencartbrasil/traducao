@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Account Logout';
+$_['heading_title'] = 'Sair da Minha Conta';
 
 // Text
-$_['text_message']  = '<p>You have been logged off your account. It is now safe to leave the computer.</p><p>Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.</p>';
-$_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';
+$_['text_message']  = '<p>Você saiu de sua conta. Agora você pode sair da loja de maneira segura.</p><p>Se havia itens em seu carrinho eles foram salvos e serão recuperados quando você efetuar o acesso novamente.</p>';
+$_['text_account']  = 'Minha Conta';
+$_['text_logout']   = 'Sair';
