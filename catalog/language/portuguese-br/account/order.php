@@ -4,7 +4,7 @@ $_['heading_title']         = 'Meus Pedidos';
 
 // Text
 $_['text_account']          = 'Minha Conta';
-$_['text_order']            = 'Order Information';
+$_['text_order']            = 'Detalhes dos Pedidos';
 $_['text_order_detail']     = 'Informações do Pedido';
 $_['text_invoice_no']       = 'Fatura Nº.:';
 $_['text_order_id']         = 'Pedido Nº:';
@@ -20,7 +20,7 @@ $_['text_empty']            = 'Você ainda não fez nenhum pedido!';
 $_['text_error']            = 'O pedido que você está procurando não foi encontrado!';
 
 // Column
-$_['column_order_id']       = 'ID de Pedido';
+$_['column_order_id']       = 'Pedido Nº';
 $_['column_product']        = 'Nº de produtos';
 $_['column_customer']       = 'Cliente';
 $_['column_name']           = 'Produto';
@@ -34,4 +34,4 @@ $_['column_status']         = 'Situação';
 $_['column_comment']        = 'Comentários';
 
 // Error
-$_['error_reorder']         = '%s is not currently available to be reordered.';
+$_['error_reorder']         = '%s não está disponível para ser recomprado.';
