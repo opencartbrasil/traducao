@@ -3,20 +3,20 @@
 $_['heading_title']     = 'eBay display';
 
 // Text
-$_['text_module']       = 'Modules';
-$_['text_success']      = 'Success: You have modified module eBay featured!';
-$_['text_list']         = 'Layout List';
-$_['text_start_newest'] = 'Start time newest';
-$_['text_start_random'] = 'Random';
+$_['text_module']       = 'Módulos';
+$_['text_success']      = 'Módulo eBay display modificado com sucesso!';
+$_['text_list']         = 'Lista de Layout';
+$_['text_start_newest'] = 'Horário de início';
+$_['text_start_random'] = 'Aleatória';
 
 // Entry
-$_['entry_limit']       = 'Limit';
-$_['entry_image']       = 'Image (W x H)';
-$_['entry_username']    = 'eBay username';
-$_['entry_keywords']    = 'Search keywords';
-$_['entry_description'] = 'Include description search';
-$_['entry_site']   		= 'eBay site';
+$_['entry_limit']       = 'Limite';
+$_['entry_image']       = 'Imagem (L x A)';
+$_['entry_username']    = 'Usúario eBay';
+$_['entry_keywords']    = 'Pesquisar palavras-chave';
+$_['entry_description'] = 'Incluir descrição pesquisa';
+$_['entry_site']   		= 'Site eBay';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify module eBay featured!';
-$_['error_image']       = 'Image width &amp; height dimensions required!';
+$_['error_permission']  = 'Atenção: Você não possui permissão para modificar o módulo eBay display!';
+$_['error_image']       = 'Largura &amp; Altura Dimensões necessárias!';
