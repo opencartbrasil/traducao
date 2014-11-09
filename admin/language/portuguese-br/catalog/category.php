@@ -42,3 +42,4 @@ $_['error_warning']          = 'Atenção: Faltou preencher alguma informação,
 $_['error_permission']       = 'Atenção: Você não tem permissão para modificar os departamentos!';
 $_['error_name']             = 'O departamento deve ter entre 2 e 32 caracteres!';
 $_['error_meta_title']       = 'O meta título deve ter entre 3 e 255 caracteres!';
+$_['error_keyword']          = 'A url amigável já está em uso!';

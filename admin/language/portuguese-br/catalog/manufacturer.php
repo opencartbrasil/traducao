@@ -30,4 +30,5 @@ $_['help_keyword']       = 'Não utilize espaços, substitua os espaços por - (
 // Error
 $_['error_permission']   = 'Atenção: Você não tem permissão para modificar os fabricantes!';
 $_['error_name']         = 'O fabricante deve ter entre 2 e 64 caracteres!';
+$_['error_keyword']      = 'A url amigável já está em uso!';
 $_['error_product']      = 'Atenção: Este fabricante não pode ser excluído, pois está vinculado a %s produtos!';

@@ -37,6 +37,7 @@ $_['error_permission']       = 'Atenção: Você não tem permissão para modifi
 $_['error_title']            = 'O título da página deve ter entre 3 e 64 caracteres!';
 $_['error_description']      = 'O conteúdo deve possuir pelo menos 3 caracteres!';
 $_['error_meta_title']       = 'O meta título deve ter entre 3 e 255 caracteres!';
+$_['error_keyword']          = 'A url amigável já está em uso!';
 $_['error_account']          = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos de conta de clientes!';
 $_['error_checkout']         = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos para finalização do pedido!';
 $_['error_affiliate']        = 'Atenção: Esta página de informações não pode ser excluída, pois ela está definida como os termos de conta de afiliados!';

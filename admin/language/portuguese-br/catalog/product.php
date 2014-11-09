@@ -104,3 +104,4 @@ $_['error_permission']       = 'Atenção: Você não tem permissão para modifi
 $_['error_name']             = 'O produto deve ter entre 3 e 255 caracteres!';
 $_['error_meta_title']       = 'O meta título deve ter entre 3 e 255 caracteres!';
 $_['error_model']            = 'O modelo deve ter entre 1 e 64 caracteres!';
+$_['error_keyword']          = 'A url amigável já está em uso!';
