@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shipping';
+$_['heading_title']    = 'Frete';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified shipping total!';
-$_['text_edit']        = 'Edit Shipping Total';
+$_['text_total']       = 'Finalização do Pedido';
+$_['text_success']     = 'Módulo Frete modificado com sucesso!';
+$_['text_edit']        = 'Editar Frete';
 
 // Entry
-$_['entry_estimator']  = 'Shipping Estimator';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_estimator']  = 'Simular Frete';
+$_['entry_status']     = 'Situação';
+$_['entry_sort_order'] = 'Ordem de Exibição';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping total!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Frete!';
