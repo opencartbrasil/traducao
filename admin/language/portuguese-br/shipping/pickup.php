@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Pickup From Store';
+$_['heading_title']    = 'Retirada na Loja';
 
 // Text
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified pickup from store!';
-$_['text_edit']        = 'Edit Pickup From Store Shipping';
+$_['text_shipping']    = 'Formas de Envio';
+$_['text_success']     = 'Módulo Retirada na Loja modificado com sucesso!';
+$_['text_edit']        = 'Editar Retirada na Loja';
 
 // Entry
-$_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_geo_zone']   = 'Região Geográfica';
+$_['entry_status']     = 'Situação';
+$_['entry_sort_order'] = 'Ordem de Exibição';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify pickup from store!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Retirada na Loja!';
