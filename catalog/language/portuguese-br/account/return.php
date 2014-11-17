@@ -1,64 +1,64 @@
 <?php
 // Heading
-$_['heading_title']      = 'Product Returns';
+$_['heading_title']      = 'Solicitar devolução';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_return']        = 'Return Information';
-$_['text_return_detail'] = 'Return Details';
-$_['text_description']   = 'Please complete the form below to request an RMA number.';
-$_['text_order']         = 'Order Information';
-$_['text_product']       = 'Product Information &amp; Reason for Return';
-$_['text_message']       = '<p>Thank you for submitting your return request. Your request has been sent to the relevant department for processing.</p><p> You will be notified via e-mail as to the status of your request.</p>';
-$_['text_return_id']     = 'Return ID:';
-$_['text_order_id']      = 'Order ID:';
-$_['text_date_ordered']  = 'Order Date:';
-$_['text_status']        = 'Status:';
-$_['text_date_added']    = 'Date Added:';
-$_['text_comment']       = 'Return Comments';
-$_['text_history']       = 'Return History';
-$_['text_empty']         = 'You have not made any previous returns!';
-$_['text_agree']         = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_account']       = 'Conta';
+$_['text_return']        = 'Informações da devolução';
+$_['text_return_detail'] = 'Detalhes da devolução';
+$_['text_description']   = 'Preencha o formulário abaixo para receber um código RMA (Retorno de Mercadoria Adquirida).';
+$_['text_order']         = 'Informações do pedido';
+$_['text_product']       = 'Informações do produto e motivo da devolução';
+$_['text_message']       = '<p>Sua solicitação de devolução foi enviada para o departamento responsável.</p><p> Você receberá notificações via e-mail sobre a situação de sua solicitação.</p>';
+$_['text_return_id']     = 'Devolução nº:';
+$_['text_order_id']      = 'Pedido nº:';
+$_['text_date_ordered']  = 'Data do pedido:';
+$_['text_status']        = 'Situação:';
+$_['text_date_added']    = 'Cadastro:';
+$_['text_comment']       = 'Comentários da devolução';
+$_['text_history']       = 'Histórico da devolução';
+$_['text_empty']         = 'Você ainda não fez uma solicitação de devolução.';
+$_['text_agree']         = 'Eu li e concordo com os <a href="%s" class="agree"><b>%s</b></a>';
 
 // Column
-$_['column_return_id']   = 'Return ID';
-$_['column_order_id']    = 'Order ID';
-$_['column_status']      = 'Status';
-$_['column_date_added']  = 'Date Added';
-$_['column_customer']    = 'Customer';
-$_['column_product']     = 'Product Name';
-$_['column_model']       = 'Model';
-$_['column_quantity']    = 'Quantity';
-$_['column_price']       = 'Price';
-$_['column_opened']      = 'Opened';
-$_['column_comment']     = 'Comment';
-$_['column_reason']      = 'Reason';
-$_['column_action']      = 'Action';
+$_['column_return_id']   = 'Devolução nº';
+$_['column_order_id']    = 'Pedido nº';
+$_['column_status']      = 'Situação';
+$_['column_date_added']  = 'Cadastro';
+$_['column_customer']    = 'Cliente';
+$_['column_product']     = 'Produto';
+$_['column_model']       = 'Modelo';
+$_['column_quantity']    = 'Quantidade';
+$_['column_price']       = 'Preço';
+$_['column_opened']      = 'Embalagem';
+$_['column_comment']     = 'Comentário';
+$_['column_reason']      = 'Motivo';
+$_['column_action']      = 'Ação';
 
 // Entry
-$_['entry_order_id']     = 'Order ID';
-$_['entry_date_ordered'] = 'Order Date';
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Telephone';
-$_['entry_product']      = 'Product Name';
-$_['entry_model']        = 'Product Code';
-$_['entry_quantity']     = 'Quantity';
-$_['entry_reason']       = 'Reason for Return';
-$_['entry_opened']       = 'Product is opened';
-$_['entry_fault_detail'] = 'Faulty or other details';
-$_['entry_captcha']      = 'Enter the code in the box below';
+$_['entry_order_id']     = 'Pedido nº';
+$_['entry_date_ordered'] = 'Cadastro';
+$_['entry_firstname']    = 'Nome';
+$_['entry_lastname']     = 'Sobrenome';
+$_['entry_email']        = 'E-mail';
+$_['entry_telephone']    = 'Telefone';
+$_['entry_product']      = 'Produto';
+$_['entry_model']        = 'Modelo';
+$_['entry_quantity']     = 'Quantidade';
+$_['entry_reason']       = 'Motivo';
+$_['entry_opened']       = 'Embalagem aberta?';
+$_['entry_fault_detail'] = 'Detalhes';
+$_['entry_captcha']      = 'Código da imagem';
 
 // Error
-$_['text_error']         = 'The returns you requested could not be found!';
-$_['error_order_id']     = 'Order ID required!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_product']      = 'Product Name must be greater than 3 and less than 255 characters!';
-$_['error_model']        = 'Product Model must be greater than 3 and less than 64 characters!';
-$_['error_reason']       = 'You must select a return product reason!';
-$_['error_captcha']      = 'Verification code does not match the image!';
-$_['error_agree']        = 'Warning: You must agree to the %s!';
+$_['text_error']         = 'A devolução que você solicitou não foi encontrada!';
+$_['error_order_id']     = 'O pedido nº é obrigatório!';
+$_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
+$_['error_lastname']     = 'O sobrenome deve ter entre 10 e 32 caracteres!';
+$_['error_email']        = 'O e-mail não é válido!';
+$_['error_telephone']    = 'O telefone deve ter entre 3 e 32 caracteres!';
+$_['error_product']      = 'O produto deve ter entre 3 e 255 caracteres!';
+$_['error_model']        = 'O modelo deve ter entre 3 e 64 caracteres!';
+$_['error_reason']       = 'Você deve selecionar um motivo para a devolução!';
+$_['error_captcha']      = 'O código no campo não é o mesmo da imagem!';
+$_['error_agree']        = 'Atenção: Você deve concordar com os %s!';

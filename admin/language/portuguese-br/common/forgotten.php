@@ -1,19 +1,19 @@
 <?php
 // header
-$_['heading_title']   = 'Esqueceu sua senha?';
+$_['heading_title']   = 'Forgot Your Password?';
 
 // Text
-$_['text_forgotten']  = 'Esqueceu sua senha?';
-$_['text_your_email'] = 'Digite seu endereço de e-mail';
-$_['text_email']      = 'Após fornecer seu e-mail já cadastrado em nosso sistema, clique no botão Redefinir para receber no e-mail fornecido um link para que você possa redefinir sua senha.';
-$_['text_success']    = 'O e-mail com um link para redefinir sua senha foi enviado para seu endereço de e-mail.';
+$_['text_forgotten']  = 'Forgotten Password';
+$_['text_your_email'] = 'Your E-Mail Address';
+$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
+$_['text_success']    = 'An email with a confirmation link has been sent your admin email address.';
 
 // Entry
-$_['entry_email']     = 'Seu e-mail já cadastrado:';
-$_['entry_password']  = 'Nova senha:';
-$_['entry_confirm']   = 'Repetir senha:';
+$_['entry_email']     = 'E-Mail Address';
+$_['entry_password']  = 'New Password';
+$_['entry_confirm']   = 'Confirm';
 
 // Error
-$_['error_email']     = 'Atenção: O endereço de e-mail fornecido não foi encontrado em nosso sistema, por favor tente novamente!';
-$_['error_password']  = 'A nova senha deve ter entre 3 e 20 caracteres!';
-$_['error_confirm']   = 'A senha repetida não foi confirmada!';
+$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
+$_['error_password']  = 'Password must be between 3 and 20 characters!';
+$_['error_confirm']   = 'Password and password confirmation do not match!';

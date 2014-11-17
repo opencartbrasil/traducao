@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']		 = 'Free Checkout';
+$_['heading_title']		 = 'Pagamento grátis';
 
 // Text
-$_['text_payment']		 = 'Payment';
-$_['text_success']		 = 'Success: You have modified Free Checkout payment module!';
-$_['text_edit']          = 'Edit Free Checkout';
+$_['text_payment']		 = 'Pagamento';
+$_['text_success']		 = 'Pagamento grátis modificado com sucesso!';
+$_['text_edit']          = 'Configurações do Pagamento grátis';
 
 // Entry
-$_['entry_order_status'] = 'Order Status';
-$_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_order_status'] = 'Situação do pedido';
+$_['entry_status']       = 'Situação';
+$_['entry_sort_order']   = 'Posição';
 
 // Error
-$_['error_permission']	  = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']   = 'Atenção: Você não tem permissão para modificar o Pagamento grátis!';

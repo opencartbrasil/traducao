@@ -9,7 +9,7 @@ $_['text_list']         = 'Listando fretes';
 // Column
 $_['column_name']       = 'Frete';
 $_['column_status']     = 'Situação';
-$_['column_sort_order'] = 'Ordem na lista';
+$_['column_sort_order'] = 'Posição';
 $_['column_action']     = 'Ação';
 
 // Error

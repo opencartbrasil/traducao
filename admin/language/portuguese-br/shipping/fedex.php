@@ -3,9 +3,9 @@
 $_['heading_title']                            = 'Fedex';
 
 // Text
-$_['text_shipping']                            = 'Shipping';
-$_['text_success']                             = 'Success: You have modified Fedex shipping!';
-$_['text_edit']                                = 'Edit Fedex Shipping';
+$_['text_shipping']                            = 'Frete';
+$_['text_success']                             = 'Frete Fedex modificado com sucesso!';
+$_['text_edit']                                = 'Configurações do frete Fedex';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';
@@ -53,21 +53,21 @@ $_['entry_service']                            = 'Services';
 $_['entry_dropoff_type']                       = 'Drop Off Type';
 $_['entry_packaging_type']                     = 'Packaging Type';
 $_['entry_rate_type']                          = 'Rate Type';
-$_['entry_display_time']                       = 'Display Delivery Time';
-$_['entry_display_weight']                     = 'Display Delivery Weight';
-$_['entry_weight_class']                       = 'Weight Class';
-$_['entry_tax_class']                          = 'Tax Class';
-$_['entry_geo_zone']                           = 'Geo Zone';
-$_['entry_status']                             = 'Status';
-$_['entry_sort_order']                         = 'Sort Order';
+$_['entry_display_time']                       = 'Tempo para entrega';
+$_['entry_display_weight']                     = 'Peso da entrega';
+$_['entry_weight_class']                       = 'Unidade de peso';
+$_['entry_tax_class']                          = 'Grupo de impostos';
+$_['entry_geo_zone']                           = 'Região geográfica';
+$_['entry_status']                             = 'Situação';
+$_['entry_sort_order']                         = 'Posição';
 
 // Help
 $_['help_display_time']                        = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
-$_['help_display_weight']                      = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)';
+$_['help_display_weight']                      = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 kg)';
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
-$_['error_permission']                         = 'Warning: You do not have permission to modify Fedex shipping!';
+$_['error_permission']                         = 'Atenção: Você não tem permissão para modificar o frete Fedex!';
 $_['error_key']                                = 'Key Required!';
 $_['error_password']                           = 'Password Required!';
 $_['error_account']                            = 'Account Required!';

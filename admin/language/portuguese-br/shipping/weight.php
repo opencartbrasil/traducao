@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Weight Based Shipping';
+$_['heading_title']    = 'Frete por peso';
 
 // Text
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified weight based shipping!';
-$_['text_edit']        = 'Edit Weight Based Shipping';
+$_['text_shipping']    = 'Frete';
+$_['text_success']     = 'Frete por peso modificado com sucesso!';
+$_['text_edit']        = 'Configurações do Frete por peso';
 
 // Entry
-$_['entry_rate']       = 'Rates';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_rate']       = 'Valor por peso';
+$_['entry_tax_class']  = 'Grupo de impostos';
+$_['entry_geo_zone']   = 'Região geográfica';
+$_['entry_status']     = 'Situação';
+$_['entry_sort_order'] = 'Posição';
 
 // Help
-$_['help_rate']        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
+$_['help_rate']        = 'Exemplo: 5:10.00,7:12.00 Peso:Valor,Peso:Valor, etc...';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight based shipping!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o Frete por peso!';

@@ -30,5 +30,5 @@ $_['error_upload']      = 'Não há arquivo para esse download!';
 $_['error_filename']    = 'O arquivo deve ter entre 3 e 128 caracteres!';
 $_['error_exists']      = 'O arquivo não existe!';
 $_['error_mask']        = 'A máscara deve ter entre 3 e 128 caracteres!';
-$_['error_filetype']    = 'O tipo de arquivo não é permitido!';
+$_['error_filetype']    = 'Este tipo de arquivo não é permitido!';
 $_['error_product']     = 'Atenção: Este download não pode ser excluído, pois está vinculado a %s produtos!';

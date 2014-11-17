@@ -1,22 +1,29 @@
 <?php
 // Heading
-$_['heading_title']     = 'eBay display';
+$_['heading_title']     = 'Visualizar produtos do eBay';
 
 // Text
-$_['text_module']       = 'Modules';
-$_['text_success']      = 'Success: You have modified module eBay featured!';
-$_['text_list']         = 'Layout List';
-$_['text_start_newest'] = 'Start time newest';
-$_['text_start_random'] = 'Random';
+$_['text_module']       = 'Módulos';
+$_['text_success']      = 'Módulo Visualizar produtos do eBay modificado com sucesso!';
+$_['text_edit']         = 'Configurações do módulo Visualizar produtos do eBay';
+$_['text_list']         = 'Lista de layout';
+$_['text_start_newest'] = 'Hora de início';
+$_['text_start_random'] = 'Randômico';
+$_['text_about'] 		= 'Este módulo permite exibir os produtos de sua conta no eBay diretamente na loja.';
 
 // Entry
-$_['entry_limit']       = 'Limit';
-$_['entry_image']       = 'Image (W x H)';
-$_['entry_username']    = 'eBay username';
-$_['entry_keywords']    = 'Search keywords';
-$_['entry_description'] = 'Include description search';
-$_['entry_site']   		= 'eBay site';
+$_['entry_limit']       = 'Limite';
+$_['entry_length']      = 'Altura';
+$_['entry_height']      = 'Largura';
+$_['entry_image']      	= 'Dimensão (Largura x Altura)';
+$_['entry_username']    = 'Usuário no eBay';
+$_['entry_keywords']    = 'Pesquisar palavras-chave';
+$_['entry_description'] = 'Incluir descrição na pesquisa';
+$_['entry_site']   		= 'Site do eBay';
+$_['entry_sort']   		= 'Organizar por';
+$_['entry_status']   	= 'Situação';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify module eBay featured!';
-$_['error_image']       = 'Image width &amp; height dimensions required!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar o módulo Visualizar produtos do eBay!';
+$_['error_image']       = 'Preencha as dimensões de largura e altura!';
+$_['error_openbay']     = 'Você precisa registrar e ativar a integração com OpenBay Pro para integrar com sua conta no eBay!';

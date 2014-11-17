@@ -1,10 +1,11 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Configurações';
+$_['heading_title']                    = 'Loja';
 
 // Text
-$_['text_success']                     = 'Configurações modificadas com sucesso!';
-$_['text_edit']                        = 'Editando configurações';
+$_['text_stores']                      = 'Lojas';
+$_['text_success']                     = 'Loja modificada com sucesso!';
+$_['text_edit']                        = 'Editando loja';
 $_['text_product']                     = 'Produtos';
 $_['text_review']                      = 'Comentários';
 $_['text_voucher']                     = 'Vale presentes';
@@ -32,8 +33,8 @@ $_['entry_open']                       = 'Horário de funcionamento';
 $_['entry_comment']                    = 'Comentários';
 $_['entry_location']                   = 'Localização da loja';
 $_['entry_meta_title']                 = 'Meta título';
-$_['entry_meta_description']           = 'Meta tag descrição';
-$_['entry_meta_keyword']               = 'Meta tag chaves';
+$_['entry_meta_description']           = 'Meta descrição';
+$_['entry_meta_keyword']               = 'Meta palavras-chave';
 $_['entry_layout']                     = 'Layout padrão';
 $_['entry_template']                   = 'Tema';
 $_['entry_country']                    = 'País';
@@ -57,9 +58,10 @@ $_['entry_tax']                        = 'Exibir preços com impostos?';
 $_['entry_tax_default']                = 'Endereço da loja';
 $_['entry_tax_customer']               = 'Endereço do cliente';
 $_['entry_customer_online']            = 'Acompanhar clientes online?';
-$_['entry_customer_group']             = 'Grupo de clientes padrão';
-$_['entry_customer_group_display']     = 'Grupos de clientes';
+$_['entry_customer_group']             = 'Tipo de cliente padrão';
+$_['entry_customer_group_display']     = 'Tipo de cliente';
 $_['entry_customer_price']             = 'Logar para ver preços?';
+$_['entry_login_attempts']             = 'Máximo de tentativas de acesso';
 $_['entry_account']                    = 'Termos para cadastro';
 $_['entry_account_mail']               = 'Receber alerta de novo cliente?';
 $_['entry_api']                        = 'Usuário API';
@@ -151,6 +153,7 @@ $_['help_customer_online']             = 'Track customers online via the custome
 $_['help_customer_group']              = 'Default customer group.';
 $_['help_customer_group_display']      = 'Display customer groups that new customers can select to use such as wholesale and business when signing up.';
 $_['help_customer_price']              = 'Only show prices when a customer is logged in.';
+$_['help_login_attempts']              = 'Maximum login attempts allowed before the account is locked for 1 hour. Customer and affliate accounts can be unlocked on the customer or affliate admin pages.';
 $_['help_account']                     = 'Forces people to agree to terms before an account can be created.';
 $_['help_account_mail']                = 'Send an email to the store owner when a new account is registered.';
 $_['help_invoice_prefix']              = 'Set the invoice prefix (e.g. INV-2011-00). Invoice IDs will start at 1 for each unique prefix.';
@@ -204,6 +207,7 @@ $_['error_email']                      = 'E-Mail Address does not appear to be v
 $_['error_telephone']                  = 'Telephone must be between 3 and 32 characters!';
 $_['error_meta_title']                 = 'Title must be between 3 and 32 characters!';
 $_['error_limit']       	           = 'Limit required!';
+$_['error_login_attempts']       	   = 'Login Attempts must be greater than 0!';
 $_['error_customer_group_display']     = 'You must include the default customer group if you are going to use this feature!';
 $_['error_voucher_min']                = 'Minimum voucher amount required!';
 $_['error_voucher_max']                = 'Maximum voucher amount required!';

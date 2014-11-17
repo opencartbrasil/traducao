@@ -1,24 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Grupos de atributos';
+$_['heading_title']          = 'Atributos';
 
 // Text
-$_['text_success']      = 'Grupo de atributos modificado com sucesso!';
-$_['text_list']         = 'Listando grupos de atributos';
-$_['text_add']          = 'Novo grupo de atributos';
-$_['text_edit']         = 'Editando grupo de atributos';
+$_['text_success']           = 'Atributo modificado com sucesso!';
+$_['text_list']              = 'Listando atributos';
+$_['text_add']               = 'Novo atributo';
+$_['text_edit']              = 'Editando atributo';
 
 // Column
-$_['column_name']       = 'Grupo de atributos';
-$_['column_sort_order'] = 'Ordem na lista';
-$_['column_action']     = 'Ação';
+$_['column_name']            = 'Atributo';
+$_['column_attribute_group'] = 'Grupo de atributos';
+$_['column_sort_order']      = 'Posição';
+$_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_name']        = 'Grupo de atributos';
-$_['entry_sort_order']  = 'Ordem na lista';
+$_['entry_name']            = 'Atributo';
+$_['entry_attribute_group'] = 'Grupo de atributos';
+$_['entry_sort_order']      = 'Posição';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os grupos de atributos!';
-$_['error_name']        = 'O grupo de atributos deve ter entre 3 e 64 caracteres!';
-$_['error_attribute']   = 'Atenção: Este grupo de atributos não pode ser excluído, pois está vinculado a %s atributos!';
-$_['error_product']     = 'Atenção: Este grupo de atributos não pode ser excluído, pois está vinculado a %s produtos!';
+$_['error_permission']      = 'Atenção: Você não tem permissão para modificar os atributos!';
+$_['error_name']            = 'O atributo deve ter entre 3 e 64 caracteres!';
+$_['error_product']         = 'Atenção: Este atributo não pode ser excluído, pois está vinculado a %s produtos!';

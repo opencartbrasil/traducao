@@ -22,7 +22,7 @@ $_['text_time']           = 'Hora';
 
 // Column
 $_['column_name']         = 'Opção';
-$_['column_sort_order']   = 'Ordem na lista';
+$_['column_sort_order']   = 'Posição';
 $_['column_action']       = 'Ação';
 
 // Entry
@@ -30,7 +30,7 @@ $_['entry_name']          = 'Opção';
 $_['entry_type']          = 'Tipo de opção';
 $_['entry_option_value']  = 'Valor';
 $_['entry_image']         = 'Imagem';
-$_['entry_sort_order']    = 'Ordem na lista';
+$_['entry_sort_order']    = 'Posição';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar as opções!';

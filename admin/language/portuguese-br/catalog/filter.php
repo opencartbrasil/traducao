@@ -10,13 +10,13 @@ $_['text_edit']         = 'Editando filtro';
 
 // Column
 $_['column_group']      = 'Grupo de filtros';
-$_['column_sort_order'] = 'Ordem na lista';
+$_['column_sort_order'] = 'Posição';
 $_['column_action']     = 'Ação';
 
 // Entry
 $_['entry_group']       = 'Grupo de filtros';
 $_['entry_name']        = 'Filtro';
-$_['entry_sort_order']  = 'Ordem na lista';
+$_['entry_sort_order']  = 'Posição';
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar filtros!';

@@ -9,7 +9,7 @@ $_['text_list']         = 'Listando pagamentos';
 // Column
 $_['column_name']       = 'Pagamento';
 $_['column_status']     = 'Situação';
-$_['column_sort_order'] = 'Ordem na lista';
+$_['column_sort_order'] = 'Posição';
 $_['column_action']     = 'Ação';
 
 // Error

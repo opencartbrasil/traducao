@@ -1,19 +1,19 @@
 <?php
 // header
-$_['heading_title']  = 'Administração';
+$_['heading_title']  = 'Administration';
 
 // Text
-$_['text_heading']   = 'Administração';
-$_['text_login']     = 'Digite seus dados de acesso.';
-$_['text_forgotten'] = 'Esqueceu sua senha?';
+$_['text_heading']   = 'Administration';
+$_['text_login']     = 'Please enter your login details.';
+$_['text_forgotten'] = 'Forgotten Password';
 
 // Entry
-$_['entry_username'] = 'Usuário';
-$_['entry_password'] = 'Senha';
+$_['entry_username'] = 'Username';
+$_['entry_password'] = 'Password';
 
 // Button
-$_['button_login']   = 'Acessar';
+$_['button_login']   = 'Login';
 
 // Error
-$_['error_login']    = 'Os dados de acesso não são válidos.';
-$_['error_token']    = 'Token de sessão inválido. Faça o login novamente.';
+$_['error_login']    = 'No match for Username and/or Password.';
+$_['error_token']    = 'Invalid token session. Please login again.';

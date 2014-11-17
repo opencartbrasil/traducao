@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']   = 'Esqueceu Sua Senha?';
+$_['heading_title']   = 'Solicitar nova senha';
 
 // Text
-$_['text_account']    = 'Minha Conta';
-$_['text_forgotten']  = 'Esqueceu Sua Senha?';
-$_['text_your_email'] = '<p>Coloque abaixo o e-mail que você utilizou quando cadastrou sua conta</p>';
-$_['text_email']      = 'Clique em <strong>Continuar</strong> para gerarmos uma nova senha, e logo após, enviá-la para o seu e-mail.<br />Este processo é feito automaticamente por nosso sistema.';
-$_['text_success']    = 'Uma nova senha foi gerada e enviada para o seu e-mail.';
+$_['text_account']    = 'Conta';
+$_['text_forgotten']  = 'Solicitar nova senha';
+$_['text_your_email'] = 'Seu e-mail já cadastrado em nossa loja';
+$_['text_email']      = 'Digite o e-mail associado à sua conta. Depois clique em <b>Continuar</b> para enviarmos um e-mail para você.';
+$_['text_success']    = 'Enviamos para o seu e-mail as informações necessárias para modificar sua senha.';
 
 // Entry
-$_['entry_email']     = 'Seu e-mail já cadastrado';
+$_['entry_email']     = 'Seu e-mail';
 
 // Error
-$_['error_email']     = 'Atenção: O e-mail digitado não está cadastrado em nossa loja. Por favor, tente outro e-mail.';
+$_['error_email']     = 'Atenção: O e-mail digitado não foi localizado em nossa loja, tente novamente!';

@@ -11,7 +11,7 @@ $_['text_edit']         = 'Editando moeda';
 // Column
 $_['column_name']       = 'Idioma';
 $_['column_code']       = 'Código';
-$_['column_sort_order'] = 'Ordem na lista';
+$_['column_sort_order'] = 'Posição';
 $_['column_action']     = 'Ação';
 
 // Entry
@@ -20,16 +20,14 @@ $_['entry_code']        = 'Código';
 $_['entry_locale']      = 'Localidade';
 $_['entry_image']       = 'Bandeira';
 $_['entry_directory']   = 'Diretório';
-$_['entry_filename']    = 'Arquivo';
 $_['entry_status']      = 'Situação';
-$_['entry_sort_order']  = 'Ordem na lista';
+$_['entry_sort_order']  = 'Posição';
 
 // Help
 $_['help_code']         = 'Exemplo: pt-br. Não altere se este é o seu idioma padrão.';
 $_['help_locale']       = 'Exemplo: pt_BR.UTF-8, pt_BR, UTF-8';
 $_['help_image']        = 'Exemplo: br.png';
 $_['help_directory']    = 'Exemplo: portuguese-br. Nome do diretório do idioma (sensível a maiúsculas e minúsculas).';
-$_['help_filename']     = 'Exemplo: portuguese-br. Nome do arquivo principal do idioma sem a extensão.';
 $_['help_status']       = 'Habilitar/Desabilitar a exibição do idioma na loja.';
 
 // Error
@@ -39,7 +37,6 @@ $_['error_code']        = 'O código deve ter pelo menos 2 caracteres!';
 $_['error_locale']      = 'A localidade é obrigatória!';
 $_['error_image']       = 'A bandeira deve ter entre 3 e 64 caracteres!';
 $_['error_directory']   = 'O diretório é obrigatório!';
-$_['error_filename']    = 'O arquivo deve ter entre 3 e 64 caracteres!';
 $_['error_default']     = 'Atenção: Este idioma não pode ser excluído, pois ele está definido como o idioma padrão da loja!';
 $_['error_admin']       = 'Atenção: Este idioma não pode ser excluído, pois ele está definido como o idioma padrão da administração!';
 $_['error_store']       = 'Atenção: Este idioma não pode ser excluído, pois está vinculado a %s lojas!';

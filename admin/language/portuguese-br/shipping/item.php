@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']     = 'Per Item';
+$_['heading_title']    = 'Frete por itens';
 
 // Text
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified shipping per item rates!';
-$_['text_edit']        = 'Edit Per Item Shipping';
+$_['text_shipping']    = 'Frete';
+$_['text_success']     = 'Frete por itens modificado com sucesso!';
+$_['text_edit']        = 'Configurações do Frete por itens';
 
 // Entry
-$_['entry_cost']       = 'Cost';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_cost']       = 'Valor por item';
+$_['entry_tax_class']  = 'Grupo de impostos';
+$_['entry_geo_zone']   = 'Região geográfica';
+$_['entry_status']     = 'Situação';
+$_['entry_sort_order'] = 'Posição';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping per item rates!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o Frete por itens!';

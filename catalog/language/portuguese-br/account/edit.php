@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']      = 'Minhas Informações';
+$_['heading_title']      = 'Informações da conta';
 
 // Text
-$_['text_account']       = 'Minha Conta';
-$_['text_edit']          = 'Alterar Informações';
-$_['text_your_details']  = 'Detalhes Pessoais';
-$_['text_success']       = 'Sua conta foi alterada com sucesso!';
+$_['text_account']       = 'Conta';
+$_['text_edit']          = 'Informações da conta';
+$_['text_your_details']  = 'Caso deseje, modifique as informações da sua conta';
+$_['text_success']       = 'As informações da sua conta foram modificadas.';
 
 // Entry
 $_['entry_firstname']    = 'Nome';
@@ -21,4 +21,4 @@ $_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
 $_['error_lastname']     = 'O sobrenome deve entre 1 e 32 caracteres!';
 $_['error_email']        = 'O e-mail não é válido!';
 $_['error_telephone']    = 'O telefone deve ter entre 3 e 32 caracteres!';
-$_['error_custom_field'] = '%s obrigatório!';
+$_['error_custom_field'] = 'O campo %s é obrigatório!';

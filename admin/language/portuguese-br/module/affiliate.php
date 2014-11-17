@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Menu do afiliado';
 
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified affiliate module!';
-$_['text_edit']        = 'Edit Affiliate Module';
+$_['text_module']      = 'Módulos';
+$_['text_success']     = 'Módulo Menu do afiliado modificado com sucesso!';
+$_['text_edit']        = 'Configurações do módulo Menu do afiliado';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Situação';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify affiliate module!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o módulo Menu do afiliado!';

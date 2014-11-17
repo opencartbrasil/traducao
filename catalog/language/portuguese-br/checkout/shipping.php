@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Calcular frete';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
-$_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
+$_['text_success']         = 'O frete foi utilizado com sucesso!';
+$_['text_shipping']        = 'Insira o seu destino para obter uma estimativa do frete.';
+$_['text_shipping_method'] = 'Selecione o frete que deseja utilizar.';
 
 // Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_country']        = 'País';
+$_['entry_zone']           = 'Estado';
+$_['entry_postcode']       = 'CEP';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'O CEP deve ter no mínimo 8 caracteres!';
+$_['error_country']        = 'Selecione o país!';
+$_['error_zone']           = 'Selecione o estado!';
+$_['error_shipping']       = 'Atenção: Selecione um frete!';
+$_['error_no_shipping']    = 'Atenção: Não há opções de frete disponíveis. Entre em <a href="%s">contato</a> e informe os detalhes do pedido!';

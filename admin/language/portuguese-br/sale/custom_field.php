@@ -25,7 +25,7 @@ $_['text_address']          = 'Endereço';
 $_['column_name']           = 'Nome do Campo';
 $_['column_location']       = 'Localização';
 $_['column_type']           = 'Tipo de campo';
-$_['column_sort_order']     = 'Ordem na lista';
+$_['column_sort_order']     = 'Posição';
 $_['column_action']         = 'Ação';
 
 // Entry
@@ -34,10 +34,10 @@ $_['entry_location']        = 'Localização';
 $_['entry_type']            = 'Tipo de campo';
 $_['entry_value']           = 'Valor padrão';
 $_['entry_custom_value']    = 'Texto do valor';
-$_['entry_customer_group']  = 'Grupos de clientes';
-$_['entry_required']        = 'Grupos obrigatórios';
+$_['entry_customer_group']  = 'Tipo de cliente';
+$_['entry_required']        = 'Tipos obrigatórios';
 $_['entry_status']          = 'Situação';
-$_['entry_sort_order']      = 'Ordem na lista';
+$_['entry_sort_order']      = 'Posição';
 
 // Help
 $_['help_sort_order']       = 'Defini a posição do campo conforme a localização que você escolher.';

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sub-Total';
+$_['heading_title']    = 'Sub-total';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified sub-total total!';
-$_['text_edit']        = 'Edit Sub-Total Total';
+$_['text_total']       = 'Total de pedidos';
+$_['text_success']	   = 'Sub-total modificado com sucesso!';
+$_['text_edit']        = 'Configurações do Sub-total';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'Situação';
+$_['entry_sort_order'] = 'Posição';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify sub-total total!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o Sub-total!';

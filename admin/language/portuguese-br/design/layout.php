@@ -23,7 +23,7 @@ $_['entry_store']         = 'Loja';
 $_['entry_route']         = 'Rota';
 $_['entry_module']        = 'Módulo';
 $_['entry_position']      = 'Posição';
-$_['entry_sort_order']    = 'Ordem na lista';
+$_['entry_sort_order']    = 'Posição';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar os layouts!';

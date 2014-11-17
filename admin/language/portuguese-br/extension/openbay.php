@@ -4,7 +4,6 @@ $_['heading_title']        				= 'OpenBay Pro';
 
 // Buttons
 $_['button_retry']						= 'Repetir';
-$_['button_faq_clear']					= 'Apagar';
 $_['button_update']						= 'Atualizar';
 $_['button_patch']						= 'Patch';
 $_['button_ftp_test']					= 'Testar conexão';
@@ -13,9 +12,10 @@ $_['button_faq']						= 'Visualizar FAQ';
 // Tab
 $_['tab_setting']						= 'Configurações';
 $_['tab_update']						= 'Atualizações';
-$_['tab_patch']							= 'Patch';
+$_['tab_developer']						= 'Desenvolvedor';
 
 // Text
+$_['text_dashboard']         			= 'Painel de controle';
 $_['text_success']         				= 'Configurações modificas com sucesso';
 $_['text_products']          			= 'Itens';
 $_['text_orders']          				= 'Pendidos';
@@ -33,7 +33,6 @@ $_['text_getting_messages']     		= 'Obtendo mensagens do OpenBay Pro';
 $_['text_complete']     				= 'Completo';
 $_['text_test_connection']              = 'Testar conexão FTP';
 $_['text_run_update']           		= 'Executar atualização';
-$_['text_patch']            			= 'Publicar patch de atualização';
 $_['text_patch_complete']           	= 'Patch aplicado';
 $_['text_connection_ok']				= 'A conexão com o servidor está funcionando. As pastas do OpenCart foram encontradas';
 $_['text_updated']						= 'O módulo foi atualizado (v.%s)';
@@ -44,6 +43,7 @@ $_['text_install_success']              = 'Mercado instalado';
 $_['text_uninstall_success']            = 'Mercado removido';
 $_['text_title_messages']               = 'Mensagens &amp; notificações';
 $_['text_marketplace_shipped']			= 'A situação do pedido será atualizada para enviado no mercado';
+$_['text_action_warning']				= 'Esta ação é perigosa e protegida por senha.';
 
 // Column
 $_['column_name']          				= 'Plugin';
@@ -51,6 +51,7 @@ $_['column_status']        				= 'Situação';
 $_['column_action']        				= 'Ação';
 
 // Entry
+$_['entry_patch']            			= 'Patch de atualização manual';
 $_['entry_ftp_username']				= 'Usuário FTP';
 $_['entry_ftp_password']				= 'Senha FTP';
 $_['entry_ftp_server']					= 'Servidor FTP';
@@ -61,6 +62,8 @@ $_['entry_ftp_beta']             		= 'Utilizar versão beta';
 $_['entry_courier']						= 'Correio';
 $_['entry_courier_other']           	= 'Outro correio';
 $_['entry_tracking']                	= 'Rastreamento #';
+$_['entry_empty_data']					= 'Apagar dados da loja?';
+$_['entry_password_prompt']				= 'Digite a senha para limpar os dados';
 
 // Error
 $_['error_username']             		= 'O usuário FTP é necessário';
@@ -87,3 +90,4 @@ $_['help_ftp_pasv']                    	= 'Mude sua conexão FTP para o modo pas
 $_['help_ftp_beta']             		= 'Cuidado! A versão beta pode não funcionar corretamente';
 $_['help_patch']						= 'Se você atualizar seus arquivos através do FTP, será necessário executar o patch para concluir a atualização';
 $_['help_clear_faq']					= 'Mostrar todas as notificações de ajuda novamente';
+$_['help_empty_data']					= 'Este processo não pode ser desfeito! Se você não tem certeza do que esta fazendo, cancele o procedimento!';

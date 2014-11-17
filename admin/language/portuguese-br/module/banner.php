@@ -3,18 +3,18 @@
 $_['heading_title']    = 'Banner';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified banner module!';
-$_['text_edit']        = 'Edit Banner Module';
+$_['text_module']      = 'Módulos';
+$_['text_success']     = 'Módulo Banner modificado com sucesso!';
+$_['text_edit']        = 'Configurações do módulo Banner';
 
 // Entry
 $_['entry_banner']     = 'Banner';
-$_['entry_dimension']  = 'Dimension (W x H) and Resize Type';
-$_['entry_width']      = 'Width';
-$_['entry_height']     = 'Height';
-$_['entry_status']     = 'Status';
+$_['entry_dimension']  = 'Dimensão (Largura x Altura)';
+$_['entry_width']      = 'Largura';
+$_['entry_height']     = 'Altura';
+$_['entry_status']     = 'Situação';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify banner module!';
-$_['error_module']     = 'Warning: Module required!';
-$_['error_dimension']  = 'Width &amp; Height dimensions required!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o módulo Banner!';
+$_['error_module']     = 'Atenção: Módulo obrigatório!';
+$_['error_dimension']  = 'Preencha as dimensões de largura e altura!';

@@ -13,7 +13,7 @@ $_['text_all_status']   = 'Todas as situações';
 // Column
 $_['column_date_start'] = 'Data inicial';
 $_['column_date_end']   = 'Data final';
-$_['column_title']      = 'Forma de envio';
+$_['column_title']      = 'Frete';
 $_['column_orders']     = 'Pedidos';
 $_['column_total']      = 'Total';
 

@@ -1,21 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                 = 'Affiliate Program';
+$_['heading_title']                 = 'Programa de afiliados';
 
 // Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
+$_['text_account']                  = 'Afiliado';
+$_['text_login']                    = 'Acessar';
+$_['text_description']              = '<p>O Programa de afiliados da loja <b>%s</b> oferece a possibilidade de uma parceria em que você possa gerar uma renda extra através da indicação de nossos produtos que terminem em um pedido pago. Após realizar o seu cadastro no Programa de afiliados da loja <b>%s</b>, todas as vendas realizadas para clientes que tiverem acessado nossa loja através do seu link de afiliado, vão gerar uma comissão para você. A comissão que oferecemos é de %s sobre o valor líquido do pedido, ou seja, tirando os impostos, taxas e frete.</p><p>Para mais detalhes sobre o Programa de afiliados de nossa loja, leia nosso Termos e condições.</p>';
+$_['text_new_affiliate']            = 'Ainda não é afiliado?';
+$_['text_register_account']         = '<p>Cadastre sua conta de afiliado.</p><p>Ao cadastrar sua conta, você receberá um código de afiliação e poderá gerar links para divulgação de nossos produtos. Se você já tem uma conta de cliente em nossa loja, note que sua conta de cliente não será ligada a sua conta de afiliado.</p>';
+$_['text_returning_affiliate']      = 'Já é afiliado?';
+$_['text_i_am_returning_affiliate'] = 'Se você já faz parte do Programa de afiliados, coloque os seus dados de acesso abaixo:';
+$_['text_forgotten']                = 'Solicitar nova senha';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
+$_['entry_email']                   = 'E-mail';
+$_['entry_password']                = 'Senha';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Atenção: Seus dados de acesso não estão corretos. Se você tem certeza que o e-mail está correto, solicite uma nova senha.';
+$_['error_attempts']                = 'Atenção: Você excedeu o limite de tentativas de acesso. Por segurança, tente acessar novamente após 1 hora.';
+$_['error_approved']                = 'Atenção: Sua conta ainda não foi aprovada. Quando sua conta for aprovada, você receberá um e-mail de confirmação.';

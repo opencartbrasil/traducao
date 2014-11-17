@@ -11,13 +11,13 @@ $_['text_edit']              = 'Editando atributo';
 // Column
 $_['column_name']            = 'Atributo';
 $_['column_attribute_group'] = 'Grupo de atributos';
-$_['column_sort_order']      = 'Ordem na lista';
+$_['column_sort_order']      = 'Posição';
 $_['column_action']          = 'Ação';
 
 // Entry
 $_['entry_name']            = 'Atributo';
 $_['entry_attribute_group'] = 'Grupo de atributos';
-$_['entry_sort_order']      = 'Ordem na lista';
+$_['entry_sort_order']      = 'Posição';
 
 // Error
 $_['error_permission']      = 'Atenção: Você não tem permissão para modificar os atributos!';

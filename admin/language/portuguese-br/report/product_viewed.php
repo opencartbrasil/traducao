@@ -9,7 +9,7 @@ $_['text_success']     = 'Visualizações redefinidas!';
 // Column
 $_['column_name']      = 'Produto';
 $_['column_model']     = 'Modelo';
-$_['column_viewed']    = 'Visualizado';
+$_['column_viewed']    = 'Visualizações';
 $_['column_percent']   = 'Porcentagem';
 
 // Error

@@ -20,4 +20,4 @@ $_['text_year']                    = 'Anual';
 $_['text_view']                    = 'Ver mais...';
 
 // Error
-$_['error_install']                = 'Atenção: A pasta install ainda existe, você deve apagá-la por motivos de segurança!';
+$_['error_install']                = 'Atenção: A pasta install não foi excluída! Para manter a segurança de sua loja, exclua a pasta install.';

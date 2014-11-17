@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shopping Cart';
+$_['heading_title']    = 'Carrinho de compras';
 
 // Text
-$_['text_success']     = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']      = 'Success: You have modified your shopping cart!';
-$_['text_login']       = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_items']       = '%s item(s) - %s';
-$_['text_points']      = 'Reward Points: %s';
-$_['text_next']        = 'What would you like to do next?';
-$_['text_next_choice'] = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_empty']       = 'Your shopping cart is empty!';
-$_['text_day']         = 'day';
-$_['text_week']        = 'week';
-$_['text_semi_month']  = 'half-month';
-$_['text_month']       = 'month';
-$_['text_year']        = 'year';
-$_['text_trial']       = '%s every %s %s for %s payments then ';
-$_['text_recurring']   = '%s every %s %s';
-$_['text_length']      = ' for %s payments';
-$_['text_until_cancelled']   	= 'until cancelled';
-$_['text_recurring_item']    	              = 'Recurring item';
-$_['text_payment_recurring']                    = 'Payment Profile';
-$_['text_trial_description'] 	              = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] 	              = '%s every %d %s(s) for %d payment(s)';
+$_['text_success']     = 'Você adicionou <a href="%s">%s</a> ao seu <a href="%s">carrinho de compras</a>!';
+$_['text_remove']      = 'Você modificou seu carrinho de compras!';
+$_['text_login']       = 'Atenção: Você necessita <a href="%s">acessar</a> sua conta ou <a href="%s">cadastrar-se</a> para ver os preços!';
+$_['text_items']       = '%s - %s';
+$_['text_points']      = 'Pontos: %s';
+$_['text_next']        = 'O que você gostaria de fazer?';
+$_['text_next_choice'] = 'Se você deseja utilizar um cupom, vale presentes, pontos ou calcular o frete, utilize uma das opções abaixo:';
+$_['text_empty']       = 'Seu carrinho de compras está vazio!';
+$_['text_day']         = 'Diária';
+$_['text_week']        = 'Semanal';
+$_['text_semi_month']  = 'Quinzenal';
+$_['text_month']       = 'Mensal';
+$_['text_year']        = 'Anual';
+$_['text_trial']       = '%s a cada %s %s repetido por %s vez(es) para avaliação ';
+$_['text_recurring']   = '%s a cada %s %s';
+$_['text_length']      = ' repetido %s vez(es)';
+$_['text_until_cancelled']     = 'until cancelled';
+$_['text_recurring_item']      = 'Recurring item';
+$_['text_payment_recurring']   = 'Assinatura';
+$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
+$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
 
 // Column
-$_['column_image']          = 'Image';
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Unit Price';
-$_['column_total']          = 'Total';
+$_['column_image']    = 'Imagem';
+$_['column_name']     = 'Produto';
+$_['column_model']    = 'Modelo';
+$_['column_quantity'] = 'Quantidade';
+$_['column_price']    = 'Preço';
+$_['column_total']    = 'Total';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_required']         = '%s required!';
-$_['error_product']          = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']              = 'Produtos marcados com *** não estão disponíveis na quantia solicitada ou não encontram-se em estoque!';
+$_['error_minimum']            = 'A quantidade mínima para %s é %s!';
+$_['error_required']           = 'O campo %s é obrigatório!';
+$_['error_product']            = 'Atenção: Não há produtos no seu carrinho de compras!';
+$_['error_recurring_required'] = 'Selecione um tipo de assinatura!';

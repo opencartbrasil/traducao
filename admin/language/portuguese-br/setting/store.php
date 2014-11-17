@@ -3,10 +3,11 @@
 $_['heading_title']                    = 'Lojas';
 
 // Text
+$_['text_settings']                    = 'Loja';
 $_['text_success']                     = 'Loja modificada com sucesso!';
 $_['text_list']                        = 'Listando lojas';
-$_['text_add']                         = 'Nova Loja';
-$_['text_edit']                        = 'Editando Loja';
+$_['text_add']                         = 'Nova loja';
+$_['text_edit']                        = 'Editando loja';
 $_['text_items']                       = 'Itens';
 $_['text_tax']                         = 'Impostos';
 $_['text_account']                     = 'Conta';
@@ -48,8 +49,8 @@ $_['entry_product_description_length'] = 'Limite da descrição (loja)';
 $_['entry_tax']                        = 'Exibir preços com impostos?';
 $_['entry_tax_default']                = 'Endereço da loja';
 $_['entry_tax_customer']               = 'Endereço do cliente';
-$_['entry_customer_group']             = 'Grupo de clientes padrão';
-$_['entry_customer_group_display']     = 'Grupos de clientes';
+$_['entry_customer_group']             = 'Tipo de cliente padrão';
+$_['entry_customer_group_display']     = 'Tipo de cliente';
 $_['entry_customer_price']             = 'Logar para ver preços?';
 $_['entry_account']                    = 'Termos para cadastro';
 $_['entry_cart_weight']                = 'Exibir peso no carrinho?';

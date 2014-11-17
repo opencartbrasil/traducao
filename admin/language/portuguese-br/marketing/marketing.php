@@ -20,7 +20,7 @@ $_['column_action']     = 'Ação';
 $_['entry_name']        = 'Campanha';
 $_['entry_description'] = 'Informações';
 $_['entry_code']        = 'Código de rastreio';
-$_['entry_example']     = 'Exemplos';
+$_['entry_example']     = 'Urls';
 $_['entry_date_added']  = 'Cadastro';
 
 // Help

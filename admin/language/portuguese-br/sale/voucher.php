@@ -17,17 +17,17 @@ $_['column_to']         = 'Destinatário';
 $_['column_theme']      = 'Tema';
 $_['column_amount']     = 'Valor';
 $_['column_status']     = 'Situação';
-$_['column_order_id']   = 'Pedido Nº';
+$_['column_order_id']   = 'Pedido nº';
 $_['column_customer']   = 'Clientes';
 $_['column_date_added'] = 'Cadastro';
 $_['column_action']     = 'Ação';
 
 // Entry
 $_['entry_code']        = 'Código';
-$_['entry_from_name']   = 'Nome emitente';
-$_['entry_from_email']  = 'E-mail emitente';
-$_['entry_to_name']     = 'Nome destinatário';
-$_['entry_to_email']    = 'E-mail destinatário';
+$_['entry_from_name']   = 'Nome do emitente';
+$_['entry_from_email']  = 'E-mail do emitente';
+$_['entry_to_name']     = 'Nome do destinatário';
+$_['entry_to_email']    = 'E-mail do destinatário';
 $_['entry_theme']       = 'Tema';
 $_['entry_message']     = 'Mensagem';
 $_['entry_amount']      = 'Valor';

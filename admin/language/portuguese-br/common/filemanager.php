@@ -8,7 +8,7 @@ $_['text_directory']   = 'Pasta criada!';
 $_['text_delete']      = 'O arquivo ou pasta foi excluído!';
 
 // Entry
-$_['entry_search']     = 'Localizar..';
+$_['entry_search']     = 'Localizar...';
 $_['entry_folder']     = 'Nome da pasta';
 
 // Error

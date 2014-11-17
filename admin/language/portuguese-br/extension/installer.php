@@ -14,11 +14,11 @@ $_['text_clear']           = 'Todos os arquivos temporários foram removidos!';
 
 // Entry
 $_['entry_upload']         = 'Extensão';
-$_['entry_overwrite']      = 'Arquivos';
+$_['entry_overwrite']      = 'Os arquivos que serão substituídos';
 $_['entry_progress']       = 'Progresso';
 
 // Help
-$_['help_upload']          = 'Requer um arquivo ZIP ou modificação em XML no padrão OCMOD.';
+$_['help_upload']          = 'Requer um arquivo com a extensão ".ocmod.zip" ou ".ocmod.xml".';
 
 // Error
 $_['error_permission']     = 'Atenção: Você não tem permissão para instalar extensões!';
@@ -27,6 +27,8 @@ $_['error_upload']         = 'O arquivo não pode ser enviado!';
 $_['error_filetype']       = 'O tipo de arquivo não é válido!';
 $_['error_file']           = 'O arquivo não pode ser encontrado!';
 $_['error_unzip']          = 'Arquivo ZIP não pode ser extraído!';
+$_['error_code']           = 'A extensão não possui um ID!';
+$_['error_exists']         = 'A extensão %s possui um ID que já está instalado!';
 $_['error_directory']      = 'O diretório para armazenar os arquivos enviados não pode ser encontrado!';
 $_['error_ftp_status']     = 'O FTP precisa ser habilitado nas configurações!';
 $_['error_ftp_connection'] = 'Não foi possível conectar-se como %s:%s';
