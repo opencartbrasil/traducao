@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Informações da conta';
 
 // Text
-$_['text_account']       = 'Conta';
+$_['text_account']       = 'Minha conta';
 $_['text_edit']          = 'Informações da conta';
 $_['text_your_details']  = 'Caso deseje, modifique as informações da sua conta';
 $_['text_success']       = 'As informações da sua conta foram modificadas.';

@@ -3,7 +3,7 @@
 $_['heading_title']                = 'Acessar Conta';
 
 // Text
-$_['text_account']                 = 'Conta';
+$_['text_account']                 = 'Minha conta';
 $_['text_login']                   = 'Acessar';
 $_['text_new_customer']            = 'Ainda não é cliente?';
 $_['text_register']                = 'Cadastre sua conta.';

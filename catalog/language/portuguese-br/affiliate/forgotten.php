@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'Solicitar nova senha';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you';
-$_['text_success']    = 'Success: A new password has been sent to your e-mail address.';
+$_['text_account']    = 'Programa de afiliados';
+$_['text_forgotten']  = 'Solicitar nova senha';
+$_['text_your_email'] = 'Seu e-mail já cadastrado em nossa loja';
+$_['text_email']      = 'Digite o e-mail associado à sua conta. Depois pressione o botão <b>Continuar</b> para enviarmos um e-mail para você.';
+$_['text_success']    = 'Enviamos para o seu e-mail a nova senha.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address';
+$_['entry_email']     = 'Seu e-mail';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
+$_['error_email']     = 'Atenção: O e-mail informado não foi localizado em nossa loja, tente novamente!';

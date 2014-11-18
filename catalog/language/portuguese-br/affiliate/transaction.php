@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Pagamentos de comissões';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Pago em';
+$_['column_description'] = 'Descrição';
+$_['column_amount']      = 'Valor (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_balance']       = 'Your current balance is:';
-$_['text_empty']         = 'You do not have any transactions!';
+$_['text_account']       = 'Programa de afiliados';
+$_['text_transaction']   = 'Histórico de pagamentos';
+$_['text_balance']       = 'O seu saldo é:';
+$_['text_empty']         = 'Você ainda não recebeu pagamentos!';

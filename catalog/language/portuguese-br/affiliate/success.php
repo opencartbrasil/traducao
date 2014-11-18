@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Sua conta foi cadastrada.';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
-$_['text_success']  = 'Success';
+$_['text_message']  = '<p>É com grande satisfação que lhe agradecemos por se cadastrar no programa de afiliados da loja <b>%s</b>.</p> <p>Agora você pode começar a gerar links de nossos produtos com seu código de afiliação.</p> <p>Se você tiver qualquer dúvida, entre em <a href="%s">contato</a> conosco.</p>';
+$_['text_approval'] = '<p>É com grande satisfação que lhe agradecemos por se cadastrar no programa de afiliados da loja <b>%s</b>.</p> <p>Assim que sua conta for aprovada, você receberá um e-mail de aprovação.</p> <p>Se você não receber o e-mail de aprovação dentro de 24 horas, entre em <a href="%s">contato</a> conosco.</p>';
+$_['text_account']  = 'Programa de afiliados';
+$_['text_success']  = 'Confirmação';

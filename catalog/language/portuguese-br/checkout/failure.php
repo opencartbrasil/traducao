@@ -8,13 +8,13 @@ $_['text_checkout'] = 'Finalizar pedido';
 $_['text_failure']  = 'Falha no pagamento';
 $_['text_message']  = '<p>Houve um problema ao processar o seu pagamento, por isso, seu pedido não foi concluído.</p>
 
-<p>Causas possível:</p>
+<p>Possíveis causas:</p>
 <ul>
-  <li>Não a crédito suficiente</li>
-  <li>Falha na verificação</li>
+  <li>Não a crédito suficiente.</li>
+  <li>Falha na verificação.</li>
 </ul>
 
 <p>Você pode tentar novamente utilizando outra forma de pagamento.</p>
 
-<p>Se o problema persistir, entre em <a href="%s">contato</a> e informe os detalhes do pedido.</p>
+<p>Se o problema persistir, entre em <a href="%s">contato</a> conosco e nos informe os detalhes do seu pedido.</p>
 ';

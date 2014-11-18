@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Comprar vale presentes';
 
 // Text
-$_['text_account']     = 'Conta';
+$_['text_account']     = 'Minha conta';
 $_['text_voucher']     = 'Comprar vale presentes';
 $_['text_description'] = 'Este vale presentes será enviado para o destinatário assim que confirmamos o pagamento.';
 $_['text_agree']       = 'Eu entendo e aceito que o vale presentes não é reembolsável.';

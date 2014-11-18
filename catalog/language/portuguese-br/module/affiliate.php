@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Afiliados';
+$_['heading_title']    = 'Programa de afiliados';
 
 // Text
 $_['text_register']    = 'Cadastre-se';
@@ -10,6 +10,6 @@ $_['text_forgotten']   = 'Solicitar nova senha';
 $_['text_account']     = 'Minha conta';
 $_['text_edit']        = 'Informações da conta';
 $_['text_password']    = 'Modificar senha';
-$_['text_payment']     = 'Opções de pagamento';
-$_['text_tracking']    = 'Código de rastreamento';
-$_['text_transaction'] = 'Transações';
+$_['text_payment']     = 'Informações para comissões';
+$_['text_tracking']    = 'Gerador de links';
+$_['text_transaction'] = 'Histórico de pagamentos';

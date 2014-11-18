@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_step_1']         = 'Acordo de Licença';
+$_['heading_step_1']         = 'Acordo de licença';
 $_['heading_step_1_small']   = 'Por favor, leia o contrato de licença do OpenCart';
 $_['heading_step_2']         = 'Pré-Instalação';
 $_['heading_step_2_small']   = 'Verifique se o servidor está configurado corretamente';

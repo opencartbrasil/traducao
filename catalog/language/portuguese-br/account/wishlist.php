@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Lista de desejos';
 
 // Text
-$_['text_account']  = 'Conta';
+$_['text_account']  = 'Minha conta';
 $_['text_instock']  = 'Em estoque';
 $_['text_wishlist'] = 'Lista de desejos (%s)';
 $_['text_login']    = 'Você deve <a href="%s">acessar</a> sua conta ou <a href="%s">cadastrar</a> uma conta para adicionar <a href="%s">%s</a> em sua <a href="%s">lista de desejos</a>!';

@@ -3,10 +3,10 @@
 $_['heading_title']      = 'Solicitar devolução';
 
 // Text
-$_['text_account']       = 'Conta';
+$_['text_account']       = 'Minha conta';
 $_['text_return']        = 'Informações da devolução';
 $_['text_return_detail'] = 'Detalhes da devolução';
-$_['text_description']   = 'Preencha o formulário abaixo para receber um código RMA (Retorno de Mercadoria Adquirida).';
+$_['text_description']   = 'Preencha o formulário abaixo com as informações do seu pedido e do produto que deseja devolver.';
 $_['text_order']         = 'Informações do pedido';
 $_['text_product']       = 'Informações do produto e motivo da devolução';
 $_['text_message']       = '<p>Sua solicitação de devolução foi enviada para o departamento responsável.</p><p> Você receberá notificações via e-mail sobre a situação de sua solicitação.</p>';

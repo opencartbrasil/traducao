@@ -1,16 +1,16 @@
 <?php
 // header
-$_['heading_title']  = 'Reset your password';
+$_['heading_title']  = 'Redefinir sua senha';
 
 // Text
-$_['text_reset']     = 'Reset your password!';
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_reset']     = 'Redefinir senha!';
+$_['text_password']  = 'Digite a nova senha que deseja utilizar.';
+$_['text_success']   = 'Sua senha foi redefinida com sucesso.';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
+$_['entry_password'] = 'Nova senha:';
+$_['entry_confirm']  = 'Repetir a senha:';
 
 // Error
-$_['error_password'] = 'Password must be between 5 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
+$_['error_password'] = 'A nova senha deve ter entre 5 e 20 caracteres!';
+$_['error_confirm']  = 'A senha repetida está errada!';

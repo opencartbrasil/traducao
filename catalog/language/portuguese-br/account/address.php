@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Endereços';
 
 // Text
-$_['text_account']         = 'Conta';
+$_['text_account']         = 'Minha conta';
 $_['text_address_book']    = 'Lista de endereços';
 $_['text_edit_address']    = 'Detalhes do endereço';
 $_['text_add']             = 'O endereço foi cadastrado.';

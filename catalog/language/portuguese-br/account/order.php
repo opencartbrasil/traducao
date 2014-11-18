@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Histórico de pedidos';
 
 // Text
-$_['text_account']          = 'Conta';
+$_['text_account']          = 'Minha conta';
 $_['text_order']            = 'Informações do pedido';
 $_['text_order_detail']     = 'Detalhes do pedido';
 $_['text_invoice_no']       = 'Fatura nº:';

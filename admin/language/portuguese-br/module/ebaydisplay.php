@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Visualizar produtos do eBay';
+$_['heading_title']     = 'Exibir produtos do eBay';
 
 // Text
 $_['text_module']       = 'Módulos';
-$_['text_success']      = 'Módulo Visualizar produtos do eBay modificado com sucesso!';
-$_['text_edit']         = 'Configurações do módulo Visualizar produtos do eBay';
+$_['text_success']      = 'Módulo Exibir produtos do eBay modificado com sucesso!';
+$_['text_edit']         = 'Configurações do módulo Exibir produtos do eBay';
 $_['text_list']         = 'Lista de layout';
 $_['text_start_newest'] = 'Hora de início';
 $_['text_start_random'] = 'Randômico';
@@ -24,6 +24,6 @@ $_['entry_sort']   		= 'Organizar por';
 $_['entry_status']   	= 'Situação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar o módulo Visualizar produtos do eBay!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar o módulo Exibir produtos do eBay!';
 $_['error_image']       = 'Preencha as dimensões de largura e altura!';
 $_['error_openbay']     = 'Você precisa registrar e ativar a integração com OpenBay Pro para integrar com sua conta no eBay!';

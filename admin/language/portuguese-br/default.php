@@ -28,7 +28,7 @@ $_['text_home']                     = 'Principal';
 $_['text_confirm']                  = 'Esta ação não pode ser desfeita! Tem certeza que deseja continuar?';
 
 // Button
-$_['button_insert']                 = 'Novo';
+$_['button_add']                    = 'Novo';
 $_['button_delete']                 = 'Excluir';
 $_['button_save']                   = 'Salvar';
 $_['button_cancel']                 = 'Cancelar';
@@ -127,8 +127,8 @@ $_['tab_payment']                   = 'Detalhes do pagamento';
 $_['tab_product']                   = 'Produtos';
 $_['tab_reward']                    = 'Pontos';
 $_['tab_shipping']                  = 'Detalhes de envio';
-$_['tab_total']                     = 'Totais';
-$_['tab_transaction']               = 'Transações';
+$_['tab_total']                     = 'Total';
+$_['tab_transaction']               = 'Histórico de pagamentos';
 $_['tab_voucher']                   = 'Vales presentes';
 $_['tab_sale']                      = 'Vendas';
 $_['tab_marketing']                 = 'Marketing';
