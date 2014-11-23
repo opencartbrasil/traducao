@@ -6,12 +6,12 @@ $_['heading_title']    = 'Klarna Fee';
 $_['text_total']       = 'Total de pedidos';
 $_['text_success']	   = 'Klarna Fee modificada com sucesso!';
 $_['text_edit']        = 'Configurações do Klarna Fee';
-$_['text_sweden']      = 'Sweden';
-$_['text_norway']      = 'Norway';
-$_['text_finland']     = 'Finland';
-$_['text_denmark']     = 'Denmark';
-$_['text_germany']     = 'Germany';
-$_['text_netherlands'] = 'The Netherlands';
+$_['text_sweden']      = 'Suécia';
+$_['text_norway']      = 'Noruega';
+$_['text_finland']     = 'Finlândia';
+$_['text_denmark']     = 'Dinamarca';
+$_['text_germany']     = 'Alemanha';
+$_['text_netherlands'] = 'Holanda';
 
 // Entry
 $_['entry_total']	   = 'Total mínimo';

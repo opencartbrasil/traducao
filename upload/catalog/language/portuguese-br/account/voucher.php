@@ -24,8 +24,8 @@ $_['help_message']     = 'Opcional';
 $_['help_amount']      = 'O valor deve ficar entre %s e %s';
 
 // Error
-$_['error_to_name']    = 'O nome do destinatário deve ter entre 1 e 64 caracteres!';
-$_['error_from_name']  = 'Seu nome deve ter entre 1 e 64 caracteres!';
+$_['error_to_name']    = 'O nome do destinatário deve ter entre 2 e 64 caracteres!';
+$_['error_from_name']  = 'Seu nome deve ter entre 2 e 64 caracteres!';
 $_['error_email']      = 'O e-mail não é válido!';
 $_['error_theme']      = 'Selecione um tema!';
 $_['error_amount']     = 'O valor deve está entre %s e %s!';

@@ -1,29 +1,29 @@
 <?php
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (SagePay)';
-$_['text_credit_card']			= 'Card Details';
-$_['text_card_type']			= 'Card Type: ';
-$_['text_card_name']			= 'Card Name: ';
-$_['text_card_digits']			= 'Last Digits: ';
-$_['text_card_expiry']			= 'Expiry: ';
-$_['text_trial']				= '%s every %s %s for %s payments then ';
-$_['text_recurring']			= '%s every %s %s';
-$_['text_length']				= ' for %s payments';
+$_['text_title']				= 'Cartão de crédito ou débito (SagePay)';
+$_['text_credit_card']			= 'Detalhes do cartão';
+$_['text_card_type']			= 'Tipo de cartão: ';
+$_['text_card_name']			= 'Nome do cartão: ';
+$_['text_card_digits']			= 'Últimos digitos: ';
+$_['text_card_expiry']			= 'Expiração: ';
+$_['text_trial']				= '%s a cada %s %s repetido por %s vez(es) ';
+$_['text_recurring']			= '%s a cada %s %s';
+$_['text_length']				= ' para %s pagamentos';
 
 // Entry
-$_['entry_card']				= 'New or Existing Card: ';
-$_['entry_card_existing']		= 'Existing';
-$_['entry_card_new']			= 'New';
-$_['entry_card_save']			= 'Remember Card Details';
-$_['entry_cc_owner']			= 'Card Owner';
-$_['entry_cc_type']				= 'Card Type';
-$_['entry_cc_number']			= 'Card Number';
-$_['entry_cc_start_date']		= 'Card Valid From Date';
-$_['entry_cc_expire_date']		= 'Card Expiry Date';
-$_['entry_cc_cvv2']				= 'Card Security Code (CVV2)';
-$_['entry_cc_issue']			= 'Card Issue Number';
-$_['entry_cc_choice']			= 'Choose an Existing Card';
+$_['entry_card']				= 'Novo ou cadastrado: ';
+$_['entry_card_existing']		= 'Cadastrado';
+$_['entry_card_new']			= 'Novo';
+$_['entry_card_save']			= 'Relembrar detalhes do cartão';
+$_['entry_cc_owner']			= 'Títular do cartão';
+$_['entry_cc_type']				= 'Tipo de cartão';
+$_['entry_cc_number']			= 'Número do cartão';
+$_['entry_cc_start_date']		= 'Válido de';
+$_['entry_cc_expire_date']		= 'Expira em';
+$_['entry_cc_cvv2']				= 'Código de segurança (CVV2)';
+$_['entry_cc_issue']			= 'Pergunta';
+$_['entry_cc_choice']			= 'Modificar cartão cadastrado';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(se disponível)';
+$_['help_issue']				= '(somente para cartões Maestro e Solo)';

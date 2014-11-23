@@ -26,8 +26,8 @@ $_['entry_zone']        = 'Estado';
 
 // Error
 $_['error_exists']      = 'Atenção: Este e-mail já está registrado!';
-$_['error_firstname']   = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']    = 'O sobrenome deve ter entre 1 e 32 caracteres!';
+$_['error_firstname']   = 'O nome deve ter entre 2 e 32 caracteres!';
+$_['error_lastname']    = 'O sobrenome deve ter entre 2 e 32 caracteres!';
 $_['error_email']       = 'O e-mail não é válido!';
 $_['error_telephone']   = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_address_1']   = 'O endereço deve ter entre 3 e 128 caracteres!';

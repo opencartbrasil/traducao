@@ -17,8 +17,8 @@ $_['entry_fax']          = 'Fax';
 
 // Error
 $_['error_exists']       = 'Atenção: Este e-mail já está cadastrado!';
-$_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']     = 'O sobrenome deve entre 1 e 32 caracteres!';
+$_['error_firstname']    = 'O nome deve ter entre 2 e 32 caracteres!';
+$_['error_lastname']     = 'O sobrenome deve entre 2 e 32 caracteres!';
 $_['error_email']        = 'O e-mail não é válido!';
-$_['error_telephone']    = 'O telefone deve ter entre 3 e 32 caracteres!';
+$_['error_telephone']    = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_custom_field'] = 'O campo %s é obrigatório!';

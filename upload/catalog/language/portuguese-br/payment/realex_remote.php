@@ -1,20 +1,20 @@
 <?php
 // Text
-$_['text_title']				= 'Credit or Debit Card';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_wait']					= 'Please wait!';
-$_['text_result']				= 'Result';
-$_['text_message']				= 'Message';
-$_['text_cvn_result']			= 'CVN result';
-$_['text_avs_postcode']			= 'AVS postcode';
-$_['text_avs_address']			= 'AVS address';
+$_['text_title']				= 'Cartão de crédito ou débito';
+$_['text_credit_card']			= 'Detalhes do cartão';
+$_['text_wait']					= 'Aguarde!';
+$_['text_result']				= 'Resultado';
+$_['text_message']				= 'Mensagem';
+$_['text_cvn_result']			= 'CVN resultado';
+$_['text_avs_postcode']			= 'AVS CEP';
+$_['text_avs_address']			= 'AVS endereço';
 $_['text_eci']					= 'ECI (3D secure) result';
 $_['text_tss']					= 'TSS result';
-$_['text_card_bank']			= 'Card issue bank';
-$_['text_card_country']			= 'Card country';
-$_['text_card_region']			= 'Card region';
+$_['text_card_bank']			= 'Pergunta do banco do cartão';
+$_['text_card_country']			= 'País do cartão';
+$_['text_card_region']			= 'Estado do cartão';
 $_['text_last_digits']			= 'Last 4 digits';
-$_['text_order_ref']			= 'Order ref';
+$_['text_order_ref']			= 'Referência do pedido';
 $_['text_timestamp']			= 'Timestamp';
 $_['text_card_visa']			= 'Visa';
 $_['text_card_mc']				= 'Mastercard';
@@ -35,21 +35,21 @@ $_['text_3d_s9']				= 'Invalid Response From ACS, no liability shift';
 $_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
 
 // Entry
-$_['entry_cc_type']				= 'Card type';
-$_['entry_cc_number']			= 'Card number';
-$_['entry_cc_name']				= 'Cardholder name';
-$_['entry_cc_expire_date']		= 'Card expiry date';
-$_['entry_cc_cvv2']				= 'Card security code (CVV2)';
-$_['entry_cc_issue']			= 'Card issue number';
+$_['entry_cc_type']				= 'Tipo de cartão';
+$_['entry_cc_number']			= 'Número do cartão';
+$_['entry_cc_name']				= 'Titular do cartão';
+$_['entry_cc_expire_date']		= 'Expira em';
+$_['entry_cc_cvv2']				= 'Código de segurança (CVV2)';
+$_['entry_cc_issue']			= 'Pergunta';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(se disponível)';
+$_['help_issue']				= '(somente para cartões Maestro e Solo)';
 
 // Error
-$_['error_card_number']			= 'Please check your card number is valid';
-$_['error_card_name']			= 'Please check the card holder name is valid';
-$_['error_card_cvv']			= 'Please check the CVV2 is valid';
+$_['error_card_number']			= 'O número do cartão não é válido';
+$_['error_card_name']			= 'O titular do cartão não é válido';
+$_['error_card_cvv']			= 'O código de segurança não é válido';
 $_['error_3d_unable']			= 'Merchant requires 3D secure but unable to verify with your bank, please try later';
 $_['error_3d_500_response_no_payment'] = 'An invalid response was received from the card processor, no payment has been taken';
-$_['error_3d_unsuccessful']		= '3D secure authorisation failed';
+$_['error_3d_unsuccessful']		= 'A autorização 3D secure falhou';

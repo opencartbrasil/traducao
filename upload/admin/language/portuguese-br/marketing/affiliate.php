@@ -66,8 +66,8 @@ $_['help_commission']           = 'Percentual que o afiliado recebe a cada pedid
 // Error
 $_['error_permission']          = 'Atenção: Você não tem permissão para modificar os afiliados!';
 $_['error_exists']              = 'Atenção: Este e-mail já está cadastrado!';
-$_['error_firstname']           = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']            = 'O sobrenome deve ter entre 1 e 32 caracteres!';
+$_['error_firstname']           = 'O nome deve ter entre 2 e 32 caracteres!';
+$_['error_lastname']            = 'O sobrenome deve ter entre 2 e 32 caracteres!';
 $_['error_email']               = 'O e-mail não é válido!';
 $_['error_cheque']              = 'O beneficiário do cheque é obrigatório!';
 $_['error_paypal']              = 'O e-mail no payPal não é válido!';

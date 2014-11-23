@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'Success: API session successfully started!';
+$_['text_success'] = 'A API foi iniciada com sucesso';
 
 // Error
-$_['error_login']  = 'Warning: No match for Username and/or Password.';
+$_['error_login']  = 'Atenção: Os dados de acesso não são válidos.';

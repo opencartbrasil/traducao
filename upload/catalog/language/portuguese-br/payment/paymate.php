@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (Paymate)';
-$_['text_unable']				= 'Unable to locate or update your order status';
-$_['text_declined']				= 'Payment was declined by Paymate';
-$_['text_failed']				= 'Paymate Transaction Failed';
-$_['text_failed_message']		= '<p>Unfortunately there was an error processing your Paymate transaction.</p><p><b>Warning: </b>%s</p><p>Please verify your Paymate account balance before attempting to re-process this order</p><p> If you believe this transaction has completed successfully, or is showing as a deduction in your Paymate account, please <a href="%s">Contact Us</a> with your order details.</p>';
-$_['text_basket']				= 'Basket';
-$_['text_checkout']				= 'Checkout';
-$_['text_success']				= 'Success';
+$_['text_title']				= 'Cartão de crédito ou débito (Paymate)';
+$_['text_unable']				= 'Não foi possível localizar ou atualizar a situação do pedido';
+$_['text_declined']				= 'O pagamento não foi aceito por Paymate';
+$_['text_failed']				= 'A transação de pagamento falhou';
+$_['text_failed_message']		= '<p>Infelizmente houve um erro ao processar sua transação.</p><p><b>Atenção: </b>%s</p><p>Verifique o seu saldo na conta Paymate antes de tentar pagar novamente.</p><p> Se você acredita que esta transação foi concluída com êxito, ou está aparecendo como dedução na sua conta Paymate, entre em <a href="%s">contato</a> e nos informe os detalhes.</p>';
+$_['text_basket']				= 'Carrinho de compras';
+$_['text_checkout']				= 'Finalizar pedido';
+$_['text_success']				= 'Confirmação';

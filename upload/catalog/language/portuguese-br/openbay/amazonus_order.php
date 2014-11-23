@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_paid_amazon'] 			= 'Pagar no Amazon US';
+$_['text_paid_amazon'] 			= 'Pagar com Amazon US';
 $_['text_total_shipping'] 		= 'Frete';
 $_['text_total_shipping_tax'] 	= 'Taxa pelo frete';
 $_['text_total_giftwrap'] 		= 'Embrulhar para presente';

@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']           = 'You order has been successfully modified orders';
+$_['text_success']           = 'O pedido foi modificado com sucesso';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to access the API!';
-$_['error_customer']         = 'Customer details needs to be set!';
-$_['error_payment_address']  = 'Payment address required!';
-$_['error_payment_method']   = 'Payment method required!';
-$_['error_shipping_address'] = 'Shipping address required!';
-$_['error_shipping_method']  = 'Shipping method required!';
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_not_found']        = 'Warning: Order could not be found!';
+$_['error_permission']       = 'Atenção: Você não tem permissão de acesso a API!';
+$_['error_customer']         = 'Os dados do cliente não foram informados!';
+$_['error_payment_address']  = 'O endereço para fatura não foi informado!';
+$_['error_payment_method']   = 'O método de pagamento não foi informado!';
+$_['error_shipping_address'] = 'O endereço para entrega não foi informado!';
+$_['error_shipping_method']  = 'O método de envio não foi informado!';
+$_['error_stock']            = 'Os produtos marcados com *** não estão disponíveis na quantia solicitada ou não encontram-se em estoque!';
+$_['error_minimum']          = 'A quantidade mínima para %s é %s!';
+$_['error_not_found']        = 'Atenção: O pedido solicitado não foi encontrado!';

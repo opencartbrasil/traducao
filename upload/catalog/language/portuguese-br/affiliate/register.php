@@ -44,8 +44,8 @@ $_['entry_confirm']             = 'Repetir a senha';
 
 // Error
 $_['error_exists']              = 'Atenção: Este e-mail já está registrado!';
-$_['error_firstname']           = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']            = 'O sobrenome deve ter entre 1 e 32 caracteres!';
+$_['error_firstname']           = 'O nome deve ter entre 2 e 32 caracteres!';
+$_['error_lastname']            = 'O sobrenome deve ter entre 2 e 32 caracteres!';
 $_['error_email']               = 'O e-mail não é válido!';
 $_['error_telephone']           = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_password']            = 'A senha deve ter entre 4 e 20 caracteres!';

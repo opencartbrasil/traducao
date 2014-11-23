@@ -53,12 +53,12 @@ $_['entry_captcha']      = 'Código da imagem';
 // Error
 $_['text_error']         = 'A devolução que você solicitou não foi encontrada!';
 $_['error_order_id']     = 'O pedido nº é obrigatório!';
-$_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']     = 'O sobrenome deve ter entre 10 e 32 caracteres!';
+$_['error_firstname']    = 'O nome deve ter entre 2 e 32 caracteres!';
+$_['error_lastname']     = 'O sobrenome deve ter entre 2 e 32 caracteres!';
 $_['error_email']        = 'O e-mail não é válido!';
-$_['error_telephone']    = 'O telefone deve ter entre 3 e 32 caracteres!';
+$_['error_telephone']    = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_product']      = 'O produto deve ter entre 3 e 255 caracteres!';
 $_['error_model']        = 'O modelo deve ter entre 3 e 64 caracteres!';
 $_['error_reason']       = 'Você deve selecionar um motivo para a devolução!';
 $_['error_captcha']      = 'O código no campo não é o mesmo da imagem!';
-$_['error_agree']        = 'Atenção: Você deve concordar com os %s!';
+$_['error_agree']        = 'Atenção: Você deve aceitar o contrato de %s!';

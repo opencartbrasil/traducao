@@ -8,8 +8,8 @@ $_['text_success']                           = 'Frete Royal Mail modificado com 
 $_['text_edit']                              = 'Configurações do frete Royal Mail';
 
 // Entry
-$_['entry_rate']                             = 'Rates';
-$_['entry_insurance']                        = 'Compensation Rates';
+$_['entry_rate']                             = 'Preços';
+$_['entry_insurance']                        = 'Compensação de preços';
 $_['entry_display_weight']                   = 'Peso da entrega';
 $_['entry_display_insurance']                = 'Valor do seguro';
 $_['entry_weight_class']                     = 'Unidade de peso';

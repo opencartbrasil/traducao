@@ -1,15 +1,15 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your gift voucher discount has been applied!';
-$_['text_cart']        = 'Success: You have modified your shopping cart!';
+$_['text_success']     = 'O vale presentes foi utilizado com sucesso';
+$_['text_cart']        = 'O carrinho de compras foi modificado com sucesso!';
 
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_for']         = '%s enviou um vale presentes para %s';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_voucher']    = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
+$_['error_permission'] = 'Atenção: Você não tem permissão de acesso a API!';
+$_['error_voucher']    = 'Atenção: O vale presentes é inválido ou já foi utilizado!';
+$_['error_to_name']    = 'O nome do destinatário deve ter entre 2 e 64 caracteres!';
+$_['error_from_name']  = 'Seu nome deve ter entre 2 e 64 caracteres!';
+$_['error_email']      = 'O e-mail não é válido!';
+$_['error_theme']      = 'Selecione um tema!';
+$_['error_amount']     = 'O valor deve está entre %s e %s!';

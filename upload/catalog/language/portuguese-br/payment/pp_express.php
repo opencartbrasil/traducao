@@ -9,7 +9,7 @@ $_['text_cart']					= 'Carrinho de compras';
 $_['text_shipping_updated']		= 'Serviço de envio atualizado';
 $_['text_trial']				= '%s a cada %s %s repetido por %s vez(es) ';
 $_['text_recurring']			= '%s a cada %s %s';
-$_['text_recurring_item']		= 'Assinatura';
+$_['text_recurring_item']		= 'item assinado';
 $_['text_length']				= ' para %s pagamentos';
 
 // Entry
