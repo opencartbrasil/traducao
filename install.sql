@@ -1,5 +1,5 @@
 DELETE FROM `oc_language` WHERE `code` = 'pt-br';
-INSERT INTO `oc_language` (`name`, `code`, `locale`, `image`, `directory`, `sort_order`, `status`) VALUES ('Português (BR)', 'pt-br', 'pt_BR.UTF-8, pt_BR, UTF-8', 'br.png', 'portuguese-br', 1, 1);
+INSERT INTO `imagenet_language` (`name`, `code`, `locale`, `image`, `directory`, `filename`, `sort_order`, `status`) VALUES ('Português (BR)', 'pt-br', 'pt_BR.UTF-8, pt_BR, UTF-8', 'br.png', 'portuguese-br', 'portuguese-br', 1, 1);
 UPDATE `oc_setting` SET `value` = 'pt-br' WHERE `key` = 'config_admin_language';
 UPDATE `oc_setting` SET `value` = 'pt-br' WHERE `key` = 'config_language';
 DELETE FROM `oc_currency` WHERE `code` = 'BRL';
