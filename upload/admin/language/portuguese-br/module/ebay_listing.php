@@ -13,6 +13,7 @@ $_['text_latest']       = 'Novidades';
 $_['text_random']       = 'Randômico';
 
 // Entry
+$_['entry_name']        = 'Módulo';
 $_['entry_username']    = 'Usuário no eBay';
 $_['entry_keywords']    = 'Pesquisar palavras-chave';
 $_['entry_description'] = 'Incluir descrição na pesquisa';
@@ -26,5 +27,6 @@ $_['entry_status']   	= 'Situação';
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar o módulo Exibir produtos do eBay!';
+$_['error_name']        = 'O módulo deve ter entre 3 e 64 caracteres!';
 $_['error_width']       = 'A largura é obrigatória!';
 $_['error_height']      = 'A altura é obrigatória!';
