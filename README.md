@@ -1,8 +1,19 @@
 ### Resumo
 
-Tradução para Português do Brasil, mantida e revisada pela comunidade OpenCart Brasil.
-Esta tradução também executa comandos SQL para a alteração automática do idioma padrão da loja e da administração, além de cadastrar a moeda Real e a colocá-la como moeda padrão da loja. Para mais informações sobre as linhas SQL executadas, visualize o arquivo:
-https://github.com/opencartbrasil/traducao/blob/master/install.sql
+Tradução para Português do Brasil do OpenCart versão 2.0.0.1b, mantida e revisada pela comunidade OpenCart Brasil.
+Segue o link para download do pacote de instalação atualizado: (baixe o arquivo traducao.ocmod.zip)
+https://github.com/opencartbrasil/traducao/releases/tag/2.0.0.1-beta
+
+A partir da versão 2.0 do OpenCart, automatizamos o processo de configuração da tradução aproveitando recursos nativos do OpenCart, ao executar as seguintes tarefas no momento da instalação da tradução:
+
+- Cadastrar automaticamente o idioma português do Brasil;
+- Configurar o idioma português do Brasil como padrão da loja e administração;
+- Cadastrar automaticamente a moeda Real;
+- Configurar a moeda Real como moeda padrão da loja;
+- Desativar a atualização do valor da moeda;
+- Configurar o país Brasil para que o campo CEP seja obrigatório.
+
+Observação: O processo é automatizado quando feito através do instalador de extensões do OpenCart.
 
 Caso deseje doar um valor para contribuir com este trabalho continuo e sempre gratuito, clique no botão abaixo:
 
@@ -10,13 +21,13 @@ Caso deseje doar um valor para contribuir com este trabalho continuo e sempre gr
 
 ### Instalação
 
- 1. Esta tradução é instalada automaticamente através do instalador de extensões do OpenCart, para instalar faça o download do arquivo 'traducao.ocmod.zip' no link: https://github.com/opencartbrasil/traducao/releases
- 2. Na administração da loja acesse o menu Extensions->Extension Installer (Extensões->Instalador).
- 3. Na página do instalador, clique no botão Upload e selecione o arquivo 'traducao.ocmod.zip' (que você baixou deste repositório), e aguarde a conclusão da instalação automática. Caso já tenha instalado outra tradução ou esteja atualizando sua atual tradução, o instalador lhe mostrará os arquivos que serão substituídos no campo 'Files that will be overwritten' (Arquivos que serão substituídos), neste caso, clique no botão Continue (Continuar), e aguarde a conclusão da instalação.
+ 1. Na administração da loja acesse o menu Extensions->Extension Installer (Extensões->Instalador).
+ 2. Na página do instalador, clique no botão Upload e selecione o arquivo 'traducao.ocmod.zip' (que você baixou deste repositório), e aguarde a conclusão da instalação automática. Caso já tenha instalado outra tradução ou esteja atualizando sua atual tradução, o instalador lhe mostrará os arquivos que serão substituídos no campo 'Files that will be overwritten' (Arquivos que serão substituídos), neste caso, clique no botão Continue (Continuar), e aguarde a conclusão da instalação.
+ 3. Pronto! Sua loja está traduzida e configurada.
 
 ### Dificuldades
 
-Caso esteja tendo dificuldades em utilizar o instalador de extensões do OpenCart por causa das configurações de FTP, utilize a modificação abaixo que cria a possibilidade de utilizar o instalador do OpenCart sem a necessidade do FTP:
+Caso esteja tendo dificuldades ao utilizar o instalador de extensões do OpenCart por causa das configurações de FTP, utilize a modificação abaixo que cria a possibilidade de utilizar o instalador do OpenCart sem a necessidade do FTP:
 https://github.com/opencartbrasil/instalador-sem-ftp
 
 ### Dúvidas
