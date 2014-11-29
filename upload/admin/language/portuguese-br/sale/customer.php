@@ -35,6 +35,7 @@ $_['entry_telephone']       = 'Telefone';
 $_['entry_fax']             = 'Fax';
 $_['entry_newsletter']      = 'Enviar ofertas?';
 $_['entry_status']          = 'Situação';
+$_['entry_approved']        = 'Aprovado';
 $_['entry_safe']            = 'Cliente confiável?';
 $_['entry_password']        = 'Senha';
 $_['entry_confirm']         = 'Repetir a senha';
@@ -51,7 +52,6 @@ $_['entry_description']     = 'Detalhes';
 $_['entry_amount']          = 'Valor';
 $_['entry_points']          = 'Pontos';
 $_['entry_name']            = 'Cliente';
-$_['entry_approved']        = 'Aprovado';
 $_['entry_ip']              = 'IP';
 $_['entry_date_added']      = 'Cadastro';
 

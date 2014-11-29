@@ -11,6 +11,7 @@ $_['text_list']        = 'Listando módulos';
 // Column
 $_['column_name']      = 'Módulo';
 $_['column_action']    = 'Ação';
+
 // Entry
 $_['entry_code']       = 'Módulo';
 $_['entry_name']       = 'Nome do módulo';
