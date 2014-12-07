@@ -21,7 +21,7 @@ Caso deseje doar um valor para contribuir com este trabalho continuo e sempre gr
 
 ### Instalação ou atualização
 
- 1. Na administração da loja acesse o menu System->Settings (Configurações-Lojas), clique no botão 'Edit' (Editar), e na aba FTP preencha as informações de acesso ao ftp de sua hospedagem, com atenção especial ao campo 'FTP Root' (Diretório FTP) que é onde deve ficar o diretório raiz onde está instalado o seu OpenCart, depois clique no botão 'Save' (Salvar).
+ 1. Na administração da loja acesse o menu System->Settings (Configurações->Lojas), clique no botão 'Edit' (Editar), e na aba FTP preencha as informações de acesso ao ftp de sua hospedagem, com atenção especial ao campo 'FTP Root' (Diretório FTP) que é onde deve ficar o diretório raiz onde está instalado o seu OpenCart, depois clique no botão 'Save' (Salvar).
  2. Acesse o menu Extensions->Extension Installer (Extensões->Instalador), clique no botão Upload e selecione o arquivo 'traducao.ocmod.zip' (que você baixou deste repositório), e aguarde a conclusão da instalação automática. Caso já tenha instalado outra tradução ou esteja atualizando sua atual tradução, o instalador lhe mostrará os arquivos que serão substituídos no campo 'Files that will be overwritten' (Arquivos que serão substituídos), neste caso, clique no botão Continue (Continuar), e aguarde a conclusão da instalação.
  3. Pronto! Sua loja está traduzida e configurada.
 
