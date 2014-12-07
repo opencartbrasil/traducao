@@ -1,2 +1,2 @@
 <?php
-$_['heading_title']     = 'Produtos no eBay';
+$_['heading_title'] = 'Produtos no eBay';

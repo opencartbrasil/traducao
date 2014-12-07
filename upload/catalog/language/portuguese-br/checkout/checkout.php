@@ -29,11 +29,11 @@ $_['text_address_existing']          = 'Utilizar um endereço cadastrado';
 $_['text_shipping_method']           = 'Selecione como deseja receber o seu pedido.';
 $_['text_payment_method']            = 'Selecione como deseja pagar o seu pedido.';
 $_['text_comments']                  = 'Adicione um comentários sobre seu pedido:';
-$_['text_recurring']                 = 'item assinado';
+$_['text_recurring_item']            = 'item assinado';
 $_['text_payment_recurring']         = 'Assinatura';
 $_['text_trial_description']         = '%s a cada %d %s(s) repetido por %d vez(es)';
 $_['text_payment_description']       = '%s a cada %d %s(s) repetido por %d vez(es)';
-$_['text_payment_until_canceled_description'] = '%s a cada %d %s(s) até ser cancelada';
+$_['text_payment_cancel']            = '%s a cada %d %s(s) até ser cancelada';
 $_['text_day']                       = 'Diária';
 $_['text_week']                      = 'Semanal';
 $_['text_semi_month']                = 'Quinzenal';
@@ -48,7 +48,7 @@ $_['column_price']                   = 'Preço';
 $_['column_total']                   = 'Total';
 
 // Entry
-$_['entry_email_address']            = 'E-Mail Address';
+$_['entry_email_address']            = 'E-mail';
 $_['entry_email']                    = 'E-mail';
 $_['entry_password']                 = 'Senha';
 $_['entry_confirm']                  = 'Repetir a senha';
