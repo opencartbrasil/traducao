@@ -11,7 +11,7 @@ $_['text_day']          = 'Dias';
 $_['text_all_status']   = 'Todas as situações';
 
 // Column
-$_['column_date_start'] = 'Data inciial';
+$_['column_date_start'] = 'Data inicial';
 $_['column_date_end']   = 'Data final';
 $_['column_title']      = 'Imposto';
 $_['column_orders']     = 'Pedidos';
