@@ -27,7 +27,7 @@ $_['help_customer_group']  = 'Para novos clientes. Qual o tipo de cliente que se
 $_['help_debug_logging']   = 'Ao ativar esta opção, as mensagens de erro da integração com o Paypal serão acrescentadas ao log de erros da loja.';
 $_['help_seamless']        = 'Permitir auto-login quando o cliente selecionar fazer o pagamento através do PayPal Express Checkout. Para utilizar esta opção, você deve habilitar e configurar completamente este módulo. Lembrando que você deve utilizar a mesma conta Paypal utilizada no Paypal Express Checkout.';
 $_['help_locale']          = 'Selecione a localidade do PayPal, para compatibilizar com o idioma de sua loja.';
-$_['help_return_url']      = 'Esta url precisa ser adicionada na configuração do seu app no PayPal, para que após o acesso, o cliente retorne para sua loja.';
+$_['help_return_url']      = 'Esta URL precisa ser adicionada na configuração do seu app no PayPal, para que após o acesso, o cliente retorne para sua loja.';
 
 //Error
 $_['error_permission']     = 'Atenção: Você não tem permissão para modificar o módulo Acessar com PayPal!';

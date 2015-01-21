@@ -20,12 +20,12 @@ $_['column_action']     = 'Ação';
 $_['entry_name']        = 'Campanha';
 $_['entry_description'] = 'Informações';
 $_['entry_code']        = 'Código de rastreio';
-$_['entry_example']     = 'Urls';
+$_['entry_example']     = 'URLs';
 $_['entry_date_added']  = 'Cadastro';
 
 // Help
 $_['help_code']         = 'O código de rastreamento que será utilizado nas campanhas de marketing.';
-$_['help_example']      = 'Através da urls geradas automaticamente, a loja pode rastrear a origem dos clientes baseada nas campanhas de marketing.';
+$_['help_example']      = 'Através das URLs geradas automaticamente, a loja pode rastrear a origem dos clientes baseada nas campanhas de marketing.';
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar as campanhas de marketing!';
