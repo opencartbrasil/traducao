@@ -11,7 +11,7 @@ $_['text_order_id']                           = 'Pedido nº:';
 $_['text_invoice_no']                         = 'Fatura nº:';
 $_['text_invoice_date']                       = 'Data da fatura:';
 $_['text_store_name']                         = 'Loja:';
-$_['text_store_url']                          = 'Url da loja:';
+$_['text_store_url']                          = 'URL da loja:';
 $_['text_customer']                           = 'Cliente:';
 $_['text_customer_group']                     = 'Tipo de cliente:';
 $_['text_email']                              = 'E-mail:';
@@ -234,5 +234,5 @@ $_['help_error']                              = 'Retorna uma string de erro com 
 // Error
 $_['error_warning']                           = 'Atenção: Verifique se preencheu todos os campos corretamente!';
 $_['error_permission']                        = 'Atenção: Você não tem permissão para modificar os pedidos!';
-$_['error_curl']                              = 'Atenção: Houve um erro de comunidação emitido pela biblioteca CURL: %s(%s)!';
+$_['error_curl']                              = 'Atenção: Houve um erro de comunidação emitido pela biblioteca cURL: %s(%s)!';
 $_['error_action']                            = 'Atenção: Não foi possível concluir esta ação!';

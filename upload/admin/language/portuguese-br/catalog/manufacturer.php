@@ -19,7 +19,7 @@ $_['column_action']      = 'Ação';
 // Entry
 $_['entry_name']         = 'Marca';
 $_['entry_store']        = 'Lojas';
-$_['entry_keyword']      = 'Url amigável';
+$_['entry_keyword']      = 'URL amigável';
 $_['entry_image']        = 'Logo';
 $_['entry_sort_order']   = 'Posição';
 $_['entry_type']         = 'Tipo';
@@ -30,5 +30,5 @@ $_['help_keyword']       = 'Não utilize espaços, substitua os espaços por - (
 // Error
 $_['error_permission']   = 'Atenção: Você não tem permissão para modificar as marcas!';
 $_['error_name']         = 'A marca deve ter entre 2 e 64 caracteres!';
-$_['error_keyword']      = 'A url amigável já está em uso!';
+$_['error_keyword']      = 'A URL amigável já está em uso!';
 $_['error_product']      = 'Atenção: Esta marca não pode ser excluída, pois está vinculada a %s produtos!';
