@@ -120,7 +120,7 @@ $_['entry_secure']                     = 'Ativar SSL?';
 $_['entry_shared']                     = 'Ativar sessões compartilhadas?';
 $_['entry_robots']                     = 'Robôs';
 $_['entry_seo_url']                    = 'Ativar URL amigável?';
-$_['entry_file_max_size']	           = 'Tamanho máximo do arquivo';
+$_['entry_file_max_size']	             = 'Tamanho máximo do arquivo';
 $_['entry_file_ext_allowed']           = 'Extensões de arquivos permitidas';
 $_['entry_file_mime_allowed']          = 'Tipos de MIME permitidos';
 $_['entry_maintenance']                = 'Ativar modo de manutenção?';
@@ -142,11 +142,11 @@ $_['help_comment']                     = 'Notas especiais que você gostaria de 
 $_['help_location']                    = 'Os diferentes endereços da sua loja que você deseja exibir no formulário de contato.';
 $_['help_currency']                    = 'Moeda padrão da loja. Apague o cache e cookies do seu navegador para que a alteração funcione na loja.';
 $_['help_currency_auto']               = 'Atualiza automaticamente o valor de cada moeda diariamente.';
-$_['help_product_limit'] 	           = 'Quantidade de itens que são exibidos por página (produtos, departamentos, etc).';
+$_['help_product_limit'] 	             = 'Quantidade de itens que são exibidos por página (produtos, departamentos, etc).';
 $_['help_product_description_length']  = 'O limite de caracteres na descrição do produto quando exibido em lista (departamentos, promoções, etc).';
-$_['help_limit_admin']   	           = 'Quantidade de itens que são exibidos por página (pedidos, clientes, etc).';
+$_['help_limit_admin']   	             = 'Quantidade de itens que são exibidos por página (pedidos, clientes, etc).';
 $_['help_product_count']               = 'Exibe a quantidade de produtos dentro dos subdepartamentos no menu de departamentos da loja. Isso vai causar um impacto no desempenho se a loja possuir uma grande quantidade de subdepartamentos!';
-$_['help_review']       	           = 'Habilita comentários para clientes logados.';
+$_['help_review']       	             = 'Habilita comentários para clientes logados.';
 $_['help_review_guest']       	       = 'Habilita comentários para clientes não logados.';
 $_['help_review_mail']                 = 'Envia um e-mail para a loja quando um novo comentário é cadastrado.';
 $_['help_voucher_min']                 = 'Valor mínimo do vale presentes que pode ser comprado na loja.';
@@ -200,7 +200,7 @@ $_['help_password']                    = 'Habilita a recuperação de senha na a
 $_['help_encryption']                  = 'Chave secreta utilizada para encriptação dos dados durante as transações dos pedidos.';
 $_['help_compression']                 = 'Compressão GZIP das páginas para maior eficiência. Nível de compressão deve estar entre 0 e 9. Só utilize se souber como funciona o GZIP.';
 $_['help_google_analytics']            = 'Acesse sua conta no <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, copie o código referente ao domínio de sua loja, e cole o código neste campo para gerar estatísticas simples de acesso da sua loja.';
-$_['help_google_captcha']              = 'Acessar o <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> e cadastre seu site';
+$_['help_google_captcha']              = 'Acesse sua conta no <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA</u></a> e gere as chaves para utilização.';
 
 // Error
 $_['error_warning']                    = 'Atenção: Verifique se você preencheu todos os campos corretamente!';
