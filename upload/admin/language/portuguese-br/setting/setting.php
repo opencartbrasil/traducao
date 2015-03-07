@@ -130,6 +130,9 @@ $_['entry_error_display']              = 'Exibir erros?';
 $_['entry_error_log']                  = 'Log erros?';
 $_['entry_error_filename']             = 'Arquivo de log de erros';
 $_['entry_google_analytics']           = 'Código do Google Analytics';
+$_['entry_google_captcha_public']      = 'Chave pública';
+$_['entry_google_captcha_secret']      = 'Chave privada';
+$_['entry_status']                     = 'Situação';
 
 // Help
 $_['help_geocode']                     = 'Código de geolocalização da loja.';
@@ -196,6 +199,7 @@ $_['help_password']                    = 'Habilita a recuperação de senha na a
 $_['help_encryption']                  = 'Chave secreta utilizada para encriptação dos dados durante as transações dos pedidos.';
 $_['help_compression']                 = 'Compressão GZIP das páginas para maior eficiência. Nível de compressão deve estar entre 0 e 9. Só utilize se souber como funciona o GZIP.';
 $_['help_google_analytics']            = 'Acesse sua conta no <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, copie o código referente ao domínio de sua loja, e cole o código neste campo para gerar estatísticas simples de acesso da sua loja.';
+$_['help_google_captcha']              = 'Acessar o <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> e cadastre seu site';
 
 // Error
 $_['error_warning']                    = 'Atenção: Verifique se você preencheu todos os campos corretamente!';
