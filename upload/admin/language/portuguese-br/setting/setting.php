@@ -1,7 +1,6 @@
 <?php
 // Heading
 $_['heading_title']                    = 'Loja';
-
 // Text
 $_['text_stores']                      = 'Lojas';
 $_['text_success']                     = 'Loja modificada com sucesso!';
@@ -19,6 +18,8 @@ $_['text_shipping']                    = 'Endereço de envio';
 $_['text_payment']                     = 'Endereço de cobrança';
 $_['text_mail']                        = 'Mail';
 $_['text_smtp']                        = 'SMTP';
+$_['text_google_analytics']            = 'Google Analytics';
+$_['text_google_captcha']              = 'Google reCAPTCHA';
 
 // Entry
 $_['entry_name']                       = 'Loja';
@@ -130,6 +131,9 @@ $_['entry_error_display']              = 'Exibir erros?';
 $_['entry_error_log']                  = 'Log erros?';
 $_['entry_error_filename']             = 'Arquivo de log de erros';
 $_['entry_google_analytics']           = 'Código do Google Analytics';
+$_['entry_google_captcha_public']      = 'Chave pública';
+$_['entry_google_captcha_secret']      = 'Chave privada';
+$_['entry_status']                     = 'Situação';
 
 // Help
 $_['help_geocode']                     = 'Código de geolocalização da loja.';
@@ -188,7 +192,7 @@ $_['help_secure']                      = 'É necessário possuir um certificado 
 $_['help_shared']                      = 'Ativa o compartilhamento do cookie de sessão entre as lojas para que o carrinho possa ser utilizado em domínios diferentes.';
 $_['help_robots']                      = 'Lista de robôs de busca que não terão acesso as sessões compartilhadas. Coloque um por linha.';
 $_['help_seo_url']                     = 'O módulo "mod-rewrite" do Apache deve estar instalado e o arquivo ".htaccess.txt" deve ser renomeado para ".htaccess" para que este recurso funcione.';
-$_['help_file_max_size']		       = 'Tamanho máximo do arquivo que será enviado através do Gerenciado de Arquivos da loja. Coloque em bytes.';
+$_['help_file_max_size']		           = 'Tamanho máximo do arquivo que será enviado através do Gerenciado de Arquivos da loja. Coloque em bytes.';
 $_['help_file_ext_allowed']            = 'Lista de extensões de arquivos que serão permitidas nos uploads na loja. Coloque uma por linha.';
 $_['help_file_mime_allowed']           = 'Lista de tipos de arquivos que serão permitidos nos uploads na loja. Coloque um por linha.';
 $_['help_maintenance']                 = 'Fecha o acesso à loja para realização de manutenção. A loja continuará visível ao usuário logado como administrador.';
@@ -196,6 +200,7 @@ $_['help_password']                    = 'Habilita a recuperação de senha na a
 $_['help_encryption']                  = 'Chave secreta utilizada para encriptação dos dados durante as transações dos pedidos.';
 $_['help_compression']                 = 'Compressão GZIP das páginas para maior eficiência. Nível de compressão deve estar entre 0 e 9. Só utilize se souber como funciona o GZIP.';
 $_['help_google_analytics']            = 'Acesse sua conta no <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, copie o código referente ao domínio de sua loja, e cole o código neste campo para gerar estatísticas simples de acesso da sua loja.';
+$_['help_google_captcha']              = 'Acessar o <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> e cadastre seu site';
 
 // Error
 $_['error_warning']                    = 'Atenção: Verifique se você preencheu todos os campos corretamente!';
@@ -206,8 +211,8 @@ $_['error_address']                    = 'O endereço deve ter entre 10 e 256 ca
 $_['error_email']                      = 'O e-mail não é válido!';
 $_['error_telephone']                  = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_meta_title']                 = 'O meta título deve ter entre 3 e 32 caracteres!';
-$_['error_limit']       	           = 'O limite é obrigatório!';
-$_['error_login_attempts']       	   = 'As tentativas de login devem ser maior que 0!';
+$_['error_limit']       	             = 'O limite é obrigatório!';
+$_['error_login_attempts']       	     = 'As tentativas de login devem ser maior que 0!';
 $_['error_customer_group_display']     = 'Você deve selecionar o grupo de clientes padrão!';
 $_['error_voucher_min']                = 'O valor mínimo do vale presentes é obrigatório!';
 $_['error_voucher_max']                = 'O valor máximo do vale presentes é obrigatório!';
