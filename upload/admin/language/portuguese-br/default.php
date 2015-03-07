@@ -136,6 +136,7 @@ $_['tab_online']                    = 'Pessoas online';
 $_['tab_activity']                  = 'Atividade recente';
 $_['tab_recurring']                 = 'Assinaturas';
 $_['tab_action']                    = 'Ação';
+$_['tab_google']                    = 'Google';
 
 // Error
 $_['error_exception']               = 'Código do erro (%s): %s de %s na linha %s';
