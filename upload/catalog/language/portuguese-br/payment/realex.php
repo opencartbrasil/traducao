@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['text_title']				= 'Cartão de crédito ou débito (Realex)';
+$_['text_title']				= 'CartÃ£o de crÃ©dito ou dÃ©bito (Realex)';
 
 // Button
 $_['button_confirm']			= 'Confirmar';
 
 // Entry
-$_['entry_cc_type']				= 'Tipo de cartão';
+$_['entry_cc_type']				= 'Tipo de cartÃ£o';
 
 // Text
 $_['text_success']				= 'Your payment has been authorised.';
@@ -23,12 +23,12 @@ $_['text_avs_postcode']			= 'AVS postcode';
 $_['text_avs_address']			= 'AVS address';
 $_['text_eci']					= 'ECI (3D secure) result';
 $_['text_tss']					= 'TSS result';
-$_['text_order_ref']			= 'Referência do pedido';
+$_['text_order_ref']			= 'ReferÃªncia do pedido';
 $_['text_timestamp']			= 'Timestamp';
-$_['text_card_type']			= 'Tipo de cartão';
-$_['text_card_digits']			= 'Número do cartão';
+$_['text_card_type']			= 'Tipo de cartÃ£o';
+$_['text_card_digits']			= 'NÃºmero do cartÃ£o';
 $_['text_card_exp']				= 'Expira em';
-$_['text_card_name']			= 'Titular do cartão';
+$_['text_card_name']			= 'Titular do cartÃ£o';
 $_['text_3d_s1']				= 'Cardholder Not Enrolled, liability shift';
 $_['text_3d_s2']				= 'Unable To Verify Enrolment, no liability shift';
 $_['text_3d_s3']				= 'Invalid Response From Enrolment Server, no liability shift';

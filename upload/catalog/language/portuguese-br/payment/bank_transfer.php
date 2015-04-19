@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_title']				= 'Dep髎ito banc醨io';
-$_['text_instruction']			= 'Instru珲es';
+$_['text_title']				= 'Dep贸sito banc谩rio';
+$_['text_instruction']			= 'Instru莽玫es';
 $_['text_description']			= 'Deposite o valor total do pedido na conta:';
-$_['text_payment']				= 'Ap髎 o dep髎ito, envie a c髉ia do comprovante por e-mail, acompanhado dos dados do seu pedido.';
+$_['text_payment']				= 'Ap贸s o dep贸sito, envie a c贸pia do comprovante por e-mail, acompanhado dos dados do seu pedido.';

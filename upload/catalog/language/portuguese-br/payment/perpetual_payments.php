@@ -1,20 +1,20 @@
 <?php
 // Text
-$_['text_title']				= 'Cartão de crédito ou débito (pagamento seguro pelo Perpetual Payments)';
-$_['text_credit_card']			= 'Detalhes do cartão';
-$_['text_transaction']			= 'ID da transação:';
+$_['text_title']				= 'CartÃ£o de crÃ©dito ou dÃ©bito (pagamento seguro pelo Perpetual Payments)';
+$_['text_credit_card']			= 'Detalhes do cartÃ£o';
+$_['text_transaction']			= 'ID da transaÃ§Ã£o:';
 $_['text_avs']					= 'AVS/CVV:';
 $_['text_avs_full_match']		= 'Corresponde completamente';
-$_['text_avs_not_match']		= 'Não corresponde';
-$_['text_authorisation']		= 'Código de autorização:';
+$_['text_avs_not_match']		= 'NÃ£o corresponde';
+$_['text_authorisation']		= 'CÃ³digo de autorizaÃ§Ã£o:';
 
 // Entry
-$_['entry_cc_number']			= 'Número do cartão';
-$_['entry_cc_start_date']		= 'Válido até';
+$_['entry_cc_number']			= 'NÃºmero do cartÃ£o';
+$_['entry_cc_start_date']		= 'VÃ¡lido atÃ©';
 $_['entry_cc_expire_date']		= 'Expira em';
-$_['entry_cc_cvv2']				= 'Código de segurança (CVV2)';
-$_['entry_cc_issue']			= 'Pergunta de segurança';
+$_['entry_cc_cvv2']				= 'CÃ³digo de seguranÃ§a (CVV2)';
+$_['entry_cc_issue']			= 'Pergunta de seguranÃ§a';
 
 // Help
-$_['help_start_date']			= '(se disponível)';
+$_['help_start_date']			= '(se disponÃ­vel)';
 $_['help_issue']				= '(somente para Maestro e Solo)';

@@ -7,16 +7,16 @@ $_['text_additional']			= 'Klarna Invoice requires some additional information b
 $_['text_male']					= 'Masculino';
 $_['text_female']				= 'Femino';
 $_['text_year']					= 'Ano';
-$_['text_month']				= 'Mês';
+$_['text_month']				= 'MÃªs';
 $_['text_day']					= 'Dia';
-$_['text_comment']				= 'Klarna\'s Fatura nº: %s. ' . "\n" . '%s/%s: %.4f';
+$_['text_comment']				= 'Klarna\'s Fatura nÂº: %s. ' . "\n" . '%s/%s: %.4f';
 
 // Entry
 $_['entry_gender']				= 'Sexo';
 $_['entry_pno']					= 'Personal Number';
-$_['entry_dob']					= 'Aniversário';
+$_['entry_dob']					= 'AniversÃ¡rio';
 $_['entry_phone_no']			= 'Telefone';
-$_['entry_street']				= 'Endereço';
+$_['entry_street']				= 'EndereÃ§o';
 $_['entry_house_no']			= 'House No.';
 $_['entry_house_ext']			= 'House Ext.';
 $_['entry_company']				= 'Company Registration Number';

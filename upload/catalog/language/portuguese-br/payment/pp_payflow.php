@@ -1,24 +1,24 @@
 <?php
 // Text
-$_['text_title']				= 'Cartão de crédito ou débito (pagamento seguro pelo PayPal)';
-$_['text_credit_card']			= 'Detalhes do cartão';
-$_['text_start_date']			= '(se disponível)';
+$_['text_title']				= 'CartÃ£o de crÃ©dito ou dÃ©bito (pagamento seguro pelo PayPal)';
+$_['text_credit_card']			= 'Detalhes do cartÃ£o';
+$_['text_start_date']			= '(se disponÃ­vel)';
 $_['text_issue']				= '(somente para Maestro e Solo)';
 $_['text_wait']					= 'Carregando...';
 
 // Entry
-$_['entry_cc_owner']			= 'Titular do cartão:';
-$_['entry_cc_type']				= 'Tipo de cartão:';
-$_['entry_cc_number']			= 'Número do cartão:';
-$_['entry_cc_start_date']		= 'Válido até:';
+$_['entry_cc_owner']			= 'Titular do cartÃ£o:';
+$_['entry_cc_type']				= 'Tipo de cartÃ£o:';
+$_['entry_cc_number']			= 'NÃºmero do cartÃ£o:';
+$_['entry_cc_start_date']		= 'VÃ¡lido atÃ©:';
 $_['entry_cc_expire_date']		= 'Expira em:';
-$_['entry_cc_cvv2']				= 'Código de segurança (CVV2):';
-$_['entry_cc_issue']			= 'Pergunta de segurança:';
+$_['entry_cc_cvv2']				= 'CÃ³digo de seguranÃ§a (CVV2):';
+$_['entry_cc_issue']			= 'Pergunta de seguranÃ§a:';
 
 // Error
-$_['error_required']			= 'Atenção: Todos os campos são de preenchimento obrigatório.';
-$_['error_general']				= 'Atenção: Ocorreram problemas com o pagamento. Tente novamente.';
-$_['error_config']				= 'Atenção: Erro nas configurações do pagamento. Verifique suas credenciais de acesso.';
-$_['error_address']				= 'Atenção: Suas informações de pagamento como: endereço, cidade, estado, e CEP estão incorretas. Tente novamente.';
-$_['error_declined']			= 'Atenção: Seu pagamento foi recusado. Tente novamente.';
-$_['error_invalid']				= 'Atenção: As informações do cartão não são válidas. Tente novamente.';
+$_['error_required']			= 'AtenÃ§Ã£o: Todos os campos sÃ£o de preenchimento obrigatÃ³rio.';
+$_['error_general']				= 'AtenÃ§Ã£o: Ocorreram problemas com o pagamento. Tente novamente.';
+$_['error_config']				= 'AtenÃ§Ã£o: Erro nas configuraÃ§Ãµes do pagamento. Verifique suas credenciais de acesso.';
+$_['error_address']				= 'AtenÃ§Ã£o: Suas informaÃ§Ãµes de pagamento como: endereÃ§o, cidade, estado, e CEP estÃ£o incorretas. Tente novamente.';
+$_['error_declined']			= 'AtenÃ§Ã£o: Seu pagamento foi recusado. Tente novamente.';
+$_['error_invalid']				= 'AtenÃ§Ã£o: As informaÃ§Ãµes do cartÃ£o nÃ£o sÃ£o vÃ¡lidas. Tente novamente.';

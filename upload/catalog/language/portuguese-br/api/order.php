@@ -3,12 +3,12 @@
 $_['text_success']           = 'O pedido foi modificado com sucesso';
 
 // Error
-$_['error_permission']       = 'AtenÁ„o: VocÍ n„o tem permiss„o de acesso a API!';
-$_['error_customer']         = 'Os dados do cliente n„o foram informados!';
-$_['error_payment_address']  = 'O endereÁo para fatura n„o foi informado!';
-$_['error_payment_method']   = 'O mÈtodo de pagamento n„o foi informado!';
-$_['error_shipping_address'] = 'O endereÁo para entrega n„o foi informado!';
-$_['error_shipping_method']  = 'O mÈtodo de envio n„o foi informado!';
-$_['error_stock']            = 'Os produtos marcados com *** n„o est„o disponÌveis na quantia solicitada ou n„o encontram-se em estoque!';
-$_['error_minimum']          = 'A quantidade mÌnima para %s È %s!';
-$_['error_not_found']        = 'AtenÁ„o: O pedido solicitado n„o foi encontrado!';
+$_['error_permission']       = 'Aten√ß√£o: Voc√™ n√£o tem permiss√£o de acesso a API!';
+$_['error_customer']         = 'Os dados do cliente n√£o foram informados!';
+$_['error_payment_address']  = 'O endere√ßo para fatura n√£o foi informado!';
+$_['error_payment_method']   = 'O m√©todo de pagamento n√£o foi informado!';
+$_['error_shipping_address'] = 'O endere√ßo para entrega n√£o foi informado!';
+$_['error_shipping_method']  = 'O m√©todo de envio n√£o foi informado!';
+$_['error_stock']            = 'Os produtos marcados com *** n√£o est√£o dispon√≠veis na quantia solicitada ou n√£o encontram-se em estoque!';
+$_['error_minimum']          = 'A quantidade m√≠nima para %s √© %s!';
+$_['error_not_found']        = 'Aten√ß√£o: O pedido solicitado n√£o foi encontrado!';

@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_title']				= 'Cartão de crédito ou débito';
-$_['text_secure_connection']	= 'Acessando conexão segura...';
+$_['text_title']				= 'CartÃ£o de crÃ©dito ou dÃ©bito';
+$_['text_secure_connection']	= 'Acessando conexÃ£o segura...';
 
 // Error
-$_['error_connection']			= 'Não foi possível conectar ao PayPal. Entre em contato com nosso atendimento para lhe ajudarmos a concluir seu pagamento.';
+$_['error_connection']			= 'NÃ£o foi possÃ­vel conectar ao PayPal. Entre em contato com nosso atendimento para lhe ajudarmos a concluir seu pagamento.';

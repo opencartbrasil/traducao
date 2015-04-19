@@ -3,5 +3,5 @@
 $_['text_success']     = 'O cupom foi utilizado com sucesso';
 
 // Error
-$_['error_permission'] = 'AtenÁ„o: VocÍ n„o tem permiss„o de acesso a API!';
-$_['error_coupon']     = 'AtenÁ„o: O cupom È inv·lido, expirou, atingiu o seu limite de uso ou j· foi utilizado!';
+$_['error_permission'] = 'Aten√ß√£o: Voc√™ n√£o tem permiss√£o de acesso a API!';
+$_['error_coupon']     = 'Aten√ß√£o: O cupom √© inv√°lido, expirou, atingiu o seu limite de uso ou j√° foi utilizado!';

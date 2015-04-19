@@ -3,4 +3,4 @@
 $_['text_success'] = 'A API foi iniciada com sucesso';
 
 // Error
-$_['error_login']  = 'AtenÁ„o: Os dados de acesso n„o s„o v·lidos.';
+$_['error_login']  = 'Aten√ß√£o: Os dados de acesso n√£o s√£o v√°lidos.';

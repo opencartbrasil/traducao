@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_title']				= 'Cartão de crédito ou débito (pagamento seguro pelo PayPal)';
+$_['text_title']				= 'CartÃ£o de crÃ©dito ou dÃ©bito (pagamento seguro pelo PayPal)';
 $_['text_wait']					= 'Aguarde...';
-$_['text_credit_card']			= 'Detalhes do cartão';
+$_['text_credit_card']			= 'Detalhes do cartÃ£o';
 $_['text_loading']				= 'Carregando';
 
 // Entry
-$_['entry_cc_type']				= 'Tipo de cartão';
-$_['entry_cc_number']			= 'Número do cartão';
-$_['entry_cc_start_date']		= 'Válido até';
+$_['entry_cc_type']				= 'Tipo de cartÃ£o';
+$_['entry_cc_number']			= 'NÃºmero do cartÃ£o';
+$_['entry_cc_start_date']		= 'VÃ¡lido atÃ©';
 $_['entry_cc_expire_date']		= 'Expira em';
-$_['entry_cc_cvv2']				= 'Código de segurança (CVV2)';
-$_['entry_cc_issue']			= 'Pergunta de segurança';
+$_['entry_cc_cvv2']				= 'CÃ³digo de seguranÃ§a (CVV2)';
+$_['entry_cc_issue']			= 'Pergunta de seguranÃ§a';
 
 // Help
-$_['help_start_date']			= '(se disponível)';
+$_['help_start_date']			= '(se disponÃ­vel)';
 $_['help_issue']				= '(somente para Maestro e Solo)';
