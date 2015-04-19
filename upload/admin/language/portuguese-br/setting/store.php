@@ -18,7 +18,7 @@ $_['text_payment']                     = 'Endereço de cobrança';
 
 // Column
 $_['column_name']                      = 'Loja';
-$_['column_url']	                     = 'URL da loja';
+$_['column_url']	                   = 'URL da loja';
 $_['column_action']                    = 'Ação';
 
 // Entry
@@ -83,7 +83,7 @@ $_['help_open']                        = 'Horário de funcionamento da loja.';
 $_['help_comment']                     = 'Notas especiais que você gostaria de informar ao cliente da loja.';
 $_['help_location']                    = 'Os diferentes endereços da sua loja que você deseja exibir no formulário de contato.';
 $_['help_currency']                    = 'Moeda padrão da loja. Apague o cache e cookies do seu navegador para que a alteração funcione na loja.';
-$_['help_product_limit'] 	             = 'Quantidade de itens que são exibidos por página (produtos, departamentos, etc).';
+$_['help_product_limit'] 	           = 'Quantidade de itens que são exibidos por página (produtos, departamentos, etc).';
 $_['help_product_description_length']  = 'O limite de caracteres na descrição do produto quando exibido em lista (departamentos, promoções, etc).';
 $_['help_tax_default']                 = 'Endereço da loja utilizado para calcular os impostos quando o cliente não está logado na loja.';
 $_['help_tax_customer']                = 'Endereço do cliente utilizado para calcular os impostos assim que o cliente logar na loja.';
@@ -109,7 +109,7 @@ $_['error_email']                      = 'O e-mail não é válido!';
 $_['error_telephone']                  = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_url']                        = 'A URL da loja é obrigatória!';
 $_['error_meta_title']                 = 'O meta título deve ter entre 3 e 32 caracteres!';
-$_['error_limit']       	             = 'O limite é obrigatório!';
+$_['error_limit']       	           = 'O limite é obrigatório!';
 $_['error_customer_group_display']     = 'Você deve selecionar o grupo de clientes padrão!';
 $_['error_image_thumb']                = 'As dimensões são obrigatórias!';
 $_['error_image_popup']                = 'As dimensões são obrigatórias!';
