@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Relatórios de fretes';
+$_['heading_title']     = 'Relatório de fretes';
 
 // Text
 $_['text_list']         = 'Listando fretes';
