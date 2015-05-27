@@ -105,22 +105,22 @@ $_['text_sub_amt']					= 'Subscription amount';
 $_['text_sub_period']				= 'Subscription period';
 $_['text_redirect']					= 'Redirect';
 $_['text_iframe']					= 'Iframe';
-$_['help_checkout_method']			= "Please use Redirect method if do not have SSL installed or if you do not have Pay with PayPal option disabled on your hosted payment page.";
-$_['help_debug']					= "Logs additional information.";
+$_['help_checkout_method']			= 'Please use Redirect method if do not have SSL installed or if you do not have Pay with PayPal option disabled on your hosted payment page.';
+$_['help_debug']					= 'Logs additional information.';
 
 // Column
 $_['column_trans_id']				= 'Transaction ID';
-$_['column_amount']					= 'Amount';
-$_['column_type']					= 'Payment type';
-$_['column_status']					= 'Status';
+$_['column_amount']					= 'Valor';
+$_['column_type']					= 'Tipo de pagamento';
+$_['column_status']					= 'Situação';
 $_['column_pend_reason']			= 'Pending reason';
-$_['column_date_added']				= 'Created';
-$_['column_action']					= 'Action';
+$_['column_date_added']				= 'Cadastro';
+$_['column_action']					= 'Ação';
 
 // Tab
-$_['tab_settings']					= 'Settings';
-$_['tab_order_status']				= 'Order Status';
-$_['tab_checkout_customisation']	= 'Checkout Customisation';
+$_['tab_settings']					= 'Configurações';
+$_['tab_order_status']				= 'Situações do pedido';
+$_['tab_checkout_customisation']	= 'Finalização do pedido';
 
 // Entry
 $_['entry_username']				= 'API Username';

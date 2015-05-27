@@ -5,7 +5,6 @@ $_['heading_title']    = 'Google Merchante Center';
 // Text
 $_['text_feed']        = 'Alimentadores';
 $_['text_success']     = 'Módulo Google Merchante Center modificado com sucesso!';
-$_['text_list']        = 'Lista de layouts';
 $_['text_edit']        = 'Editando Google Merchante Center';
 
 // Entry

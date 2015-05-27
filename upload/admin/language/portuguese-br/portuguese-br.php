@@ -92,12 +92,8 @@ $_['button_uninstall']              = 'Desinstalar';
 $_['button_login']                  = 'Login na loja';
 $_['button_unlock']                 = 'Desbloquear conta';
 $_['button_link']                   = 'Link';
-$_['button_shipping']               = 'Aplicar o método de envio';
-$_['button_payment']                = 'Aplicar o método de pagamento';
-$_['button_coupon']                 = 'Aplicar cupom';
-$_['button_voucher']                = 'Aplicar vale presentes';
-$_['button_reward']                 = 'Aplicar pontos';
 $_['button_currency']               = 'Atualizar valores da moeda';
+$_['button_apply']                  = 'Aplicar';
 
 // Tab
 $_['tab_address']                   = 'Endereço';
@@ -109,7 +105,6 @@ $_['tab_design']                    = 'Design';
 $_['tab_discount']                  = 'Descontos';
 $_['tab_general']                   = 'Geral';
 $_['tab_history']                   = 'Histórico';
-$_['tab_fraud']                     = 'Fraude';
 $_['tab_ftp']                       = 'FTP';
 $_['tab_ip']                        = 'Endereço IP';
 $_['tab_links']                     = 'Ligações';

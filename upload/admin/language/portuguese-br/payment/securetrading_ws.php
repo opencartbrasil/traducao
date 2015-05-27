@@ -60,14 +60,14 @@ $_['entry_hour'] = 'Hour';
 $_['entry_minute'] = 'Minute';
 
 $_['column_order_id'] = 'Order ID';
-$_['column_transaction_reference'] = "Transaction reference";
-$_['column_customer'] = "Customer";
-$_['column_total'] = "Total";
-$_['column_currency'] = "Currency";
-$_['column_settle_status'] = "Settle status";
-$_['column_status'] = "Status";
-$_['column_type'] = "Type";
-$_['column_payment_type'] = "Payment type";
+$_['column_transaction_reference'] = 'Transaction reference';
+$_['column_customer'] = 'Customer';
+$_['column_total'] = 'Total';
+$_['column_currency'] = 'Currency';
+$_['column_settle_status'] = 'Settle status';
+$_['column_status'] = 'Status';
+$_['column_type'] = 'Type';
+$_['column_payment_type'] = 'Payment type';
 
 $_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão de pagamento Secure Trading Web Service!';
 $_['error_site_reference'] = 'Site Reference is required';

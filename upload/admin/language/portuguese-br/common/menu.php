@@ -22,6 +22,7 @@ $_['text_error_log']                   = 'Log de erros';
 $_['text_extension']                   = 'Extensões';
 $_['text_feed']                        = 'Alimentadores';
 $_['text_filter']                      = 'Filtros';
+$_['text_fraud']                       = 'Antifraudes';
 $_['text_geo_zone']                    = 'Regiões geográficas';
 $_['text_information']                 = 'Páginas de informações';
 $_['text_installer']                   = 'Instalador';

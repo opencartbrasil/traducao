@@ -1,5 +1,4 @@
 <?php
-
 $_['text_title'] = 'Cartão de crédito ou débito';
 $_['text_card_details'] = 'Detalhes do cartão';
 $_['text_wait'] = 'Processando o seu pagamento';
@@ -20,10 +19,10 @@ $_['text_transaction_declined'] = 'Seu banco não aprovou a transação. Por fav
 $_['text_transaction_failed'] = 'Não foi possível processar o pagamento. Por favor verifique os detalhes que você forneceu.';
 $_['text_connection_error'] = 'Por favor, tente novamente mais tarde ou escolha outro método de pagamento.';
 
-$_['entry_type'] = "Tipo de cartão";
-$_['entry_number'] = "Número do cartão";
-$_['entry_expire_date'] = "Expira em";
-$_['entry_cvv2'] = "Código de segurança (CVV2)";
+$_['entry_type'] = 'Tipo de cartão';
+$_['entry_number'] = 'Número do cartão';
+$_['entry_expire_date'] = 'Expira em';
+$_['entry_cvv2'] = 'Código de segurança (CVV2)';
 
 $_['button_confirm'] = 'Confirmar';
 

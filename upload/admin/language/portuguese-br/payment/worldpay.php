@@ -6,7 +6,7 @@ $_['heading_title']				 = 'Worldpay Online Payments';
 // Text
 $_['text_payment']				 = 'Pagamentos';
 $_['text_success']		         = 'Worldpay Online Payments modificado com sucesso!';
-$_['text_worldpay']				 = '<a href="https://support.worldpay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_worldpay']				 = '<a href="https://online.worldpay.com/signup/ee48b6e6-d3e3-42aa-a80e-cbee3f4f8b09" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']					 = 'Test';
 $_['text_live']					 = 'Live';
 $_['text_authenticate']			 = 'Authenticate';
@@ -52,8 +52,8 @@ $_['help_webhook_url']			 = "Set Worldpay webhooks to call this URL";
 $_['help_cron_job_url']			 = "Set a cron job to call this URL";
 
 // Tab
-$_['tab_settings']					= 'Settings';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_settings']				 = 'Configurações';
+$_['tab_order_status']			 = 'Situações do pedido';
 
 // Error
 $_['error_permission']           = 'Atenção: Você não tem permissão para modificar a extensão de pagamento Worldpay Online Payments!';

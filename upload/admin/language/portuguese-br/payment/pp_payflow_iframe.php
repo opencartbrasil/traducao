@@ -22,19 +22,19 @@ $_['text_refund']					= 'Refund';
 $_['text_refund_issued']			= 'Refund was issued successfully';
 $_['text_redirect']					= 'Redirect';
 $_['text_iframe']					= 'Iframe';
-$_['help_checkout_method']			= "Please use Redirect method if do not have SSL installed or if you do not have Pay with PayPal option disabled on your hosted payment page.";
+$_['help_checkout_method']			= 'Please use Redirect method if do not have SSL installed or if you do not have Pay with PayPal option disabled on your hosted payment page.';
 
 // Column
 $_['column_transaction_id']			= 'Transaction ID';
 $_['column_transaction_type']		= 'Transaction Type';
 $_['column_amount']					= 'Amount';
 $_['column_time']					= 'Time';
-$_['column_actions']				= 'Actions';
+$_['column_actions']				= 'Ações';
 
 // Tab
-$_['tab_settings']					= 'Settings';
-$_['tab_order_status']				= 'Order Status';
-$_['tab_checkout_customisation']	= 'Checkout Customisation';
+$_['tab_settings']					= 'Configurações';
+$_['tab_order_status']				= 'Situações do pedido';
+$_['tab_checkout_customisation']	= 'Finalização do pedido';
 
 // Entry
 $_['entry_vendor']					= 'Vendor';
