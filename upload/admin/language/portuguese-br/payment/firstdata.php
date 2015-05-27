@@ -3,9 +3,9 @@
 $_['heading_title']					 = 'First Data EMEA Connect (3DSecure enabled)';
 
 // Text
-$_['text_payment']					 = 'Payment';
-$_['text_success']					 = 'Success: You have modified First Data account details!';
-$_['text_edit']                      = 'Edit First Data EMEA Connect (3DSecure enabled)';
+$_['text_payment']					 = 'Pagamentos';
+$_['text_success']		             = 'First Data EMEA Connect (3DSecure enabled) modificado com sucesso!';
+$_['text_edit']                      = 'Configurações do First Data EMEA Connect (3DSecure enabled)';
 $_['text_notification_url']			 = 'Notification URL';
 $_['text_live']						 = 'Live';
 $_['text_demo']						 = 'Demo';
@@ -36,10 +36,10 @@ $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 // Entry
 $_['entry_merchant_id']				 = 'Store ID';
 $_['entry_secret']					 = 'Shared secret';
-$_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Sort order';
-$_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
+$_['entry_total']		             = 'Total mínimo';
+$_['entry_geo_zone']	             = 'Região geográfica';
+$_['entry_status']                   = 'Situação';
+$_['entry_sort_order']               = 'Posição';
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_live_demo']				 = 'Live / Demo';
 $_['entry_auto_settle']			  	 = 'Settlement type';
@@ -54,7 +54,7 @@ $_['entry_status_void']				 = 'Voided';
 $_['entry_enable_card_store']		 = 'Enable card storage tokens';
 
 // Help
-$_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
+$_['help_total']		             = 'O valor mínimo que o pedido deve alcançar para que o First Data EMEA Connect (3DSecure enabled) seja oferecido como opção de pagamento ao cliente.';
 $_['help_notification']				 = 'You need to supply this URL to First Data to get payment notifications';
 $_['help_debug']					 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_settle']					 = 'If you use pre-auth you must complete a post-auth action within 3-5 days otherwise your transaction will be dropped'; 

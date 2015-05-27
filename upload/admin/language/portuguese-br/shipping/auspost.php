@@ -3,9 +3,9 @@
 $_['heading_title']      = 'Australia Post';
 
 // Text
-$_['text_shipping']      = 'Frete';
-$_['text_success']       = 'Frete Australia Post modificado com sucesso!';
-$_['text_edit']          = 'Configurações do frete Australia Post';
+$_['text_shipping']      = 'Fretes';
+$_['text_success']       = 'Australia Post modificado com sucesso!';
+$_['text_edit']          = 'Configurações do Australia Post';
 
 // Entry
 $_['entry_postcode']     = 'CEP';
@@ -23,5 +23,5 @@ $_['help_display_time']  = 'Você deseja exibir o tempo para entrega? (Por exemp
 $_['help_weight_class']  = 'Defina para gramas.';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar o frete Australia Post!';
+$_['error_permission']   = 'Atenção: Você não tem permissão para modificar a extensão de frete  Australia Post!';
 $_['error_postcode']     = 'O CEP deve ter 4 dígitos!';

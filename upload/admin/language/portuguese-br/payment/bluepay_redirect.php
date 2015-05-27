@@ -3,9 +3,9 @@
 $_['heading_title']					= 'BluePay Redirect (Requires SSL)';
 
 // Text
-$_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified BluePay Redirect account details!';
-$_['text_edit']                     = 'Edit BluePay Redirect (Requires SSL)';
+$_['text_payment']					= 'Pagamentos';
+$_['text_success']		            = 'BluePay Redirect (Requires SSL) modificado com sucesso!';
+$_['text_edit']                     = 'Configurações do BluePay Redirect (Requires SSL)';
 $_['text_bluepay_redirect']			= '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Redirect" title="BluePay Redirect" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim']						= 'Simulator';
 $_['text_test']						= 'Test';
@@ -37,16 +37,16 @@ $_['entry_vendor']					= 'Account ID';
 $_['entry_secret_key']				= "Secret Key";
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
-$_['entry_total']					= 'Total';
-$_['entry_order_status']			= 'Order Status';
-$_['entry_geo_zone']				= 'Geo Zone';
-$_['entry_status']					= 'Status';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_total']		            = 'Total mínimo';
+$_['entry_order_status']			= 'Situação do pedido';
+$_['entry_geo_zone']	            = 'Região geográfica';
+$_['entry_status']                  = 'Situação';
+$_['entry_sort_order']              = 'Posição';
 $_['entry_debug']					= 'Debug logging';
 $_['entry_card']					= 'Store Cards';
 
 // Help
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']		            = 'O valor mínimo que o pedido deve alcançar para que o BluePay Redirect (Requires SSL) seja oferecido como opção de pagamento ao cliente.';
 $_['help_debug']					= 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_transaction']				= 'Transaction method MUST be set to Payment to allow subscription payments';
 $_['help_cron_job_token']			= 'Make this long and hard to guess';
@@ -58,6 +58,6 @@ $_['btn_rebate']					= 'Rebate / refund';
 $_['btn_void']						= 'Void';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment BluePay!';
+$_['error_permission']              = 'Atenção: Você não tem permissão para modificar a extensão de pagamento BluePay Redirect (Requires SSL)!';
 $_['error_account_id']				= 'Account ID Required!';
 $_['error_secret_key']				= 'Secret Key Required!';

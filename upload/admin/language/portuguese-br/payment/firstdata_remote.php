@@ -4,9 +4,9 @@ $_['heading_title']					= 'First Data EMEA Web Service API';
 
 // Text
 $_['text_firstdata_remote']			= '<img src="view/image/payment/firstdata.png" alt="First Data" title="First Data" style="border: 1px solid #EEEEEE;" />';
-$_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified First Data account details!';
-$_['text_edit']                     = 'Edit First Data EMEA Web Service API';
+$_['text_payment']					= 'Pagamentos';
+$_['text_success']		            = 'First Data EMEA Web Service API modificado com sucesso!';
+$_['text_edit']                     = 'Configurações do First Data EMEA Web Service API';
 $_['text_card_type']				= 'Card type';
 $_['text_enabled']					= 'Enabled';
 $_['text_merchant_id']				= 'Store ID';
@@ -47,10 +47,10 @@ $_['entry_certificate_ca_path']		= 'CA path';
 $_['entry_merchant_id']				= 'Store ID';
 $_['entry_user_id']					= 'User ID';
 $_['entry_password']				= 'Password';
-$_['entry_total']					= 'Total';
-$_['entry_sort_order']				= 'Sort order';
-$_['entry_geo_zone']				= 'Geo zone';
-$_['entry_status']					= 'Status';
+$_['entry_total']		            = 'Total mínimo';
+$_['entry_geo_zone']	            = 'Região geográfica';
+$_['entry_status']                  = 'Situação';
+$_['entry_sort_order']              = 'Posição';
 $_['entry_debug']					= 'Debug logging';
 $_['entry_auto_settle']				= 'Settlement type';
 $_['entry_status_success_settled']	= 'Success - settled';
@@ -62,7 +62,7 @@ $_['entry_enable_card_store']		 = 'Enable card storage tokens';
 $_['entry_cards_accepted']			 = 'Card types accepted';
 
 // Help
-$_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
+$_['help_total']		             = 'O valor mínimo que o pedido deve alcançar para que o First Data EMEA Web Service API seja oferecido como opção de pagamento ao cliente.';
 $_['help_certificate']				 = 'Certificates and private keys should be stored outside of your public web folders';
 $_['help_card_select']				 = 'Ask the user to choose thier card type before they are redirected';
 $_['help_notification']				 = 'You need to supply this URL to First Data to get payment notifications';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']				= 'Pagamento pelo Amazon';
+$_['heading_title']				= 'Pagar com Amazon';
 $_['heading_address']			= 'Endereço para entrega';
 $_['heading_payment']			= 'Selecione o método de pagamento';
 $_['heading_confirm']			= 'Resumo do pedido';
@@ -10,7 +10,7 @@ $_['text_back']					= 'Voltar';
 $_['text_cart']					= 'Carrinho de compras';
 $_['text_confirm']				= 'Confirmar';
 $_['text_continue']				= 'Continuar';
-$_['text_cba']					= 'Pagamentos Amazon';
+$_['text_cba']					= 'Pagar com Amazon';
 $_['text_enter_coupon']			= 'Coloque o código do cupom. Se não possuir um cupom, deixe em branco.';
 $_['text_coupon']				= 'Cupom';
 $_['text_tax_other']			= 'Taxas / Outros impostos';

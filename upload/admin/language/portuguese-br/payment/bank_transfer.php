@@ -3,9 +3,9 @@
 $_['heading_title']		 = 'Depósito bancário';
 
 // Text
-$_['text_payment']		 = 'Pagamento';
-$_['text_success']		 = 'Pagamento por Depósito bancário modificado com sucesso!';
-$_['text_edit']          = 'Configurações do pagamento por Depósito bancário';
+$_['text_payment']		 = 'Pagamentos';
+$_['text_success']		 = 'Depósito bancário modificado com sucesso!';
+$_['text_edit']          = 'Configurações do Depósito bancário';
 
 // Entry
 $_['entry_bank']		 = 'Instruções para depósito';
@@ -16,8 +16,8 @@ $_['entry_status']       = 'Situação';
 $_['entry_sort_order']   = 'Posição';
 
 // Help
-$_['help_total']		 = 'O valor mínimo que o total do pedido deve alcançar para que o pagamento na entrega seja oferecido ao cliente.';
+$_['help_total']		 = 'O valor mínimo que o pedido deve alcançar para que o Depósito bancário seja oferecido como opção de pagamento ao cliente.';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar o Pagamento na entrega!';
+$_['error_permission']   = 'Atenção: Você não tem permissão para modificar a extensão de pagamento Depósito bancário!';
 $_['error_bank']         = 'O campo Instruções para depósito é obrigatório!';

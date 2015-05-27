@@ -38,7 +38,6 @@ $_['entry_review']             = 'Seu comentário';
 $_['entry_rating']             = 'Avaliação';
 $_['entry_good']               = 'Bom';
 $_['entry_bad']                = 'Ruim';
-$_['entry_captcha']            = 'Coloque o código da imagem no campo abaixo';
 
 // Tabs
 $_['tab_description']          = 'Descrição';

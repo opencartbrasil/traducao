@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']					= 'Realex Remote';
+$_['heading_title']					= 'Globalpay Remote';
 
 // Text
 $_['text_payment']					= 'Pagamentos';
-$_['text_success']		            = 'Realex Remote modificado com sucesso!';
-$_['text_edit']                     = 'Configurações do Realex Remote';
+$_['text_success']		            = 'Globalpay Remote modificado com sucesso!';
+$_['text_edit']                     = 'Configurações do Globalpay Remote';
 $_['text_card_type']				= 'Card type';
 $_['text_enabled']					= 'Enabled';
 $_['text_use_default']				= 'Use default';
@@ -26,7 +26,7 @@ $_['text_void_ok']					= 'Void was successful, order status updated to voided';
 $_['text_settle_auto']				= 'Auto';
 $_['text_settle_delayed']			= 'Delayed';
 $_['text_settle_multi']				= 'Multi';
-$_['text_ip_message']				= 'You must supply your server IP address to your Realex account manager before going live';
+$_['text_ip_message']				= 'You must supply your server IP address to your Globalpay account manager before going live';
 $_['text_payment_info']				= 'Payment information';
 $_['text_capture_status']			= 'Payment captured';
 $_['text_void_status']				= 'Payment voided';
@@ -38,7 +38,7 @@ $_['text_transactions']				= 'Transactions';
 $_['text_confirm_void']				= 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
-$_['text_realex_remote']			= '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_globalpay_remote']			= '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
 $_['text_column_amount']			= 'Amount';
@@ -69,9 +69,9 @@ $_['entry_status_void']				= 'Voided';
 $_['entry_status_rebate']			= 'Rebated';
 
 // Help
-$_['help_total']		            = 'O valor mínimo que o pedido deve alcançar para que o Realex Remote seja oferecido como opção de pagamento ao cliente.';
+$_['help_total']		            = 'O valor mínimo que o pedido deve alcançar para que o Globalpay Remote seja oferecido como opção de pagamento ao cliente.';
 $_['help_card_select']				= 'Ask the user to choose thier card type before they are redirected';
-$_['help_notification']				= 'You need to supply this URL to Realex to get payment notifications';
+$_['help_notification']				= 'You need to supply this URL to Globalpay to get payment notifications';
 $_['help_debug']					= 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
 $_['help_liability']				= 'Accepting liability means you will still accept payments when a user fails 3D secure.';
 $_['help_card_data_status']			= 'Logs last 4 cards digits, expire, name, type and issuing bank information';

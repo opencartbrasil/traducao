@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Frete fixo';
 
 // Text
-$_['text_shipping']    = 'Frete';
+$_['text_shipping']    = 'Fretes';
 $_['text_success']     = 'Frete fixo modificado com sucesso!';
 $_['text_edit']        = 'Configurações do Frete fixo';
 
@@ -15,4 +15,4 @@ $_['entry_status']     = 'Situação';
 $_['entry_sort_order'] = 'Posição';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o Frete fixo!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão de frete fixo!';

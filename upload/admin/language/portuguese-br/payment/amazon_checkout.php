@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']					= 'Amazon Payments';
+$_['heading_title']					= 'Finalizar com Amazon';
 
 // Text
-$_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: Amazon Payments module has been updated';
-$_['text_edit']                     = 'Edit Amazon Payment';
+$_['text_payment']					= 'Pagamentos';
+$_['text_success']		            = 'Finalizar com Amazon modificado com sucesso!'
+$_['text_edit']                     = 'Configurações do Finalizar com Amazon';
 $_['text_germany']					= 'Germany';
 $_['text_uk']						= 'United Kingdom';
 $_['text_live']						= 'Live';
@@ -25,8 +25,8 @@ $_['text_amazon_details']			= 'Amazon Details';
 $_['text_amazon_order_id']			= 'Amazon Order ID';
 $_['text_upload']					= 'Upload';
 $_['text_upload_template']			= 'Upload the filled in template by clicking on the button below. Make sure it is saved as a tab-delimited file.';
-$_['text_amazon_checkout']			= '<a onclick="window.open(\'http://go.amazonservices.com/UKCBASPOpenCart.html\');"><img src="view/image/payment/amazon.png" alt="Amazon Payments" title="Amazon Payments" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_amazon_join']				= 'To create your Amazon Payments account <a href="http://go.amazonservices.com/UKCBASPOpenCart.html" target="_blank" title="Click here to join Amazon Payments" class="alert-link">click here.</a>';
+$_['text_amazon_checkout']			= '<a onclick="window.open(\'http://go.amazonservices.com/UKCBASPOpenCart.html\');"><img src="view/image/payment/amazon.png" alt="Checkout by Amazon" title="Checkout by Amazon" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_amazon_join']				= 'To create your Checkout by Amazon account <a href="http://go.amazonservices.com/UKCBASPOpenCart.html" target="_blank" title="Click here to join Checkout by Amazon" class="alert-link">click here.</a>';
 
 // Column
 $_['column_submission_id']			= 'Submission ID';
@@ -40,7 +40,7 @@ $_['entry_access_key']				= 'Access Key';
 $_['entry_access_secret']			= 'Secret Key';
 $_['entry_checkout_mode']			= 'Checkout mode';
 $_['entry_marketplace']				= 'Marketplace';
-$_['entry_order_status']			= 'Order Status';
+$_['entry_order_status']	        = 'Situação do pedido';
 $_['entry_ready_status']		    = 'Ready to be Shipped Status';
 $_['entry_shipped_status']			= 'Shipped order Status';
 $_['entry_canceled_status']			= 'Canceled order Status';
@@ -49,10 +49,10 @@ $_['entry_cron_job_token']			= 'Secret Token';
 $_['entry_cron_job_last_run']		= 'Cron job\'s Last Run Time';
 $_['entry_ip']						= 'IP Address';
 $_['entry_ip_allowed']				= 'IPs allowed';
-$_['entry_total']	         		= 'Total';
-$_['entry_geo_zone']			    = 'Geo Zone';
-$_['entry_status']					= 'Status';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_total']		            = 'Total mínimo';
+$_['entry_geo_zone']	            = 'Região geográfica';
+$_['entry_status']                  = 'Situação';
+$_['entry_sort_order']              = 'Posição';
 $_['entry_colour']					= 'Colour';
 $_['entry_background']				= 'Background';
 $_['entry_size']				    = 'Size';

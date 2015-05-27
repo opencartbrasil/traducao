@@ -15,10 +15,10 @@ $_['column_country']         = 'País';
 $_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_status']           = 'Situação';
 $_['entry_name']             = 'Estado';
 $_['entry_code']             = 'Código';
 $_['entry_country']          = 'País';
+$_['entry_status']           = 'Situação';
 
 // Error
 $_['error_permission']       = 'Atenção: Você não tem permissão para modificar os estados!';

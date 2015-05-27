@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'Pagamento grátis';
 
 // Text
-$_['text_payment']		 = 'Pagamento';
+$_['text_payment']		 = 'Pagamentos';
 $_['text_success']		 = 'Pagamento grátis modificado com sucesso!';
 $_['text_edit']          = 'Configurações do Pagamento grátis';
 
@@ -13,4 +13,4 @@ $_['entry_status']       = 'Situação';
 $_['entry_sort_order']   = 'Posição';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar o Pagamento grátis!';
+$_['error_permission']   = 'Atenção: Você não tem permissão para modificar a extensão de pagamento Pagamento grátis!';

@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Frete por peso';
 
 // Text
-$_['text_shipping']    = 'Frete';
+$_['text_shipping']    = 'Fretes';
 $_['text_success']     = 'Frete por peso modificado com sucesso!';
 $_['text_edit']        = 'Configurações do Frete por peso';
 
@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Posição';
 $_['help_rate']        = 'Exemplo: 5:10.00,7:12.00 Peso:Valor,Peso:Valor, etc...';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar o Frete por peso!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão de frete Frete por peso!';

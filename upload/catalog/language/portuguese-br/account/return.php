@@ -48,7 +48,6 @@ $_['entry_quantity']     = 'Quantidade';
 $_['entry_reason']       = 'Motivo';
 $_['entry_opened']       = 'Embalagem aberta?';
 $_['entry_fault_detail'] = 'Detalhes';
-$_['entry_captcha']      = 'Código da imagem';
 
 // Error
 $_['text_error']         = 'A devolução que você solicitou não foi encontrada!';

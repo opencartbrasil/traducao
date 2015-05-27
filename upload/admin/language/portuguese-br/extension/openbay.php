@@ -96,6 +96,11 @@ $_['error_tracking_custom']				= 'Deixe o campo vazio do Correio, se você quise
 $_['error_permission']					= 'Você não tem permissão para modificar a extensão OpenBay Pro';
 $_['error_mkdir']						= 'A função PHP mkdir está desabilitada, entre em contato com o suporte de sua hospedagem.';
 $_['error_file_delete']					= 'Não foi possível remover esses arquivos, você deve excluí-los manualmente.';
+$_['error_mcrypt']            			= 'A função PHP "mcrypt_encrypt" não está habilitada. Entre em contato com o suporte de sua hospedagem e informe o erro.';
+$_['error_mbstring']               		= 'A biblioteca PHP "mb strings" não está habilitada. Entre em contato com o suporte de sua hospedagem e informe o erro.';
+$_['error_ftpconnect']             		= 'A função PHP de FTP não está habilitada. Entre em contato com o suporte de sua hospedagem e informe o erro.';
+$_['error_oc_version']             		= 'Sua versão do OpenCart não foi testada para com este módulo. Você pode ter problemas.';
+$_['error_fopen']             			= 'A função PHP "fopen" está desativada por padrão em sua hospedagem, isso fará com que sua loja não seja capaz de importar as imagens dos produtos.';
 
 // Help
 $_['help_ftp_username']           		= 'Utilize o usuário FTP de seu servidor de hospedagem';

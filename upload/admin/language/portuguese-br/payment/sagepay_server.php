@@ -3,9 +3,9 @@
 $_['heading_title']					= 'SagePay Server';
 
 // Text
-$_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified SagePay account details!';
-$_['text_edit']                     = 'Edit SagePay Server';
+$_['text_payment']					= 'Pagamentos';
+$_['text_success']		            = 'SagePay Server modificado com sucesso!';
+$_['text_edit']                     = 'Configurações do SagePay Server';
 $_['text_sagepay_server']			= '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim']						= 'Simulator';
 $_['text_test']						= 'Test';
@@ -36,11 +36,11 @@ $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 $_['entry_vendor']					= 'Vendor';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
-$_['entry_total']					= 'Total';
-$_['entry_order_status']			= 'Order Status';
-$_['entry_geo_zone']				= 'Geo Zone';
-$_['entry_status']					= 'Status';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_total']		            = 'Total mínimo';
+$_['entry_order_status']	        = 'Situação do pedido';
+$_['entry_geo_zone']	            = 'Região geográfica';
+$_['entry_status']                  = 'Situação';
+$_['entry_sort_order']              = 'Posição';
 $_['entry_debug']					= 'Debug logging';
 $_['entry_card']					= 'Store Cards';
 $_['entry_cron_job_token']			= 'Secret Token';
@@ -48,7 +48,7 @@ $_['entry_cron_job_url']			= 'Cron Job\'s URL:';
 $_['entry_last_cron_job_run']		= 'Last cron job\'s run time:';
 
 // Help
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']		            = 'O valor mínimo que o pedido deve alcançar para que o SagePay Server seja oferecido como opção de pagamento ao cliente.';
 $_['help_debug']					= 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_transaction']				= 'Transaction method MUST be set to Payment to allow subscription payments';
 $_['help_cron_job_token']			= 'Make this long and hard to guess';
@@ -60,5 +60,5 @@ $_['btn_rebate']					= 'Rebate / refund';
 $_['btn_void']						= 'Void';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment SagePay!';
+$_['error_permission']              = 'Atenção: Você não tem permissão para modificar a extensão de pagamento SagePay Server!';
 $_['error_vendor']					= 'Vendor ID Required!';

@@ -3,27 +3,27 @@
 $_['heading_title']			  = 'Skrill';
 
 // Text
-$_['text_payment']			  = 'Payment';
-$_['text_success']			  = 'Success: You have modified the Skrill details.';
-$_['text_edit']               = 'Edit Skrill';
+$_['text_payment']			  = 'Pagamentos';
+$_['text_success']		      = 'Skrill modificado com sucesso!';
+$_['text_edit']               = 'Configurações do Skrill';
 $_['text_Skrill']	     	  = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/moneybookers.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
 $_['entry_email']			  = 'E-Mail';
 $_['entry_secret']		      = 'Secret';
-$_['entry_total']			  = 'Total';
-$_['entry_order_status']	  = 'Order Status';
+$_['entry_total']		      = 'Total mínimo';
+$_['entry_order_status']	  = 'Situação do pedido';
 $_['entry_pending_status']	  = 'Pending Status ';
 $_['entry_canceled_status']	  = 'Canceled Status';
 $_['entry_failed_status']	  = 'Failed Status';
 $_['entry_chargeback_status'] = 'Chargeback Status';
-$_['entry_geo_zone']		  = 'Geo Zone';
-$_['entry_status']			  = 'Status';
-$_['entry_sort_order']		  = 'Sort Order';
+$_['entry_geo_zone']	      = 'Região geográfica';
+$_['entry_status']            = 'Situação';
+$_['entry_sort_order']        = 'Posição';
 
 // Help
-$_['help_total']			  = 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']		      = 'O valor mínimo que o pedido deve alcançar para que o Skrill seja oferecido como opção de pagamento ao cliente.';
 
 // Error
-$_['error_permission']		  = 'Warning: You do not have permission to modify Skrill!';
+$_['error_permission']        = 'Atenção: Você não tem permissão para modificar a extensão de pagamento Skrill!';
 $_['error_email']			  = 'E-Mail Required!';

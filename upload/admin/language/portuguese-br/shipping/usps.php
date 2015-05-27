@@ -3,9 +3,9 @@
 $_['heading_title']         = 'United States Postal Service';
 
 // Text
-$_['text_shipping']         = 'Frete';
-$_['text_success']          = 'Frete United States Postal Service modificado com sucesso!';
-$_['text_edit']             = 'Configurações do frete United States Postal Service';
+$_['text_shipping']         = 'Fretes';
+$_['text_success']          = 'United States Postal Service modificado com sucesso!';
+$_['text_edit']             = 'Configurações do United States Postal Service';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
 $_['text_domestic_02']      = 'First-Class Mail Letter';
@@ -79,7 +79,7 @@ $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']      		= 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não tem permissão para modificar o frete United States Postal Service!';
+$_['error_permission']      = 'Atenção: Você não tem permissão para modificar a extensão de frete United States Postal Service!';
 $_['error_user_id']         = 'User ID Required!';
 $_['error_postcode']        = 'Zip Code Required!';
 $_['error_width']        	= 'Width Required!';

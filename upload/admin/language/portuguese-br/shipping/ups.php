@@ -3,9 +3,9 @@
 $_['heading_title']                = 'UPS';
 
 // Text
-$_['text_shipping']                = 'Frete';
-$_['text_success']                 = 'Frete UPS modificado com sucesso!';
-$_['text_edit']                    = 'Configurações do frete UPS';
+$_['text_shipping']                = 'Fretes';
+$_['text_success']                 = 'UPS modificado com sucesso!';
+$_['text_edit']                    = 'Configurações do UPS';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
 $_['text_customer_counter']        = 'Customer Counter';
@@ -105,7 +105,7 @@ $_['help_dimension']			   = 'This is assumed to be your average packing box size
 $_['help_debug']      			   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'Atenção: Você não tem permissão para modificar o frete UPS!';
+$_['error_permission']             = 'Atenção: Você não tem permissão para modificar a extensão de frete UPS!';
 $_['error_key']                    = 'Access Key Required!';
 $_['error_username']               = 'O usuário é obrigatório!';
 $_['error_password']               = 'A senha é obrigatória!';

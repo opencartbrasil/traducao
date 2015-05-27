@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']					 = 'Realex Redirect';
+$_['heading_title']					 = 'Globalpay Redirect';
 
 // Text
 $_['text_payment']				  	 = 'Pagamentos';
-$_['text_success']		             = 'Realex Redirect modificado com sucesso!';
-$_['text_edit']                      = 'Configurações do Realex Redirect';
+$_['text_success']		             = 'Globalpay Redirect modificado com sucesso!';
+$_['text_edit']                      = 'Configurações do Globalpay Redirect';
 $_['text_live']						 = 'Live';
 $_['text_demo']						 = 'Demo';
 $_['text_card_type']				 = 'Card type';
@@ -28,7 +28,7 @@ $_['text_void_ok']					 = 'Void was successful, order status updated to voided';
 $_['text_settle_auto']				 = 'Auto';
 $_['text_settle_delayed']			 = 'Delayed';
 $_['text_settle_multi']				 = 'Multi';
-$_['text_url_message']				 = 'You must supply the store URL to your Realex account manager before going live';
+$_['text_url_message']				 = 'You must supply the store URL to your Globalpay account manager before going live';
 $_['text_payment_info']				 = 'Payment information';
 $_['text_capture_status']			 = 'Payment captured';
 $_['text_void_status']				 = 'Payment voided';
@@ -43,7 +43,7 @@ $_['text_column_date_added']		 = 'Created';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
-$_['text_realex']					 = '<a target="_blank" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_globalpay']                 = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
 $_['entry_merchant_id']				 = 'Merchant ID';
@@ -71,9 +71,9 @@ $_['entry_status_rebate']			 = 'Rebated';
 $_['entry_notification_url']		 = 'Notification URL';
 
 // Help
-$_['help_total']		            = 'O valor mínimo que o pedido deve alcançar para que o Realex Redirect seja oferecido como opção de pagamento ao cliente.';
+$_['help_total']		             = 'O valor mínimo que o pedido deve alcançar para que o Globalpay Redirect seja oferecido como opção de pagamento ao cliente.';
 $_['help_card_select']				 = 'Ask the user to choose their card type before they are redirected';
-$_['help_notification']				 = 'You need to supply this URL to Realex to get payment notifications';
+$_['help_notification']				 = 'You need to supply this URL to Globalpay to get payment notifications';
 $_['help_debug']					 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_dcc_settle']				 = 'If your subaccount is DCC enabled you must use Autosettle';
 

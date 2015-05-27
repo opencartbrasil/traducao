@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']					= 'View Transaction';
+$_['heading_title']					= 'Detalhes da transação';
 
 // Text
 $_['text_pp_express']				= 'PayPal Express Checkout';

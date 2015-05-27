@@ -3,16 +3,16 @@
 $_['heading_title']           = 'Parcelforce 48';
 
 // Text
-$_['text_shipping']           = 'Frete';
-$_['text_success']            = 'Frete Parcelforce 48 modificado com sucesso!';
-$_['text_edit']               = 'Configurações do frete Parcelforce 48';
+$_['text_shipping']           = 'Fretes';
+$_['text_success']            = 'Parcelforce 48 modificado com sucesso!';
+$_['text_edit']               = 'Configurações do Parcelforce 48';
 
 // Entry
-$_['entry_rate']              = 'Parcelforce 48 Rates';
-$_['entry_insurance']         = 'Parcelforce48 Compensation Rates';
-$_['entry_display_weight']    = 'Peso da entrega';
-$_['entry_display_insurance'] = 'Valor do seguro';
-$_['entry_display_time']      = 'Tempo para entrega';
+$_['entry_rate']              = 'Preços';
+$_['entry_insurance']         = 'Preço do seguro';
+$_['entry_display_weight']    = 'Exibir peso';
+$_['entry_display_insurance'] = 'Exibir seguro';
+$_['entry_display_time']      = 'Exibir Tempo para entrega';
 $_['entry_tax_class']         = 'Grupo de impostos';
 $_['entry_geo_zone']          = 'Região geográfica';
 $_['entry_status']            = 'Situação';
@@ -26,4 +26,4 @@ $_['help_display_insurance'] = 'Do you want to display the shipping insurance? (
 $_['help_display_time']      = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
 
 // Error
-$_['error_permission']       = 'Atenção: Você não tem permissão para modificar o frete Parcelforce 48!';
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar a extensão de frete Parcelforce 48!';

@@ -3,9 +3,9 @@
 $_['heading_title']                            = 'Fedex';
 
 // Text
-$_['text_shipping']                            = 'Frete';
-$_['text_success']                             = 'Frete Fedex modificado com sucesso!';
-$_['text_edit']                                = 'Configurações do frete Fedex';
+$_['text_shipping']                            = 'Fretes';
+$_['text_success']                             = 'Fedex modificado com sucesso!';
+$_['text_edit']                                = 'Configurações do Fedex';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';
@@ -73,7 +73,7 @@ $_['help_display_weight']                      = 'Do you want to display the shi
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
-$_['error_permission']                         = 'Atenção: Você não tem permissão para modificar o frete Fedex!';
+$_['error_permission']                         = 'Atenção: Você não tem permissão para modificar a extensão de frete Fedex!';
 $_['error_key']                                = 'Key Required!';
 $_['error_password']                           = 'Password Required!';
 $_['error_account']                            = 'Account Required!';
