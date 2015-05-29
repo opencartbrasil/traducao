@@ -4,7 +4,7 @@ $_['heading_title']					= 'Finalizar com Amazon';
 
 // Text
 $_['text_payment']					= 'Pagamentos';
-$_['text_success']		            = 'Finalizar com Amazon modificado com sucesso!'
+$_['text_success']		            = 'Finalizar com Amazon modificado com sucesso!';
 $_['text_edit']                     = 'Configurações do Finalizar com Amazon';
 $_['text_germany']					= 'Germany';
 $_['text_uk']						= 'United Kingdom';
