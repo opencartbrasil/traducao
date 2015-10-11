@@ -8,6 +8,8 @@ $_['text_approved']             = 'Você aprovou %s contas!';
 $_['text_list']                 = 'Listando afiliados';
 $_['text_add']                  = 'Novo afiliado';
 $_['text_edit']                 = 'Editando afiliado';
+$_['text_affiliate_detail']     = 'Detalhes';
+$_['text_affiliate_address']    = 'Endereço';
 $_['text_balance']              = 'Saldo';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
@@ -64,6 +66,7 @@ $_['help_code']                 = 'É o código de filiação que será utilizad
 $_['help_commission']           = 'Percentual que o afiliado recebe a cada pedido indicado.';
 
 // Error
+$_['error_warning']             = 'Atenção: Verifique se todos os campos obrigatórios do formulário foram preenchidos!';
 $_['error_permission']          = 'Atenção: Você não tem permissão para modificar os afiliados!';
 $_['error_exists']              = 'Atenção: Este e-mail já está cadastrado!';
 $_['error_firstname']           = 'O nome deve ter entre 2 e 32 caracteres!';

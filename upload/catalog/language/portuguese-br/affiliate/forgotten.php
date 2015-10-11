@@ -14,3 +14,4 @@ $_['entry_email']     = 'Seu e-mail';
 
 // Error
 $_['error_email']     = 'Atenção: O e-mail informado não foi localizado em nossa loja, tente novamente!';
+$_['error_approved']  = 'Atenção: A sua conta necessita de aprovação antes que você possa acessá-la.';

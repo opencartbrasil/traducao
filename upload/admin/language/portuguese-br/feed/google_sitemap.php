@@ -4,7 +4,7 @@ $_['heading_title']    = 'Google Sitemap';
 
 // Text
 $_['text_feed']        = 'Alimentadores';
-$_['text_success']     = 'Módulo Google Sitemap modificado com sucesso!';
+$_['text_success']     = 'Google Sitemap modificado com sucesso!';
 $_['text_edit']        = 'Editando Google Sitemap';
 
 // Entry
@@ -12,4 +12,4 @@ $_['entry_status']     = 'Situação';
 $_['entry_data_feed']  = 'URL';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não possui permissão para modificar o módulo Google Sitemap!';
+$_['error_permission'] = 'Atenção: Você não possui permissão para modificar a extensão de alimentador Google Sitemap!';

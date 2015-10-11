@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['heading_title'] = 'Refinar busca';
+$_['heading_title'] = 'Opções de filtro';

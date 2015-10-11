@@ -101,6 +101,7 @@ $_['error_mbstring']               		= 'A biblioteca PHP "mb strings" não está
 $_['error_ftpconnect']             		= 'A função PHP de FTP não está habilitada. Entre em contato com o suporte de sua hospedagem e informe o erro.';
 $_['error_oc_version']             		= 'Sua versão do OpenCart não foi testada para com este módulo. Você pode ter problemas.';
 $_['error_fopen']             			= 'A função PHP "fopen" está desativada por padrão em sua hospedagem, isso fará com que sua loja não seja capaz de importar as imagens dos produtos.';
+$_['lang_error_vqmod']             		= 'Sua pasta vqmod contém arquivos antigos do OpenBay Pro, remova os arquivos!';
 
 // Help
 $_['help_ftp_username']           		= 'Utilize o usuário FTP de seu servidor de hospedagem';

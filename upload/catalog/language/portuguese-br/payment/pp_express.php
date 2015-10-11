@@ -3,7 +3,7 @@
 $_['express_text_title']	  = 'Confirmar pedido';
 
 // Text
-$_['text_title']			  = 'PayPal Express Checkout';
+$_['text_title']			  = 'Cartão de crédito pelo Paypal';
 $_['button_continue']		  = 'Continuar';
 $_['text_cart']				  = 'Carrinho de compras';
 $_['text_shipping_updated']	  = 'Serviço de envio atualizado';

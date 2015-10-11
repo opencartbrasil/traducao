@@ -17,7 +17,6 @@ $_['text_success']   = '<p>Sua dúvida foi enviada para nosso atendimento!</p>';
 $_['entry_name']     = 'Seu nome';
 $_['entry_email']    = 'Seu e-mail';
 $_['entry_enquiry']  = 'Dúvida';
-$_['entry_captcha']  = 'Código da imagem';
 
 // Email
 $_['email_subject']  = 'Contato - %s';
@@ -26,4 +25,3 @@ $_['email_subject']  = 'Contato - %s';
 $_['error_name']     = 'O seu nome deve ter entre 3 e 32 caracteres!';
 $_['error_email']    = 'O e-mail não é válido!';
 $_['error_enquiry']  = 'A dúvida deve ter entre 10 e 3000 caracteres!';
-$_['error_captcha']  = 'O código no campo não é o mesmo da imagem!';

@@ -59,5 +59,4 @@ $_['error_telephone']    = 'O telefone deve ter entre 10 e 32 caracteres!';
 $_['error_product']      = 'O produto deve ter entre 3 e 255 caracteres!';
 $_['error_model']        = 'O modelo deve ter entre 3 e 64 caracteres!';
 $_['error_reason']       = 'Você deve selecionar um motivo para a devolução!';
-$_['error_captcha']      = 'O código no campo não é o mesmo da imagem!';
 $_['error_agree']        = 'Atenção: Você deve aceitar o contrato de %s!';
