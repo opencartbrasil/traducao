@@ -1,6 +1,6 @@
 ### Resumo
 
-Tradução para Português do Brasil do OpenCart versão 2.0, mantida e revisada pela comunidade OpenCart Brasil.
+Tradução para Português do Brasil do OpenCart versão 2.0 ou superior, mantida e revisada pela comunidade OpenCart Brasil.
 Segue o link para download do pacote de instalação atualizado, baixe a tradução conforme a versão do OpenCart que você estiver utilizando: (baixe o arquivo traducao.ocmod.zip)
 
 https://github.com/opencartbrasil/traducao/releases
