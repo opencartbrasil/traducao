@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Relatório de créditos por clientes';
 
 // Column
-$_['text_list']             = 'Listando os créditos por ciente';
+$_['text_list']             = 'Listando os créditos por cliente';
 $_['column_customer']       = 'Cliente';
 $_['column_email']          = 'E-mail';
 $_['column_customer_group'] = 'Tipo de cliente';
