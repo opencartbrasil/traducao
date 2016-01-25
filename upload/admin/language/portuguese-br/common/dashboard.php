@@ -5,11 +5,11 @@ $_['heading_title']                = 'Painel de controle';
 // Text
 $_['text_order_total']             = 'Total de pedidos';
 $_['text_customer_total']          = 'Total de clientes';
-$_['text_sale_total']              = 'Total de vendas';
-$_['text_online_total']            = 'Pessoas online';
+$_['text_sale_total']              = 'Total vendido';
+$_['text_online_total']            = 'Clientes online';
 $_['text_map']                     = 'Mapa do mundo';
-$_['text_sale']                    = 'Gráfico de vendas';
-$_['text_activity']                = 'Atividade recente';
+$_['text_sale']                    = 'Mapa geográfico de vendas';
+$_['text_activity']                = 'Atividades recentes';
 $_['text_recent']                  = 'Últimos pedidos';
 $_['text_order']                   = 'Pedidos';
 $_['text_customer']                = 'Clientes';

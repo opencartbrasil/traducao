@@ -8,8 +8,8 @@ $_['text_remove']              = 'Você modificou seu carrinho de compras!';
 $_['text_login']               = 'Atenção: Você necessita <a href="%s">acessar</a> sua conta ou <a href="%s">cadastrar-se</a> para ver os preços!';
 $_['text_items']               = '%s - %s';
 $_['text_points']              = 'Pontos: %s';
-$_['text_next']                = 'O que você gostaria de fazer?';
-$_['text_next_choice']         = 'Se você deseja utilizar um cupom, vale presentes, pontos ou calcular o frete, utilize uma das opções abaixo:';
+$_['text_next']                = 'O que você deseja?';
+$_['text_next_choice']         = 'Clique na opção abaixo:';
 $_['text_empty']               = 'Seu carrinho de compras está vazio!';
 $_['text_day']                 = 'Diária';
 $_['text_week']                = 'Semanal';
@@ -35,7 +35,7 @@ $_['column_price']             = 'Preço';
 $_['column_total']             = 'Total';
 
 // Error
-$_['error_stock']              = 'Os produtos marcados com *** não estão disponíveis na quantia solicitada ou não encontram-se em estoque!';
+$_['error_stock']              = 'Os produtos marcados com *** não estão disponíveis na quantidade solicitada!';
 $_['error_minimum']            = 'A quantidade mínima para %s é %s!';
 $_['error_required']           = 'O campo %s é obrigatório!';
 $_['error_product']            = 'Atenção: Não há produtos no seu carrinho de compras!';

@@ -4,7 +4,7 @@ $_['heading_title']     = 'Produtos por marca';
 
 // Text
 $_['text_brand']        = 'Produtos por marca';
-$_['text_index']        = 'Índice de marcas:';
+$_['text_index']        = 'Índice alfabético:';
 $_['text_error']        = 'Marca não encontrada!';
 $_['text_empty']        = 'Não há produtos para listar.';
 $_['text_quantity']     = 'Qtd:';
@@ -13,7 +13,7 @@ $_['text_model']        = 'Modelo:';
 $_['text_points']       = 'Pontos:';
 $_['text_price']        = 'Preço:';
 $_['text_tax']          = 'Sem impostos:';
-$_['text_compare']      = 'Comparação de produtos (%s)';
+$_['text_compare']      = 'Produtos para comparar (%s)';
 $_['text_sort']         = 'Organizar por:';
 $_['text_default']      = 'Padrão';
 $_['text_name_asc']     = 'Nome (A - Z)';

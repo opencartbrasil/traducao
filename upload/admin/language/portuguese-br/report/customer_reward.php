@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Relatório de pontos por clientes';
 
 // Text
-$_['text_list']             = 'Listando pontos por clientes';
+$_['text_list']             = 'Listando pontos por cliente';
 
 // Column
 $_['column_customer']       = 'Cliente';

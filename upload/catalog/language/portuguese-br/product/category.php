@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_refine']       = 'Refinar busca';
+$_['text_refine']       = 'Subdepartamento:';
 $_['text_product']      = 'Produtos';
 $_['text_error']        = 'Departamento não encontrado!';
 $_['text_empty']        = 'Não há produtos neste departamento';
@@ -10,7 +10,7 @@ $_['text_model']        = 'Modelo:';
 $_['text_points']       = 'Pontos:';
 $_['text_price']        = 'Preço:';
 $_['text_tax']          = 'Sem impostos:';
-$_['text_compare']      = 'Comparação de produtos (%s)';
+$_['text_compare']      = 'Produtos para comparar (%s)';
 $_['text_sort']         = 'Organizar por:';
 $_['text_default']      = 'Padrão';
 $_['text_name_asc']     = 'Nome (A - Z)';

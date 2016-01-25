@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Gráfico de vendas';
+$_['heading_title'] = 'Gráfico de vendas e clientes novos';
 
 // Text
 $_['text_order']    = 'Pedidos';

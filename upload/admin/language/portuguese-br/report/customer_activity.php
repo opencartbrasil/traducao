@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Relatório de atividades por clientes';
 
 // Text
-$_['text_list']           = 'Listando atividades por clientes';
+$_['text_list']           = 'Listando atividades por cliente';
 $_['text_address_add']    = '<a href="customer_id=%d">%s</a> cadastrou um novo endereço.';
 $_['text_address_edit']   = '<a href="customer_id=%d">%s</a> atualizou um endereço.';
 $_['text_address_delete'] = '<a href="customer_id=%d">%s</a> apagou um endereço.';

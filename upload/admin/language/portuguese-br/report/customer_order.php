@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Relatório de pedidos por clientes';
 
 // Text
-$_['text_list']             = 'Listando pedidos por clientes';
+$_['text_list']             = 'Listando pedidos por cliente';
 $_['text_all_status']       = 'Todas as situações';
 
 // Column

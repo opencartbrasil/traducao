@@ -22,14 +22,14 @@ $_['entry_name']          = 'Layout';
 $_['entry_store']         = 'Loja';
 $_['entry_route']         = 'Rota';
 $_['entry_module']        = 'Módulo';
-$_['entry_position']      = 'Posição';
+$_['entry_position']      = 'Localização';
 $_['entry_sort_order']    = 'Posição';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar os layouts!';
 $_['error_name']          = 'O layout deve ter entre 3 e 64 caracteres!';
-$_['error_default']       = 'Atenção: Este layout não pode ser excluído, pois ele é atualmente definido como o layout padrão da loja!';
-$_['error_store']         = 'Atenção: Este layout não pode ser excluído, pois ele é atualmente definido para %s lojas!';
-$_['error_product']       = 'Atenção: Este layout não pode ser excluído, pois ele é atualmente definido para %s produtos!';
-$_['error_category']      = 'Atenção: Este layout não pode ser excluído, pois ele é atualmente definido para %s departamentos!';
-$_['error_information']   = 'Atenção: Este layout não pode ser excluído, pois ele é atualmente definido para %s páginas de informações!';
+$_['error_default']       = 'Atenção: Este layout não pode ser excluído, pois ele está atualmente definido como o layout padrão da loja!';
+$_['error_store']         = 'Atenção: Este layout não pode ser excluído, pois ele está ligado à %s lojas!';
+$_['error_product']       = 'Atenção: Este layout não pode ser excluído, pois ele está ligado à %s produtos!';
+$_['error_category']      = 'Atenção: Este layout não pode ser excluído, pois ele está ligado à %s departamentos!';
+$_['error_information']   = 'Atenção: Este layout não pode ser excluído, pois ele está ligado à %s páginas de informações!';
