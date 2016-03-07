@@ -14,8 +14,8 @@ if ($iLang) {
 	$oc_language['name']       = 'Português (BR)';
 	$oc_language['code']       = 'pt-br';
 	$oc_language['locale']     = 'pt_BR.UTF-8, pt_BR, UTF-8';
-	$oc_language['image']      = 'br.png';
-	$oc_language['directory']  = 'portuguese-br';
+	$oc_language['image']      = 'pt-br.png';
+	$oc_language['directory']  = 'pt-br';
 	$oc_language['status']     = 1;
 	$oc_language['sort_order'] = 1;
 	$this->model_localisation_language->addLanguage($oc_language);
