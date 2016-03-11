@@ -9,7 +9,7 @@ $_['text_edit']        = 'Editando Frete fixo';
 
 // Entry
 $_['entry_cost']       = 'Valor fixo';
-$_['entry_tax_class']  = 'Tipo de impostos';
+$_['entry_tax_class']  = 'Grupo de impostos';
 $_['entry_geo_zone']   = 'Região geográfica';
 $_['entry_status']     = 'Situação';
 $_['entry_sort_order'] = 'Posição';
