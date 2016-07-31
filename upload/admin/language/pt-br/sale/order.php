@@ -122,11 +122,11 @@ $_['entry_date_added']           = 'Cadastro';
 $_['entry_date_modified']        = 'Modificação';
 
 // Help
-$_['help_override']              = 'Se você não está conseguindo modificar a situação do pedido por causa de uma extensão de antifraudes, ao marcar está opção será possível forçar a modifciação.';
+$_['help_override']              = 'Se você não está conseguindo modificar a situação do pedido por causa de uma extensão de antifraudes, ao marcar está opção será possível forçar a modificação.';
 
 // Error
 $_['error_warning']              = 'Atenção: Verifique se preencheu todos os campos corretamente!';
 $_['error_permission']           = 'Atenção: Você não tem permissão para modificar os pedidos!';
 $_['error_action']               = 'Atenção: Não foi possível concluir esta ação!';
-$_['error_filetype']			 = 'O tipo de arquivo não é válido!';
-$_['error_filetype']			 = 'O tipo de arquivo é inválido!';
+$_['error_filetype']			       = 'O tipo de arquivo não é válido!';
+$_['error_filetype']			       = 'O tipo de arquivo é inválido!';
