@@ -7,6 +7,9 @@ $_['text_success']        = 'Layout modificado com sucesso!';
 $_['text_list']           = 'Listando layouts';
 $_['text_add']            = 'Novo layout';
 $_['text_edit']           = 'Editando layout';
+$_['text_remove']         = 'Remover';
+$_['text_route']          = 'Selecione a loja e as rotas que serão utilizadas no layout';
+$_['text_module']         = 'Selecione a posição dos módulos';
 $_['text_default']        = 'Padrão';
 $_['text_content_top']    = 'Topo do conteúdo';
 $_['text_content_bottom'] = 'Rodapé do conteúdo';
@@ -22,8 +25,6 @@ $_['entry_name']          = 'Layout';
 $_['entry_store']         = 'Loja';
 $_['entry_route']         = 'Rota';
 $_['entry_module']        = 'Módulo';
-$_['entry_position']      = 'Localização';
-$_['entry_sort_order']    = 'Posição';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar os layouts!';

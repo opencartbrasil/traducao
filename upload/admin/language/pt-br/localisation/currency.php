@@ -7,6 +7,7 @@ $_['text_success']         = 'Moeda modificada com sucesso!';
 $_['text_list']            = 'Listando moedas';
 $_['text_add']             = 'Nova moeda';
 $_['text_edit']            = 'Editando moeda';
+$_['text_iso']             = 'Você pode encontrar uma lista completa de códigos de moeda ISO e configurações <a href="http://www.xe.com/iso4217.php" target="_blank">clicando aqui</a>.';
 
 // Column
 $_['column_title']         = 'Moeda';

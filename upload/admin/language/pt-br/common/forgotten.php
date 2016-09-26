@@ -1,5 +1,5 @@
 <?php
-// header
+// Heading
 $_['heading_title']   = 'Esqueceu sua senha?';
 
 // Text

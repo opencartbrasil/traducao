@@ -17,8 +17,8 @@ $_['column_action']          = 'Ação';
 // Entry
 $_['entry_name']             = 'Departamento';
 $_['entry_description']      = 'Descrição';
-$_['entry_meta_title'] 	     = 'Meta título';
-$_['entry_meta_keyword'] 	 = 'Meta palavras-chave';
+$_['entry_meta_title']       = 'Meta título';
+$_['entry_meta_keyword']     = 'Meta palavras-chave';
 $_['entry_meta_description'] = 'Meta descrição';
 $_['entry_keyword']          = 'URL amigável';
 $_['entry_parent']           = 'Departamento principal';
@@ -43,3 +43,4 @@ $_['error_permission']       = 'Atenção: Você não tem permissão para modifi
 $_['error_name']             = 'Departamento deve ter entre 2 e 255 caracteres!';
 $_['error_meta_title']       = 'Meta título deve ter entre 3 e 255 caracteres!';
 $_['error_keyword']          = 'URL amigável já está em uso!';
+$_['error_parent']           = 'O departamento principal que você escolheu não pode ser utilizado, pois já é filho deste departamento!';

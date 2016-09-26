@@ -35,7 +35,7 @@ $_['text_status_6']                        = 'Pendente';
 $_['text_transactions']                    = 'Transações';
 $_['text_cancel_confirm']                  = 'O cancelamento do tipo de assinatura não pode ser desfeito! Tem certeza que deseja fazer isso?';
 $_['text_transaction_date_added']          = 'Cadastro';
-$_['text_transaction_payment'] 			   = 'Pagamento';
+$_['text_transaction_payment']             = 'Pagamento';
 $_['text_transaction_outstanding_payment'] = 'Pendente';
 $_['text_transaction_skipped']             = 'Ignorado';
 $_['text_transaction_failed']              = 'Falhou';
@@ -47,15 +47,15 @@ $_['text_transaction_expired']             = 'Expirado';
 $_['text_cancelled']                       = 'Assinatura cancelada';
 
 // Column
-$_['column_order_recurring_id']             = 'Assinatura nº';
-$_['column_order_id']                       = 'Pedido nº';
-$_['column_reference']                      = 'Referência do pagamento';
-$_['column_customer']                       = 'Ciente';
-$_['column_date_added']                     = 'Cadastro';
-$_['column_status']                         = 'Situação';
-$_['column_amount']                         = 'Valor';
-$_['column_type']                           = 'Tipo';
-$_['column_action']                         = 'Ação';
+$_['column_order_recurring_id']            = 'Assinatura nº';
+$_['column_order_id']                      = 'Pedido nº';
+$_['column_reference']                     = 'Referência do pagamento';
+$_['column_customer']                      = 'Ciente';
+$_['column_date_added']                    = 'Cadastro';
+$_['column_status']                        = 'Situação';
+$_['column_amount']                        = 'Valor';
+$_['column_type']                          = 'Tipo';
+$_['column_action']                        = 'Ação';
 
 // Entry
 $_['entry_order_recurring_id']             = 'Assinatura nº';

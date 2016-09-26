@@ -18,3 +18,4 @@ $_['column_action']         = 'Ação';
 // Entry
 $_['entry_date_start']      = 'Data inicial';
 $_['entry_date_end']        = 'Data final';
+$_['entry_customer']        = 'Cliente';

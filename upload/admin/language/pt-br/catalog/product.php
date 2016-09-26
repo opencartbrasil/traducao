@@ -27,8 +27,8 @@ $_['column_action']          = 'Ação';
 // Entry
 $_['entry_name']             = 'Produto';
 $_['entry_description']      = 'Descrição';
-$_['entry_meta_title'] 	     = 'Meta título';
-$_['entry_meta_keyword'] 	 = 'Meta palavras-chave';
+$_['entry_meta_title']       = 'Meta título';
+$_['entry_meta_keyword']     = 'Meta palavras-chave';
 $_['entry_meta_description'] = 'Meta descrição';
 $_['entry_keyword']          = 'URL amigável';
 $_['entry_model']            = 'Modelo';
@@ -76,7 +76,7 @@ $_['entry_category']         = 'Departamentos';
 $_['entry_filter']           = 'Filtros';
 $_['entry_download']         = 'Downloads';
 $_['entry_related']          = 'Outros produtos';
-$_['entry_tag']          	 = 'Etiquetas';
+$_['entry_tag']              = 'Etiquetas';
 $_['entry_reward']           = 'Pontos';
 $_['entry_layout']           = 'Layout substituto';
 $_['entry_recurring']        = 'Tipo de assinatura';
@@ -97,7 +97,7 @@ $_['help_category']          = '(autocompletar)';
 $_['help_filter']            = '(autocompletar)';
 $_['help_download']          = '(autocompletar)';
 $_['help_related']           = '(autocompletar)';
-$_['help_tag']          	 = 'Separadas por vírgulas';
+$_['help_tag']               = 'Separadas por vírgulas';
 
 // Error
 $_['error_warning']          = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';

@@ -3,6 +3,7 @@
 $_['heading_title']        = 'Instalador de extensões';
 
 // Text
+$_['text_upload']          = 'Enviando a extensão';
 $_['text_success']         = 'Extensão instalada com sucesso!';
 $_['text_unzip']           = 'Extraindo arquivos!';
 $_['text_ftp']             = 'Copiando arquivos!';

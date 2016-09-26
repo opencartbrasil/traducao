@@ -1,23 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                = 'Painel de controle';
-
-// Text
-$_['text_order_total']             = 'Total de pedidos';
-$_['text_customer_total']          = 'Total de clientes';
-$_['text_sale_total']              = 'Total vendido';
-$_['text_online_total']            = 'Clientes online';
-$_['text_map']                     = 'Mapa do mundo';
-$_['text_sale']                    = 'Mapa geográfico de vendas';
-$_['text_activity']                = 'Atividades recentes';
-$_['text_recent']                  = 'Últimos pedidos';
-$_['text_order']                   = 'Pedidos';
-$_['text_customer']                = 'Clientes';
-$_['text_day']                     = 'Hoje';
-$_['text_week']                    = 'Semanal';
-$_['text_month']                   = 'Mensal';
-$_['text_year']                    = 'Anual';
-$_['text_view']                    = 'Ver mais...';
+$_['heading_title'] = 'Painel de controle';
 
 // Error
-$_['error_install']                = 'Atenção: A pasta install não foi excluída! Para manter a segurança de sua loja, exclua a pasta install.';
+$_['error_install'] = 'Atenção: A pasta install não foi excluída! Para manter a segurança de sua loja, exclua a pasta install.';

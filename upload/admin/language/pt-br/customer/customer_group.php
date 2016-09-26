@@ -23,8 +23,8 @@ $_['entry_sort_order']  = 'Posição';
 $_['help_approval']     = 'Se sim, os clientes deverão ser aprovados antes de poderem acessar a loja.';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar os tipos de cliente!';
-$_['error_name']         = 'O tipo de cliente deve ter entre 3 e 32 caracteres!';
-$_['error_default']      = 'Atenção: O tipo de cliente não pode ser excluído, pois é definido como o tipo de cliente padrão da loja!';
-$_['error_store']        = 'Atenção: O tipo de cliente não pode ser excluído, pois está vinculado a %s lojas!';
-$_['error_customer']     = 'Atenção: O tipo de cliente não pode ser excluído, pois está vinculado a %s clientes!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os tipos de cliente!';
+$_['error_name']        = 'O tipo de cliente deve ter entre 3 e 32 caracteres!';
+$_['error_default']     = 'Atenção: O tipo de cliente não pode ser excluído, pois é definido como o tipo de cliente padrão da loja!';
+$_['error_store']       = 'Atenção: O tipo de cliente não pode ser excluído, pois está vinculado a %s lojas!';
+$_['error_customer']    = 'Atenção: O tipo de cliente não pode ser excluído, pois está vinculado a %s clientes!';

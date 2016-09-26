@@ -3,6 +3,7 @@
 $_['heading_title']              = 'Pedidos';
 
 // Text
+$_['text_success']               = 'Pedidos modificados com sucesso!';
 $_['text_list']                  = 'Listando pedidos';
 $_['text_add']                   = 'Novo pedido';
 $_['text_edit']                  = 'Editando pedido';
@@ -128,5 +129,4 @@ $_['help_override']              = 'Se você não está conseguindo modificar a 
 $_['error_warning']              = 'Atenção: Verifique se preencheu todos os campos corretamente!';
 $_['error_permission']           = 'Atenção: Você não tem permissão para modificar os pedidos!';
 $_['error_action']               = 'Atenção: Não foi possível concluir esta ação!';
-$_['error_filetype']			       = 'O tipo de arquivo não é válido!';
-$_['error_filetype']			       = 'O tipo de arquivo é inválido!';
+$_['error_filetype']             = 'O tipo de arquivo não é válido!';

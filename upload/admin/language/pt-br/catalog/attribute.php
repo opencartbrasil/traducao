@@ -15,12 +15,12 @@ $_['column_sort_order']      = 'Posição';
 $_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_name']            = 'Atributo';
-$_['entry_attribute_group'] = 'Grupo de atributos';
-$_['entry_sort_order']      = 'Posição';
+$_['entry_name']             = 'Atributo';
+$_['entry_attribute_group']  = 'Grupo de atributos';
+$_['entry_sort_order']       = 'Posição';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não tem permissão para modificar os atributos!';
-$_['error_attribute_group'] = 'Grupo de atributos é obrigatório!';
-$_['error_name']            = 'Atributo deve ter entre 3 e 64 caracteres!';
-$_['error_product']         = 'Atenção: Este atributo não pode ser excluído, pois está vinculado a %s produtos!';
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar os atributos!';
+$_['error_attribute_group']  = 'Grupo de atributos é obrigatório!';
+$_['error_name']             = 'Atributo deve ter entre 3 e 64 caracteres!';
+$_['error_product']          = 'Atenção: Este atributo não pode ser excluído, pois está vinculado a %s produtos!';

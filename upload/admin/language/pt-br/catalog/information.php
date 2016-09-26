@@ -11,15 +11,15 @@ $_['text_default']           = 'Padrão';
 
 // Column
 $_['column_title']           = 'Título da página';
-$_['column_sort_order']	     = 'Posição';
+$_['column_sort_order']      = 'Posição';
 $_['column_action']          = 'Ação';
 
 // Entry
 $_['entry_title']            = 'Título da página';
 $_['entry_description']      = 'Conteúdo';
 $_['entry_store']            = 'Loja';
-$_['entry_meta_title'] 	     = 'Meta títulos';
-$_['entry_meta_keyword'] 	 = 'Meta palavras-chave';
+$_['entry_meta_title']       = 'Meta títulos';
+$_['entry_meta_keyword']     = 'Meta palavras-chave';
 $_['entry_meta_description'] = 'Meta descrição';
 $_['entry_keyword']          = 'URL amigável';
 $_['entry_bottom']           = 'Exibir no rodapé';

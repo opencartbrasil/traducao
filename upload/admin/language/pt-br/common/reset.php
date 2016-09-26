@@ -1,5 +1,5 @@
 <?php
-// header
+// Heading
 $_['heading_title']  = 'Redefinir sua senha';
 
 // Text
