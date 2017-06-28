@@ -1,20 +1,23 @@
-### Resumo
+[![license][licenca-badge]][LICENSE]
 
-Tradução para Português do Brasil do OpenCart versão 2.x ou superior, mantida e revisada pela comunidade OpenCart Brasil.
-Segue o link para download do pacote de instalação atualizado, baixe a tradução conforme a versão do OpenCart que você estiver utilizando: (baixe o arquivo traducao.ocmod.zip)
+### Apresentação
+
+Essa tradução para português do Brasil do OpenCart, é mantida e revisada por OpenCart Brasil.
+
+Segue o link para download do pacote de instalação atualizado (baixe o arquivo traducao.ocmod.zip):
 
 https://github.com/opencartbrasil/traducao/releases
 
-A partir da versão 2.x do OpenCart, automatizamos o processo de configuração da tradução aproveitando recursos nativos do OpenCart, ao executar as seguintes tarefas no momento da instalação da tradução:
+A partir da versão 2.x do OpenCart, automatizamos o processo de configuração da tradução utilizando o recurso [OCMOD][OCMOD] do OpenCart, ou seja, ao instalar a extensão, as seguintes tarefas serão realizadas:
 
-- Cadastrar automaticamente o idioma português do Brasil;
-- Configurar o idioma português do Brasil como o idioma padrão da loja e da administração;
-- Cadastrar automaticamente a moeda Real;
-- Configurar a moeda Real como moeda padrão da loja;
-- Desativar a atualização automática do valor da moeda conforme cotação internacional;
-- Edita o cadastro do país Brasil para que o campo CEP seja de preenchimento obrigatório.
+- Cadastro automático do idioma português do Brasil;
+- Configuração do idioma português do Brasil como o idioma padrão do OpenCart;
+- Cadastro automático da moeda Real;
+- Configuração da moeda Real como moeda padrão do OpenCart;
+- Desabilita a atualização automática de valor da moeda;
+- Modifica o cadastro do país Brasil, para que o campo CEP seja um campo de preenchimento obrigatório.
 
-Observação: O processo é automatizado quando feito através do instalador de extensões do OpenCart.
+Atenção: O processo de configuração é automatizado, apenas quando feito através do instalador de extensões do OpenCart.
 
 Caso deseje doar um valor para contribuir com este trabalho continuo e sempre gratuito, clique no botão abaixo:
 
@@ -26,20 +29,14 @@ http://www.opencartbrasil.com.br/instalando-traducao-opencart
 
 ### Dificuldades
 
-Caso esteja tendo dificuldades ao utilizar o instalador de extensões do OpenCart por causa das configurações de FTP, utilize a modificação abaixo que cria a possibilidade de utilizar o instalador do OpenCart sem a necessidade do FTP:
+Caso esteja tendo dificuldades em utilizar o instalador de extensões do OpenCart por causa das configurações de FTP nas versões 2.x, utilize a modificação abaixo, pois ela modifica o instalador do OpenCart, para que funcione sem a necessidade de configurar o FTP:
+
 https://github.com/opencartbrasil/instalador-sem-ftp
 
 ### Dúvidas
 
-Antes de registrar uma Issue, siga os passos abaixo:
-
- 1. Se tiver problemas com a instalação, [clique aqui](https://forum.opencartbrasil.com.br/).
-
-### Como contribuir
-
- 1. Faça um Fork do projeto e edite os arquivos que desejar.
- 2. Faça um Pull para que suas sugestões de melhorias sejam avaliadas e aceitas, caso aprovadas.
-
-### Licença
-
-[GNU General Public License version 3 (GPLv3)](https://github.com/opencartbrasil/traducao/blob/master/LICENSE)
+Antes de enviar uma Issue, pesquise em nosso fórum [clicando aqui](https://forum.opencartbrasil.com.br/).
+ 
+[licenca-badge]: https://img.shields.io/badge/licença-GPLv3-blue.svg
+[LICENSE]: ./LICENSE
+[OCMOD]: https://github.com/opencart/opencart/wiki/Modification-System
