@@ -26,7 +26,7 @@ $_['entry_decimal_place']  = 'Casas decimais';
 $_['entry_status']         = 'Situação';
 
 // Help
-$_['help_code']            = 'Não altere, se esta é a sua moeda padrão. Deve ser validado como <a href="http://www.xe.com/iso4217.php" target="_blank">códigos ISO</a>.';
+$_['help_code']            = 'Não altere, se esta é a sua moeda padrão. Deve ser validado como código ISO 4217.';
 $_['help_value']           = 'Defina para 1.00000, se está é a sua moeda padrão.';
 
 // Error
