@@ -6,4 +6,4 @@ e este projeto adere a [Semantic Versioning](http://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/opencartbrasil/ocmod-editor/compare/2.3.0.2...HEAD
+[Unreleased]: https://github.com/opencartbrasil/traducao/compare/2.3.0.2...HEAD
