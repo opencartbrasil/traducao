@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Comparação de produtos';
+$_['heading_title']     = 'Produtos para comparar';
 
 // Text
 $_['text_product']      = 'Detalhes';
@@ -17,6 +17,6 @@ $_['text_summary']      = 'Resumo';
 $_['text_weight']       = 'Peso';
 $_['text_dimension']    = 'Dimensões (C x L x A)';
 $_['text_compare']      = 'Produtos para comparar (%s)';
-$_['text_success']      = 'Você adicionou o produto <a href="%s">%s</a> a <a href="%s">na lista de produtos para comparação</a>!';
-$_['text_remove']       = 'Você modificou a lista de produtos para comparação!';
+$_['text_success']      = 'Você adicionou o produto <a href="%s">%s</a> na lista de <a href="%s">produtos para comparar</a>!';
+$_['text_remove']       = 'Você modificou a lista de produtos para comparar!';
 $_['text_empty']        = 'Você não escolheu nenhum produto para comparar.';
