@@ -1,4 +1,4 @@
-[![license][licenca-badge]][LICENSE]
+[![version][opencart-badge]][CHANGELOG] [![license][licenca-badge]][LICENSE]
 
 ### Apresentação
 
@@ -36,7 +36,9 @@ https://github.com/opencartbrasil/instalador-sem-ftp
 ### Dúvidas
 
 Antes de enviar uma Issue, pesquise em nosso fórum [clicando aqui](https://forum.opencartbrasil.com.br/).
- 
+
+[opencart-badge]: https://img.shields.io/badge/opencart-2.3.0.2-blue.svg
+[CHANGELOG]: ./CHANGELOG.md
 [licenca-badge]: https://img.shields.io/badge/licença-GPLv3-blue.svg
 [LICENSE]: ./LICENSE
 [OCMOD]: https://github.com/opencart/opencart/wiki/Modification-System
