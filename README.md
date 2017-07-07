@@ -1,20 +1,23 @@
-### Resumo
+[![version][opencart-badge]][CHANGELOG] [![license][licenca-badge]][LICENSE]
 
-Tradução para Português do Brasil, mantida e revisada pela comunidade OpenCart Brasil.
+### Apresentação
+
+Essa tradução para português do Brasil do OpenCart, é mantida e revisada por OpenCart Brasil.
+
+Segue o link para download do pacote de instalação atualizado:
+
+https://github.com/opencartbrasil/traducao/releases
+
+### Instalação ou atualização da tradução
+
+http://www.opencartbrasil.com.br/instalando-traducao-opencart
 
 ### Dúvidas
 
-Antes de registrar uma Issue, siga os passos abaixo:
+Antes de enviar uma Issue, pesquise em nosso fórum [clicando aqui](https://forum.opencartbrasil.com.br/).
 
- 1. Para a instalação do pacote de tradução, [clique aqui](http://www.opencartbrasil.com.br/tutoriais/instalando-idioma-portugues-brasil/).
- 2. Para uma completa tradução e configuração, [clique aqui](http://www.opencartbrasil.com.br/tutoriais/configurando-opencart/).
- 3. Se tiver problemas com a instalação, [clique aqui](http://www.opencartbrasil.com.br/forum/).
-
-### Como contribuir
-
- 1. Faça um Fork do projeto e edite os arquivos que desejar.
- 2. Faça um Pull para que suas sugestões de melhorias sejam avaliadas e aceitas, caso aprovadas.
-
-### Licença
-
-[GNU General Public License version 3 (GPLv3)](https://github.com/opencartbrasil/traducao/blob/master/LICENSE)
+[opencart-badge]: https://img.shields.io/badge/opencart-1.5.6.4-blue.svg
+[CHANGELOG]: ./CHANGELOG.md
+[licenca-badge]: https://img.shields.io/badge/licença-GPLv3-blue.svg
+[LICENSE]: ./LICENSE
+[OCMOD]: https://github.com/opencart/opencart/wiki/Modification-System
