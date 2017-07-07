@@ -13,4 +13,4 @@ $_['column_sort_order'] = 'Posição';
 $_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar o total do pedido!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as extensões do tipo total do pedido!';

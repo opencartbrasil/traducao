@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']      = 'Bloqueio por IP';
+$_['heading_title']      = 'Anti-Fraud IP';
 
 // Text
-$_['text_extension']     = 'Extensões';
-$_['text_success']       = 'Bloqueio por IP modificado com sucesso!';
-$_['text_edit']          = 'Editando Bloqueio por IP';
-$_['text_ip_add']        = 'Adicionar IP';
-$_['text_ip_list']       = 'Listando IPs bloqueados';
+$_['text_extension']     = 'Extensions';
+$_['text_success']       = 'Success: You have modified Anti-Fraud IP!';
+$_['text_edit']          = 'Edit Anti-Fraud IP';
+$_['text_ip_add']        = 'Add IP Address';
+$_['text_ip_list']       = 'Fraud IP Address List';
 
 // Column
-$_['column_ip']          = 'Endereço IP';
-$_['column_total']       = 'Total de contas';
-$_['column_date_added']  = 'Adicionado';
-$_['column_action']      = 'Ação';
+$_['column_ip']          = 'IP';
+$_['column_total']       = 'Total Accounts';
+$_['column_date_added']  = 'Date Added';
+$_['column_action']      = 'Action';
 
 // Entry
 $_['entry_ip']           = 'IP';
-$_['entry_status']       = 'Situação';
-$_['entry_order_status'] = 'Situação do pedido';
+$_['entry_status']       = 'Status';
+$_['entry_order_status'] = 'Order Status';
 
 // Help
-$_['help_order_status']  = 'Os clientes que apresentarem um IP que estiver na lista de IPs bloqueados receberão essa situação automaticamente.';
+$_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar a extensão Bloqueio por IP!';
+$_['error_permission']   = 'Warning: You do not have permission to modify Anti-Fraud IP!';

@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Cartão de crédito ou débito (LiqPay)';
+$_['text_title'] = 'Credit Card / Debit Card (LiqPay)';

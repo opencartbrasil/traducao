@@ -5,6 +5,7 @@ $_['heading_title']                        = 'Assinaturas';
 // Text
 $_['text_success']                         = 'Assinatura modificada com sucesso.';
 $_['text_list']                            = 'Listando assinaturas';
+$_['text_filter']                          = 'Filtros';
 $_['text_recurring_detail']                = 'Destalhes da assinatura';
 $_['text_order_detail']                    = 'Detalhes do pedido';
 $_['text_product_detail']                  = 'Detalhes do produto';

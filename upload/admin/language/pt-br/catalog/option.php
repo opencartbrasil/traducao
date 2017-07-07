@@ -18,6 +18,8 @@ $_['text_file']          = 'Upload';
 $_['text_date']          = 'Data';
 $_['text_datetime']      = 'Data e hora';
 $_['text_time']          = 'Hora';
+$_['text_option']        = 'Detalhes';
+$_['text_value']         = 'Valores';
 
 // Column
 $_['column_name']        = 'Opção';

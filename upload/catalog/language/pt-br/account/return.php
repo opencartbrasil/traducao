@@ -53,8 +53,8 @@ $_['entry_fault_detail'] = 'Detalhes';
 // Error
 $_['text_error']         = 'A devolução que você solicitou não foi encontrada!';
 $_['error_order_id']     = 'O pedido nº é obrigatório!';
-$_['error_firstname']    = 'O nome deve ter entre 2 e 32 caracteres!';
-$_['error_lastname']     = 'O sobrenome deve ter entre 2 e 32 caracteres!';
+$_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
+$_['error_lastname']     = 'O sobrenome deve ter entre 1 e 32 caracteres!';
 $_['error_email']        = 'O e-mail não é válido!';
 $_['error_telephone']    = 'O telefone deve ter entre 10 e 14 caracteres!';
 $_['error_product']      = 'O produto deve ter entre 3 e 255 caracteres!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Sua conta foi cadastrada.';
+$_['heading_title'] = 'Sua conta de afiliado foi cadastrada.';
 
 // Text
 $_['text_message']  = '<p>É com grande satisfação que lhe agradecemos por se cadastrar no programa de afiliados da loja <b>%s</b>.</p> <p>Agora você pode começar a gerar links de nossos produtos com seu código de afiliação.</p> <p>Se você tiver qualquer dúvida, entre em <a href="%s">contato</a> conosco.</p>';

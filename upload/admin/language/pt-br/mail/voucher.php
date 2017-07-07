@@ -1,5 +1,6 @@
 <?php
 // Text
+$_['text_success']  = 'Vale presente modificado com sucesso!';
 $_['text_subject']  = 'Você recebeu um vale presentes de %s';
 $_['text_greeting'] = 'Parabéns! Você acaba de receber um vale presentes de %s';
 $_['text_from']     = 'Quem lhe enviou este vale presentes foi %s';

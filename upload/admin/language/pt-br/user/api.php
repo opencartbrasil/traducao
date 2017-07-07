@@ -10,21 +10,22 @@ $_['text_edit']            = 'Editando API';
 $_['text_ip']              = 'Abaixo, você pode criar uma lista de IPs permitidos para acessar a API. Seu IP atual é %s';
 
 // Column
-$_['column_name']          = 'Nome da API';
+$_['column_username']      = 'Usuário da API';
 $_['column_status']        = 'Situação';
-$_['column_date_added']    = 'Cadastro';
-$_['column_date_modified'] = 'Modificação';
 $_['column_token']         = 'Token';
 $_['column_ip']            = 'IP';
+$_['column_date_added']    = 'Cadastro';
+$_['column_date_modified'] = 'Modificação';
 $_['column_action']        = 'Ação';
 
 // Entry
-$_['entry_name']           = 'Nome da API';
+$_['entry_username']       = 'Usuário da API';
 $_['entry_key']            = 'Chave da API';
 $_['entry_status']         = 'Situação';
 $_['entry_ip']             = 'IP';
 
 // Error
 $_['error_permission']     = 'Atenção: Você não tem permissão para modicar API!';
-$_['error_name']           = 'Nome da API deve ter entre 3 e 20 caracteres!';
+$_['error_username']       = 'Usuário da API deve ter entre 3 e 20 caracteres!';
 $_['error_key']            = 'Chave da API deve ter entre 64 e 256 caracteres!';
+$_['error_ip']             = 'Você deve ter pelo menos um IP adicionado na lista!';

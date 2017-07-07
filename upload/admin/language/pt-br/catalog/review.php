@@ -7,6 +7,7 @@ $_['text_success']      = 'Comentário modificado com sucesso!';
 $_['text_list']         = 'Listando comentários';
 $_['text_add']          = 'Novo comentário';
 $_['text_edit']         = 'Editando comentário';
+$_['text_filter']       = 'Filtros';
 
 // Column
 $_['column_product']    = 'Produto';

@@ -1,28 +1,28 @@
 <?php
 // Text
-$_['text_title']			 = 'Cartão de crédito ou débito (Worldpay)';
-$_['text_credit_card']		 = 'Detalhes do cartão';
-$_['text_card_type']		 = 'Tipo de cartão: ';
-$_['text_card_name']		 = 'Titular do cartão: ';
-$_['text_card_digits']		 = 'Últimos dígitos: ';
-$_['text_card_expiry']		 = 'Expira em: ';
-$_['text_trial']			 = '%s a cada %s %s repetido por %s vez(es) ';
-$_['text_recurring']		 = '%s a cada %s %s';
-$_['text_length']			 = ' para %s pagamentos';
-$_['text_confirm_delete']	 = 'Tem certeza de que deseja excluir o cartão?';
-$_['text_card_success']		 = 'O cartão foi excluído.';
-$_['text_card_error']		 = 'Houve um problema ao exluir o seu cartão, por favor, entre em contato conosco para receber ajuda.';
+$_['text_title']			 = 'Credit Card / Debit Card (Worldpay)';
+$_['text_credit_card']		 = 'Card Details';
+$_['text_card_type']		 = 'Card Type: ';
+$_['text_card_name']		 = 'Card Name: ';
+$_['text_card_digits']		 = 'Last Digits: ';
+$_['text_card_expiry']		 = 'Expiry: ';
+$_['text_trial']			 = '%s every %s %s for %s payments then ';
+$_['text_recurring']		 = '%s every %s %s';
+$_['text_length']			 = ' for %s payments';
+$_['text_confirm_delete']	 = 'Are you sure you wish to delete this card';
+$_['text_card_success']		 = 'Card has been successfully removed';
+$_['text_card_error']		 = 'There are an error removing your card. Please contact the shop administrator for help.';
 
 // Entry
-$_['entry_card']			 = 'Novo ou cadastrado: ';
-$_['entry_card_existing']	 = 'Cadastrado';
-$_['entry_card_new']		 = 'Novo';
-$_['entry_card_save']		 = 'Cadastrar detalhes do cartão';
-$_['entry_cc_cvc']			 = 'Código de segurança (CVC)';
-$_['entry_cc_choice']		 = 'Modificar cartão cadastrado';
+$_['entry_card']			 = 'New or Existing Card: ';
+$_['entry_card_existing']	 = 'Existing';
+$_['entry_card_new']		 = 'New';
+$_['entry_card_save']		 = 'Remember Card Details';
+$_['entry_cc_cvc']			 = 'Card Verification Code (CVC)';
+$_['entry_cc_choice']		 = 'Choose an Existing Card';
 
 // Button
-$_['button_delete_card']	 = 'Apagar cartão selecionado';
+$_['button_delete_card']	 = 'Delete Card';
 
 // Error
-$_['error_process_order']	 = 'Houve um erro ao processar seu pedido. Entre em contato conosco para lhe ajudarmos.';
+$_['error_process_order']	 = 'There are an error processing your order. Please contact the shop administrator for help.';

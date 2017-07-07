@@ -1,44 +1,44 @@
 <?php
 // Text
-$_['text_title']            = 'Cartão de crédito / débito';
-$_['text_card_details']     = 'Detalhes do cartão';
-$_['text_echeck_details']   = 'Detalhes eCheck';
-$_['text_card']             = 'Cartão';
+$_['text_title']            = 'Credit Card / Debit Card';
+$_['text_card_details']     = 'Card Details';
+$_['text_echeck_details']   = 'eCheck Details';
+$_['text_card']             = 'Card';
 $_['text_echeck']           = 'eCheck';
-$_['text_wait']             = 'Aguarde...';
-$_['text_confirm_delete']   = 'Tem certeza de que deseja excluir o cartão?';
-$_['text_no_cards']         = 'No momento, não estamos aceitando cartões salvos';
-$_['text_select_card']      = 'Selecione o cartão';
+$_['text_wait']             = 'Please wait!';
+$_['text_confirm_delete']   = 'Are you sure you want to delete the card?';
+$_['text_no_cards']         = 'No cards saved yet';
+$_['text_select_card']      = 'Please select a card';
 
 // Entry
-$_['entry_method']          = 'Método';
-$_['entry_card_new_or_old'] = 'Novo / Cartão existente';
-$_['entry_card_new']        = 'Novo';
-$_['entry_card_old']        = 'Existente';
-$_['entry_card_type']       = 'Tipo de cartão';
-$_['entry_card_number']     = 'Número do cartão';
-$_['entry_card_expiry']     = 'Vencimento';
-$_['entry_card_cvv2']       = 'Código de segurança';
-$_['entry_card_save']       = 'Salvar cartão';
-$_['entry_card_choice']     = 'Selecione o cartão';
-$_['entry_account_number']  = 'Número da conta';
-$_['entry_routing_number']  = 'Número de roteamento';
+$_['entry_method']          = 'Method';
+$_['entry_card_new_or_old'] = 'New / Existing Card';
+$_['entry_card_new']        = 'New';
+$_['entry_card_old']        = 'Existing';
+$_['entry_card_type']       = 'Card Type';
+$_['entry_card_number']     = 'Card Number';
+$_['entry_card_expiry']     = 'Expiry';
+$_['entry_card_cvv2']       = 'CVV2';
+$_['entry_card_save']       = 'Save Card';
+$_['entry_card_choice']     = 'Choose Your Card';
+$_['entry_account_number']  = 'Account Number';
+$_['entry_routing_number']  = 'Routing Number';
 
 // Button
-$_['button_confirm']        = 'Confirmar pedido';
-$_['button_delete']         = 'Excluir cartão selecionado';
+$_['button_confirm']        = 'Confirm Order';
+$_['button_delete']         = 'Delete Selected Card';
 
 // Error
-$_['error_card_number']     = 'O número do cartão deve ter entre 1 e 19 caracteres!';
-$_['error_card_type']       = 'Selecione o tipo de cartão!';
-$_['error_card_cvv2']       = 'O código de segurança deve ter entre  1 e 4 caracteres!';
-$_['error_data_missing']    = 'Dados não encontrados!';
-$_['error_not_logged_in']   = 'Você não está logado!';
-$_['error_no_order']        = 'Sem pedidos correspondentes!';
-$_['error_no_post_data']    = 'Não há dados $_POST';
-$_['error_select_card']     = 'Selecione o cartão!';
-$_['error_no_card']         = 'O cartão não foi localizado!';
-$_['error_no_echeck']       = 'eCheck não é surportado!';
-$_['error_account_number']  = 'O número da conta deve ter entre 1 e 19 caracteres!';
-$_['error_routing_number']  = 'Número de roteamento deve ter entre 1 e 9 caracteres!';
-$_['error_not_enabled']     = 'Extensão não habilitada';
+$_['error_card_number']     = 'Card Number must be between 1 and 19 characters!';
+$_['error_card_type']       = 'Card Type is not a valid selection!';
+$_['error_card_cvv2']       = 'CVV2 must be between 1 and 4 characters!';
+$_['error_data_missing']    = 'Missing data!';
+$_['error_not_logged_in']   = 'Not logged in!';
+$_['error_no_order']        = 'No matching order!';
+$_['error_no_post_data']    = 'No $_POST data';
+$_['error_select_card']     = 'Please select a card!';
+$_['error_no_card']         = 'No such card found!';
+$_['error_no_echeck']       = 'eCheck is not supported!';
+$_['error_account_number']  = 'Account Number must be between 1 and 19 characters!';
+$_['error_routing_number']  = 'Routing Number must be between 1 and 9 characters!';
+$_['error_not_enabled']     = 'Module not enabled';

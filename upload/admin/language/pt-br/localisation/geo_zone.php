@@ -7,6 +7,7 @@ $_['text_success']       = 'Região geográfica modificada com sucesso!';
 $_['text_list']          = 'Listando regiões geográficas';
 $_['text_add']           = 'Nova região geográfica';
 $_['text_edit']          = 'Editando região geográfica';
+$_['text_geo_zone']      = 'Países e estados';
 
 // Column
 $_['column_name']        = 'Região geográfica';

@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Cartão de crédito ou débito (Skrill)';
+$_['text_title'] = 'Credit Card / Debit Card (Skrill)';

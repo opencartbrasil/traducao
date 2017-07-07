@@ -3,13 +3,13 @@
 $_['heading_title']                 = 'CardConnect';
 
 // Tab
-$_['tab_settings']                  = 'Configurações';
-$_['tab_order_status']              = 'Situações do pedido';
+$_['tab_settings']                  = 'Settings';
+$_['tab_order_status']              = 'Order Status';
 
 // Text
-$_['text_extension']                = 'Extensões';
-$_['text_success']                  = 'CardConnect modificado com sucesso!';
-$_['text_edit']                     = 'Editando CardConnect';
+$_['text_extension']                = 'Extensions';
+$_['text_success']                  = 'Success: You have modified CardConnect payment module!';
+$_['text_edit']                     = 'Edit CardConnect';
 $_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
 $_['text_payment']                  = 'Payment';
 $_['text_authorize']                = 'Authorize';
@@ -53,15 +53,15 @@ $_['entry_environment']             = 'Environment';
 $_['entry_site']                    = 'Site';
 $_['entry_store_cards']             = 'Store Cards';
 $_['entry_echeck']                  = 'eCheck';
-$_['entry_total']                   = 'Total mínimo';
-$_['entry_geo_zone']                = 'Região geográfica';
-$_['entry_status']                  = 'Situação';
+$_['entry_total']                   = 'Total';
+$_['entry_geo_zone']                = 'Geo Zone';
+$_['entry_status']                  = 'Status';
 $_['entry_logging']                 = 'Debug Logging';
-$_['entry_sort_order']              = 'Posição';
+$_['entry_sort_order']              = 'Sort Order';
 $_['entry_cron_url']                = 'Cron Job URL';
 $_['entry_cron_time']               = 'Cron Job Last Run';
-$_['entry_order_status_pending']    = 'Aguardando pagamento';
-$_['entry_order_status_processing'] = 'Processando';
+$_['entry_order_status_pending']    = 'Pending';
+$_['entry_order_status_processing'] = 'Processing';
 
 // Help
 $_['help_merchant_id']              = 'Your personal CardConnect account merchant ID.';
@@ -88,7 +88,7 @@ $_['button_inquire']                = 'Inquire';
 $_['button_void']                   = 'Void';
 
 // Error
-$_['error_permission']              = 'Atenção: Você não tem permissão para modificar a extensão CardConnect!';
+$_['error_permission']              = 'Warning: You do not have permission to modify payment CardConnect!';
 $_['error_merchant_id']             = 'Merchant ID Required!';
 $_['error_api_username']            = 'API Username Required!';
 $_['error_api_password']            = 'API Password Required!';

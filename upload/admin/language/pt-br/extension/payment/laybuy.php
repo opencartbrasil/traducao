@@ -4,17 +4,17 @@ $_['heading_title']                 = 'Lay-Buy';
 $_['heading_transaction_title']     = 'Transaction';
 
 // Tab
-$_['tab_settings']                  = 'Configurações';
-$_['tab_reports']                   = 'Relatórios';
+$_['tab_settings']                  = 'Settings';
+$_['tab_reports']                   = 'Reports';
 $_['tab_reference']                 = 'Reference Information';
 $_['tab_customer']                  = 'Customer Information';
 $_['tab_payment']                   = 'Payment Plan';
 $_['tab_modify']                    = 'Modify Plan';
 
 // Text
-$_['text_extension']                = 'Extensões';
-$_['text_success']                  = 'Lay-Buy modificado com sucesso!';
-$_['text_edit']                     = 'Editando Lay-Buy';
+$_['text_extension']                = 'Extensions';
+$_['text_success']                  = 'Success: You have modified Lay-Buy payment module!';
+$_['text_edit']                     = 'Edit Lay-Buy';
 $_['text_laybuy']                   = '<a href="https://www.lay-buys.com" target="_blank"><img src="view/image/payment/laybuys.png" style="width:94px;height:25px" alt="Lay-Buys" title="Lay-Buys"></a>';
 $_['text_cancel_success']           = 'Transaction was canceled successfully.';
 $_['text_cancel_failure']           = 'Cancel request was unsuccessful. Please try again!';
@@ -60,11 +60,12 @@ $_['text_suburb']                   = 'Suburb';
 $_['text_state']                    = 'State';
 $_['text_country']                  = 'Country';
 $_['text_postcode']                 = 'Postcode';
-$_['text_payment_info']             = 'Payment Information';
+$_['text_payment_info']		     	= 'Payment Information';
 $_['text_no_cron_time']             = 'The cron has not yet been executed';
-$_['text_comment']                  = 'Updated by Lay-Buy';
-$_['text_comment_canceled']         = 'Order canceled and recurring PayPal Profile #%s canceled.';
-$_['text_remaining']                = 'Remaining:';
+$_['text_comment'] 	                = 'Updated by Lay-Buy';
+$_['text_comment_canceled'] 	    = 'Order canceled and recurring PayPal Profile #%s canceled.';
+$_['text_remaining'] 	            = 'Remaining:';
+$_['text_payment'] 	                = 'Payment';
 
 // Column
 $_['column_order_id']               = 'Order ID';
@@ -89,15 +90,15 @@ $_['entry_category']                = 'Allowed Categories';
 $_['entry_product_ids']             = 'Excluded Product IDs';
 $_['entry_customer_group']          = 'Allowed Customer Groups';
 $_['entry_logging']                 = 'Debug Logging';
-$_['entry_total']                   = 'Total mínimo';
+$_['entry_total']                   = 'Total';
 $_['entry_order_status_pending']    = 'Order Status (Pending)';
 $_['entry_order_status_canceled']   = 'Order Status (Canceled)';
 $_['entry_order_status_processing'] = 'Order Status (Processing)';
 $_['entry_gateway_url']             = 'Gateway URL';
 $_['entry_api_url']                 = 'API URL';
-$_['entry_geo_zone']                = 'Região geográfica';
-$_['entry_status']                  = 'Situação';
-$_['entry_sort_order']              = 'Posição';
+$_['entry_geo_zone']                = 'Geo Zone';
+$_['entry_status']                  = 'Status';
+$_['entry_sort_order']              = 'Sort Order';
 $_['entry_cron_url']                = 'Cron Job URL';
 $_['entry_cron_time']               = 'Cron Job Last Run';
 $_['entry_order_id']                = 'Order ID';
@@ -116,7 +117,7 @@ $_['help_category']                 = 'Select for which categories the payment o
 $_['help_product_ids']              = 'Add product IDs separated by comma(,) for which the method will not be available.';
 $_['help_customer_group']           = 'The customer must be in these customer groups before this payment method becomes active. Leave blank if there is no restriction.';
 $_['help_logging']                  = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
-$_['help_total']                    = 'O valor mínimo que o pedido deve alcançar para que esta opção de pagamento seja oferecida ao cliente.';
+$_['help_total']                    = 'The checkout total the order must reach before this payment method becomes active. Must be a value with no currency sign.';
 $_['help_order_status_pending']     = 'The order status after the customer\'s order has been placed.';
 $_['help_order_status_canceled']    = 'The order status after the customer\'s order is canceled.';
 $_['help_order_status_processing']  = 'The order status after the customer\'s order is paid.';
@@ -124,9 +125,9 @@ $_['help_cron_url']                 = 'Set a cron job to call this URL so that t
 $_['help_cron_time']                = 'This is the last time that the cron job URL was executed.';
 
 // Error
-$_['error_permission']              = 'Atenção: Você não tem permissão para modificar a extensão Lay-Buy!';
-$_['error_membership_id']           = 'Lay-Buys Membership ID é obrigatório!';
-$_['error_token']                   = 'Lay-Buy Secret Token é obrigatório!';
+$_['error_permission']              = 'Warning: You do not have permission to modify payment Lay-buy!';
+$_['error_membership_id']           = 'Lay-Buys Membership ID Required!';
+$_['error_token']                   = 'Lay-Buy Secret Token Required!';
 $_['error_min_deposit']             = 'Cannot exceed the Maximum Down Payment amount!';
 
 // Button

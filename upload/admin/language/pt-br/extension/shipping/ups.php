@@ -3,9 +3,9 @@
 $_['heading_title']                = 'UPS';
 
 // Text
-$_['text_extension']               = 'Extensões';
-$_['text_success']                 = 'UPS modificado com sucesso!';
-$_['text_edit']                    = 'Editando UPS';
+$_['text_extension']               = 'Extensions';
+$_['text_success']                 = 'Success: You have modified UPS shipping!';
+$_['text_edit']                    = 'Edit UPS Shipping';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
 $_['text_customer_counter']        = 'Customer Counter';
@@ -27,10 +27,10 @@ $_['text_eu']                      = 'European Union Origin';
 $_['text_pr']                      = 'Puerto Rico Origin';
 $_['text_mx']                      = 'Mexico Origin';
 $_['text_other']                   = 'All Other Origins';
-$_['text_test']                    = 'Teste';
-$_['text_production']              = 'Produção';
-$_['text_residential']             = 'Residencial';
-$_['text_commercial']              = 'Comercial';
+$_['text_test']                    = 'Test';
+$_['text_production']              = 'Production';
+$_['text_residential']             = 'Residential';
+$_['text_commercial']              = 'Commercial';
 $_['text_next_day_air']            = 'UPS Next Day Air';
 $_['text_2nd_day_air']             = 'UPS Second Day Air';
 $_['text_ground']                  = 'UPS Ground';
@@ -55,8 +55,8 @@ $_['text_today_express_saver']     = 'UPS Today Express Saver';
 
 // Entry
 $_['entry_key']                    = 'Access Key';
-$_['entry_username']               = 'Usuário';
-$_['entry_password']               = 'Senha';
+$_['entry_username']               = 'Username';
+$_['entry_password']               = 'Password';
 $_['entry_pickup']                 = 'Pickup Method';
 $_['entry_packaging']              = 'Packaging Type';
 $_['entry_classification']         = 'Customer Classification Code';
@@ -65,22 +65,22 @@ $_['entry_city']                   = 'Origin City';
 $_['entry_state']                  = 'Origin State/Province';
 $_['entry_country']                = 'Origin Country';
 $_['entry_postcode']               = 'Origin Zip/Postal Code';
-$_['entry_test']                   = 'Modo de teste';
-$_['entry_quote_type']             = 'Citar tipo';
-$_['entry_service']                = 'Serviços';
-$_['entry_insurance']              = 'Habilitar seguro';
-$_['entry_display_weight']         = 'Exibir peso do pedido';
-$_['entry_weight_class']           = 'Unidade de peso';
-$_['entry_length_class']           = 'Unidade de medida';
-$_['entry_dimension']              = 'Dimensão (C x L x A)';
-$_['entry_length']                 = 'Comprimento';
-$_['entry_height']                 = 'Altura';
-$_['entry_width']                  = 'Largura';
-$_['entry_tax_class']              = 'Grupo de impostos';
-$_['entry_geo_zone']               = 'Região geográfica';
-$_['entry_status']                 = 'Situação';
-$_['entry_sort_order']             = 'Posição';
-$_['entry_debug']                  = 'Modo de Debug';
+$_['entry_test']                   = 'Test Mode';
+$_['entry_quote_type']             = 'Quote Type';
+$_['entry_service']                = 'Services';
+$_['entry_insurance']              = 'Enable Insurance';
+$_['entry_display_weight']         = 'Display Delivery Weight';
+$_['entry_weight_class']           = 'Weight Class';
+$_['entry_length_class']           = 'Length Class';
+$_['entry_dimension']              = 'Dimensions (L x W x H)';
+$_['entry_length']                 = 'Length';
+$_['entry_height']                 = 'Height';
+$_['entry_width']                  = 'Width';
+$_['entry_tax_class']              = 'Tax Class';
+$_['entry_geo_zone']               = 'Geo Zone';
+$_['entry_status']                 = 'Status';
+$_['entry_sort_order']             = 'Sort Order';
+$_['entry_debug']                  = 'Debug Mode';
 
 // Help
 $_['help_key']                     = 'Enter the XML rates access key assigned to you by UPS.';
@@ -105,11 +105,11 @@ $_['help_dimension']               = 'This is assumed to be your average packing
 $_['help_debug']                   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'Atenção: Você não tem permissão para modificar a extensão UPS!';
-$_['error_key']                    = 'Access Key é obrigatório!';
-$_['error_username']               = 'O usuário é obrigatório!';
-$_['error_password']               = 'A senha é obrigatória!';
+$_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+$_['error_key']                    = 'Access Key Required!';
+$_['error_username']               = 'Username Required!';
+$_['error_password']               = 'Password Required!';
 $_['error_city']                   = 'Origin City!';
-$_['error_state']                  = 'Origin State/Province é obrigatório!';
-$_['error_country']                = 'Origin Country é obrigatório!';
-$_['error_dimension']              = 'Average Dimensions é obrigatório!';
+$_['error_state']                  = 'Origin State/Province Required!';
+$_['error_country']                = 'Origin Country Required!';
+$_['error_dimension']              = 'Average Dimensions Required!';

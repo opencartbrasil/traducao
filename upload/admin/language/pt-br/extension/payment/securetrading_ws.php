@@ -1,12 +1,12 @@
 <?php
 $_['heading_title']                              = 'Secure Trading Web Service';
 
-$_['tab_settings']                               = 'Configurações';
+$_['tab_settings']                               = 'Settings';
 $_['tab_myst']                                   = 'MyST';
 
 $_['text_securetrading_ws']                      = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure_trading.png" alt="Secure Trading" title="Secure Trading" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_extension']                             = 'Extensões';
-$_['text_all_geo_zones']                         = 'Todas as regiões geográficas';
+$_['text_extension']                             = 'Extensions';
+$_['text_all_geo_zones']                         = 'All Geo Zones';
 $_['text_process_immediately']                   = 'Process immediately';
 $_['text_wait_x_days']                           = 'Wait %d days';
 $_['text_wait']                                  = 'Please wait.';
@@ -56,14 +56,14 @@ $_['entry_order_status']                         = 'Order status';
 $_['entry_failed_order_status']                  = 'Failed order status';
 $_['entry_declined_order_status']                = 'Declined order status';
 $_['entry_refunded_order_status']                = 'Refunded order status';
-
+ 
 $_['entry_authorisation_reversed_order_status']  = 'Authorisation reversed order status';
 $_['entry_settle_status']                        = 'Settlement status';
-$_['entry_settle_due_date']                      = 'Settlement due date';
-$_['entry_geo_zone']                             = 'Região geográfica';
-$_['entry_sort_order']                           = 'Posição';
-$_['entry_status']                               = 'Situação';
-$_['entry_total']                                = 'Total mínimo';
+$_['entry_settle_due_date']                      = 'Settlement due date'; 
+$_['entry_geo_zone']                             = 'Geo Zone';
+$_['entry_sort_order']                           = 'Sort Order';
+$_['entry_status']                               = 'Status';
+$_['entry_total']                                = 'Total';
 $_['entry_reverse_authorisation']                = 'Reverse Authorisation:';
 $_['entry_refunded']                             = 'Refunded:';
 $_['entry_refund']                               = 'Issue refund (%s):';
@@ -76,28 +76,28 @@ $_['entry_date_to']                              = 'Date To';
 $_['entry_hour']                                 = 'Hour';
 $_['entry_minute']                               = 'Minute';
 
-$_['column_order_id']                            = 'Pedido nº';
+$_['column_order_id']                            = 'Order ID';
 $_['column_transaction_reference']               = 'Transaction reference';
-$_['column_customer']                            = 'Cliente';
+$_['column_customer']                            = 'Customer';
 $_['column_total']                               = 'Total';
-$_['column_currency']                            = 'Moeda';
+$_['column_currency']                            = 'Currency';
 $_['column_settle_status']                       = 'Settle status';
-$_['column_status']                              = 'Situação';
-$_['column_type']                                = 'Tipo';
-$_['column_payment_type']                        = 'Tipo de pagamento';
+$_['column_status']                              = 'Status';
+$_['column_type']                                = 'Type';
+$_['column_payment_type']                        = 'Payment type';
 
-$_['error_permission']                           = 'Atenção: Você não tem permissão para modificar a extensão Secure Trading Web Service!';
-$_['error_site_reference']                       = 'Site Reference é obrigatório!';
-$_['error_cards_accepted']                       = 'Accepted cards é obrigatório!';
-$_['error_username']                             = 'Username é obrigatório!';
-$_['error_password']                             = 'Password é obrigatório!';
+$_['error_permission']                           = 'You do not have permissions to modify this module';
+$_['error_site_reference']                       = 'Site Reference is required';
+$_['error_cards_accepted']                       = 'Accepted cards is required';
+$_['error_username']                             = 'Username is required';
+$_['error_password']                             = 'Password is required';
 $_['error_connection']                           = 'Could not connect to Secure Trading';
 $_['error_data_missing']                         = 'Data missing';
 
 $_['help_refund']                                = 'Please include the decimal point and the decimal part of the amount';
 $_['help_csv_username']                          = 'Username of the Transaction Download service';
 $_['help_csv_password']                          = 'Password of the Transaction Download service';
-$_['help_total']                                 = 'O valor mínimo que o pedido deve alcançar para que esta opção de pagamento seja oferecida ao cliente.';
+$_['help_total']                                 = 'The checkout total the order must reach before this payment method becomes active';
 
 $_['button_reverse_authorisation']               = 'Reverse Authorisation';
 $_['button_refund']                              = 'Refund';

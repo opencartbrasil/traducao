@@ -35,4 +35,4 @@ $_['error_confirm']         = 'Senha e repetida esta errada!';
 $_['error_firstname']       = 'Nome deve ter entre 1 e 32 caracteres!';
 $_['error_lastname']        = 'Sobrenome deve ter entre 1 e 32 caracteres!';
 $_['error_email']           = 'O e-mail não é válido!';
-$_['error_exists_username'] = 'Atenção: O e-mail já está em uso!';
+$_['error_exists_email']    = 'Atenção: O e-mail já está em uso!';

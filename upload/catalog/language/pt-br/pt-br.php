@@ -69,3 +69,5 @@ $_['error_upload_7']        = 'Atenção: Falha ao gravar arquivo em disco!';
 $_['error_upload_8']        = 'Atenção: O envio do arquivo foi interrompido por causa da extensão!';
 $_['error_upload_999']      = 'Atenção: Nenhum código de erro disponível!';
 $_['error_curl']            = 'CURL: Código de erro (%s): %s';
+
+$_['datepicker']            = 'pt-br';

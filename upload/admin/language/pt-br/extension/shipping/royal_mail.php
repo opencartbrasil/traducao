@@ -3,24 +3,24 @@
 $_['heading_title']                    = 'Royal Mail';
 
 // Text
-$_['text_extension']                   = 'Extensões';
-$_['text_success']                     = 'Royal Mail modificado com sucesso!';
-$_['text_edit']                        = 'Editando Royal Mail';
+$_['text_extension']                   = 'Extensions';
+$_['text_success']                     = 'Success: You have modified Royal Mail shipping!';
+$_['text_edit']                        = 'Edit Royal Mail Shipping';
 
 // Entry
-$_['entry_rate']                       = 'Preços';
-$_['entry_rate_eu']                    = 'Preços para Europe';
-$_['entry_rate_non_eu']                = 'Preços para fora da Europa';
-$_['entry_rate_zone_1']                = 'Preços para World Zone 1';
-$_['entry_rate_zone_2']                = 'Preços para World Zone 2';
-$_['entry_insurance']                  = 'Compensação de preços';
-$_['entry_display_weight']             = 'Exibir peso';
-$_['entry_display_insurance']          = 'Exibir seguro';
-$_['entry_weight_class']               = 'Unidade de peso';
-$_['entry_tax_class']                  = 'Grupo de impostos';
-$_['entry_geo_zone']                   = 'Região geográfica';
-$_['entry_status']                     = 'Situação';
-$_['entry_sort_order']                 = 'Posição';
+$_['entry_rate']                       = 'Rates';
+$_['entry_rate_eu']                    = 'Europe Rates';
+$_['entry_rate_non_eu']                = 'Non Europe Rates';
+$_['entry_rate_zone_1']                = 'World Zone 1 Rates';
+$_['entry_rate_zone_2']                = 'World Zone 2 Rates';
+$_['entry_insurance']                  = 'Compensation Rates';
+$_['entry_display_weight']             = 'Display Delivery Weight';
+$_['entry_display_insurance']          = 'Display Insurance';
+$_['entry_weight_class']               = 'Weight Class';
+$_['entry_tax_class']                  = 'Tax Class';
+$_['entry_geo_zone']                   = 'Geo Zone';
+$_['entry_status']                     = 'Status';
+$_['entry_sort_order']                 = 'Sort Order';
 
 // Help
 $_['help_rate']                        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
@@ -44,4 +44,4 @@ $_['tab_international_signed']         = 'International Signed';
 $_['tab_international_economy']        = 'International Economy';
 
 // Error
-$_['error_permission']                 = 'Atenção: Você não tem permissão para modificar a extensão Royal Mail!';
+$_['error_permission']                 = 'Warning: You do not have permission to modify Royal Mail shipping!';

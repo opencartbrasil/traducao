@@ -10,6 +10,7 @@ $_['text_list']        = 'Listando módulos';
 
 // Column
 $_['column_name']      = 'Módulo';
+$_['column_status']    = 'Situação';
 $_['column_action']    = 'Ação';
 
 // Entry
@@ -17,6 +18,6 @@ $_['entry_code']       = 'Módulo';
 $_['entry_name']       = 'Nome do módulo';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os módulos!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as extensões do tipo módulo!';
 $_['error_name']       = 'O nome do módulo deve ter entre 3 e 64 caracteres!';
 $_['error_code']       = 'É necessário selecionar um módulo!';

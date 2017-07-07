@@ -4,18 +4,18 @@ $_['heading_title']                    = 'Divido';
 
 // Text
 $_['text_divido']                      = '<a href="http://divido.com" target="_blank"><img src="view/image/payment/divido.png"></a>';
-$_['text_edit']                        = 'Editando Divido';
-$_['text_extension']                   = 'Extensões';
+$_['text_edit']                        = 'Edit Divido';
+$_['text_extension']                   = 'Extensions';
 $_['text_order_info']                  = 'Divido info';
-$_['text_success']                     = 'Divido modificado com sucesso!';
+$_['text_success']                     = 'Success: You have modified the Divido module';
 $_['text_proposal_id']                 = 'Proposal ID';
 $_['text_application_id']              = 'Application ID';
 $_['text_deposit_amount']              = 'Deposit amount';
 
 // Entry
 $_['entry_order_status']               = 'Order status when approved';
-$_['entry_sort_order']                 = 'Posição';
-$_['entry_status']                     = 'Situação';
+$_['entry_sort_order']                 = 'Sort order';
+$_['entry_status']                     = 'Status';
 $_['entry_api_key']                    = 'API-key';
 $_['entry_title']                      = 'Title';
 $_['entry_productselection']           = 'Product selection';
@@ -40,6 +40,3 @@ $_['help_planselection']               = 'Choose whether to manually select plan
 $_['help_productselection']            = 'Select what products are available on finance';
 $_['help_category']                    = 'Limit what categories where financing is available';
 $_['help_cart_threshold']              = 'Hard lower limit on cart amount for Divido to be available';
-
-// Error
-$_['error_permission']                 = 'Atenção: Você não tem permissão para modificar a extensão Divido!';

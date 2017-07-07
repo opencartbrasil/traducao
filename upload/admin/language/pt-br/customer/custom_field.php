@@ -20,7 +20,10 @@ $_['text_datetime']        = 'Data e hora';
 $_['text_time']            = 'Hora';
 $_['text_account']         = 'Dados do cliente';
 $_['text_address']         = 'Endereço do cliente';
+$_['text_affiliate']       = 'Dados do afiliado';
 $_['text_regex']           = 'Validação por regex';
+$_['text_custom_field']    = 'Detalhes';
+$_['text_value']           = 'Valores';
 
 // Column
 $_['column_name']          = 'Nome do Campo';
@@ -34,16 +37,16 @@ $_['entry_name']           = 'Nome do campo';
 $_['entry_location']       = 'Localização do campo';
 $_['entry_type']           = 'Tipo de campo';
 $_['entry_value']          = 'Valor padrão';
-$_['entry_validation']     = 'Validação';
+$_['entry_validation']     = 'Validação regex';
 $_['entry_custom_value']   = 'Texto da opção';
-$_['entry_customer_group'] = 'Tipos de clientes que utilizarão este campo';
-$_['entry_required']       = 'Tipos de clientes com preenchimento obrigatório';
+$_['entry_customer_group'] = 'Exibir para';
+$_['entry_required']       = 'Obrigatório para';
 $_['entry_status']         = 'Situação';
 $_['entry_sort_order']     = 'Posição';
 
 // Help
 $_['help_regex']           = 'Exemplo de regex: /[a-zA-Z0-9_-]/';
-$_['help_sort_order']      = 'Defina a posição do campo no cadastro do cliente, conforme a posição em que ele deverá ser exibido.';
+$_['help_sort_order']      = 'Posição do campo no cadastro. Use o sinal de menos para contar para trás a partir do último campo no conjunto';
 
 // Error
 $_['error_permission']     = 'Atenção: Você não tem permissão para personalizar o cadastro!';

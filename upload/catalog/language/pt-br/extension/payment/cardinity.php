@@ -1,24 +1,24 @@
 <?php
 // Text
-$_['text_title']			   = 'Cartão de crédito ou débito (Cardinity)';
-$_['text_payment_success']	   = 'Pagamento confirmado! Detalhes abaixo:';
-$_['text_payment_failed']	   = 'Pagamento não aprovado! Detalhes abaixo:';
+$_['text_title']						= 'Credit Card / Debit Card (Cardinity)';
+$_['text_payment_success']				= 'Payment success, details below';
+$_['text_payment_failed']				= 'Payment failed, details below';
 
 // Entry
-$_['entry_holder']			   = 'Titular do cartão';
-$_['entry_pan']				   = 'Número do cartão';
-$_['entry_expires']			   = 'Expira em';
-$_['entry_exp_month']		   = 'Mês';
-$_['entry_exp_year']		   = 'Ano';
-$_['entry_cvc']				   = 'Código de segurança (CVV2)';
+$_['entry_holder']						= 'Card Holder Name';
+$_['entry_pan']							= 'Card Number';
+$_['entry_expires']						= 'Expires';
+$_['entry_exp_month']					= 'Month';
+$_['entry_exp_year']					= 'Year';
+$_['entry_cvc']							= 'CVC';
 
 // Error
-$_['error_process_order']	   = 'Houve um erro ao processar seu pedido. Entre em contato com nosso atendimento e informe este erro.';
-$_['error_invalid_currency']   = 'A moeda escolhida não é aceita.';
-$_['error_finalizing_payment'] = 'Erro ao confirmar o pagamento.';
-$_['error_unknown_order_id']   = 'Não doi possível localiar o pagamento para este pedido.';
-$_['error_invalid_hash']	   = 'Hash inválido.';
-$_['error_payment_declined']   = 'O pagamento foi recusado pelo banco emissor do cartão.';
+$_['error_process_order']				= 'There was an error processing your order. Please contact the shop administrator for help.';
+$_['error_invalid_currency']			= 'Please use a valid currency.';
+$_['error_finalizing_payment']			= 'Error finalizing payment.';
+$_['error_unknown_order_id']			= 'Could not find cardinity payment with this order_id.';
+$_['error_invalid_hash']				= 'Invalid hash.';
+$_['error_payment_declined']			= 'Payment was declined by issuing bank.';
 
 // Button
-$_['button_confirm']		   = 'Pagar agora';
+$_['button_confirm']					= 'Pay Now';

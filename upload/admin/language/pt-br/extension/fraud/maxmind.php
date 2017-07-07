@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']                           = 'MaxMind';
+$_['heading_title']                           = 'MaxMind Anti-Fraud';
 
 // Text
-$_['text_extension']                          = 'Extensões';
-$_['text_success']                            = 'MaxMind modificado com sucesso!';
-$_['text_edit']                               = 'Editando MaxMind';
+$_['text_extension']                          = 'Extensions';
+$_['text_success']                            = 'Success: You have modified MaxMind anti-fraud!';
+$_['text_edit']                               = 'Edit MaxMind Anti-Fraud';
 $_['text_signup']                             = 'MaxMind is a fraud detection service. If you don\'t have a license key you can <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>sign up here</u></a>.';
 $_['text_country_match']                      = 'Country Match:';
 $_['text_country_code']                       = 'Country Code:';
@@ -51,18 +51,18 @@ $_['text_customer_phone_in_billing_location'] = 'Customer Phone Number in Billin
 $_['text_ship_forward']                       = 'Shipping Forward:';
 $_['text_city_postal_match']                  = 'City Postal Match:';
 $_['text_ship_city_postal_match']             = 'Shipping City Postal Match:';
-$_['text_score']                              = 'Ponto:';
+$_['text_score']                              = 'Score:';
 $_['text_explanation']                        = 'Explanation:';
 $_['text_risk_score']                         = 'Risk Score:';
 $_['text_queries_remaining']                  = 'Queries Remaining:';
 $_['text_maxmind_id']                         = 'Maxmind ID:';
-$_['text_error']                              = 'Erro:';
+$_['text_error']                              = 'Error:';
 
 // Entry
 $_['entry_key']                               = 'MaxMind License Key';
-$_['entry_score']                             = 'Pontos de risco';
-$_['entry_order_status']                      = 'Situação do pedido';
-$_['entry_status']                            = 'Situação';
+$_['entry_score']                             = 'Risk Score';
+$_['entry_order_status']                      = 'Order Status';
+$_['entry_status']                            = 'Status';
 
 // Help
 $_['help_order_status']                       = 'Orders that have a score over your set risk score will be assigned this order status and will not be allowed to reach the complete status automatically.';
@@ -118,5 +118,5 @@ $_['help_maxmind_id']                         = 'Unique identifier, used to refe
 $_['help_error']                              = 'Returns an error string with a warning message or a reason why the request failed.';
 
 // Error
-$_['error_permission']                        = 'Atenção: Você não tem permissão para modificar a extensão MaxMind!';
-$_['error_key']                               = 'License Key é obrigatório!';
+$_['error_permission']                        = 'Warning: You do not have permission to modify MaxMind anti-fraud!';
+$_['error_key']                               = 'License Key Required!';

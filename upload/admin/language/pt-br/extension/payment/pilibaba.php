@@ -3,13 +3,13 @@
 $_['heading_title']         = 'Pilibaba for Chinese Checkout';
 
 // Tab
-$_['tab_register']          = 'Registro';
-$_['tab_settings']          = 'Configurações';
+$_['tab_register']          = 'Register';
+$_['tab_settings']          = 'Settings';
 
 // Text
-$_['text_extension']        = 'Extensões';
-$_['text_success']          = 'Pilibaba for Chinese Checkout modificada com sucesso!';
-$_['text_edit']             = 'Editando Pilibaba for Chinese Checkout';
+$_['text_extension']        = 'Extensions';
+$_['text_success']          = 'Success: You have modified Pilibaba payment module!';
+$_['text_edit']             = 'Edit Pilibaba';
 $_['text_pilibaba']         = '<a href="http://www.pilibaba.com" target="_blank"><img src="view/image/payment/pilibaba.png" alt="Pilibaba" title="Pilibaba"></a>';
 $_['text_live']             = 'Live';
 $_['text_test']             = 'Test';
@@ -37,10 +37,10 @@ $_['entry_merchant_number'] = 'Merchant Number';
 $_['entry_secret_key']      = 'Secret Key';
 $_['entry_environment']     = 'Environment';
 $_['entry_shipping_fee']    = 'Shipping Fee';
-$_['entry_order_status']    = 'Situação do pedido';
-$_['entry_status']          = 'Situação';
+$_['entry_order_status']    = 'Order Status';
+$_['entry_status']          = 'Status';
 $_['entry_logging']         = 'Debug Logging';
-$_['entry_sort_order']      = 'Posição';
+$_['entry_sort_order']      = 'Sort Order';
 
 // Help
 $_['help_email_address']    = 'Please enter the email address for the owner of this business.';
@@ -56,8 +56,8 @@ $_['help_total']            = 'The checkout total the order must reach before th
 $_['help_logging']          = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
 
 // Error
-$_['error_warning']         = 'Atenção: Please check the form carefully for errors!';
-$_['error_permission']      = 'Atenção: Você não tem permissão para modificar a extensão Pilibaba for Chinese Checkout Pilibaba!';
+$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
+$_['error_permission']      = 'Warning: You do not have permission to modify payment Pilibaba!';
 $_['error_merchant_number'] = 'Merchant Number Required!';
 $_['error_secret_key']      = 'Secret Key Required!';
 $_['error_shipping_fee']    = 'Shipping fee must be a decimal number!';

@@ -11,7 +11,7 @@ $_['text_view']        = 'Ver mais...';
 // Entry
 $_['entry_status']     = 'Situação';
 $_['entry_sort_order'] = 'Posição';
-$_['entry_width']      = 'Largura';
+$_['entry_width']      = 'Colunas';
 
 // Error
 $_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Total vendido!';

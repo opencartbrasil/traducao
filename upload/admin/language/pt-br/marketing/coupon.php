@@ -9,6 +9,7 @@ $_['text_add']            = 'Novo cupom';
 $_['text_edit']           = 'Editando cupom';
 $_['text_percent']        = 'Percentual';
 $_['text_amount']         = 'Valor fixo';
+$_['text_coupon']         = 'Histórico';
 
 // Column
 $_['column_name']         = 'Cupom';
@@ -28,7 +29,7 @@ $_['entry_name']          = 'Cupom';
 $_['entry_code']          = 'Código';
 $_['entry_type']          = 'Tipo de desconto';
 $_['entry_discount']      = 'Desconto';
-$_['entry_logged']        = 'Cliente logado';
+$_['entry_logged']        = 'Cliente logado?';
 $_['entry_shipping']      = 'Frete grátis?';
 $_['entry_total']         = 'Valor';
 $_['entry_category']      = 'Departamentos';
@@ -40,14 +41,14 @@ $_['entry_uses_customer'] = 'Utilizações por cliente';
 $_['entry_status']        = 'Situação';
 
 // Help
-$_['help_code']           = 'O código que o cliente deve utilizar para obter o desconto.';
-$_['help_type']           = 'O tipo de desconto é baseado em valor fixo ou percentual?';
-$_['help_logged']         = 'O cliente deve estar conectado para utilizar o cupom.';
-$_['help_total']          = 'O valor total que deve o pedido deve alcançar para que o cupom seja liberado.';
-$_['help_category']       = 'Selecione os departamentos em que o cupom pode ser utilizado.';
-$_['help_product']        = 'Selecione os produtos em que o cupom pode ser utilizado.';
-$_['help_uses_total']     = 'O número máximo de vezes que o cupom pode ser utilizado por clientes diferentes. Deixe em branco para ilimitado.';
-$_['help_uses_customer']  = 'O número máximo de vezes que o cupom pode ser utilizado pelo mesmo cliente. Deixe em branco para ilimitado.';
+$_['help_code']           = 'Código que o cliente deve utilizar para obter o desconto';
+$_['help_type']           = 'Se fixo ou percentual';
+$_['help_logged']         = 'Sleecione se o cliente deve estar logado na loja para utilizar o cupom';
+$_['help_total']          = 'Valor total que deve o pedido deve alcançar para que o cupom seja liberado';
+$_['help_category']       = 'Selecione os departamentos em que o cupom pode ser utilizado';
+$_['help_product']        = 'Selecione os produtos em que o cupom pode ser utilizado';
+$_['help_uses_total']     = 'Número máximo de vezes que o cupom pode ser utilizado por clientes diferentes. Deixe em branco para ilimitado';
+$_['help_uses_customer']  = 'Número máximo de vezes que o cupom pode ser utilizado pelo mesmo cliente. Deixe em branco para ilimitado';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar os cupons!';

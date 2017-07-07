@@ -37,7 +37,6 @@ $_['entry_status']      = 'Situação';
 $_['help_code']         = 'O código que o cliente utilizará para ativar o vale presentes.';
 
 // Error
-$_['error_selection']   = 'Atenção: Selecione um vale presentes!';
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar os vale presentes!';
 $_['error_exists']      = 'Atenção: O código já está em uso!';
 $_['error_code']        = 'O código deve ter entre 3 e 10 caracteres!';

@@ -3,12 +3,12 @@
 $_['heading_title']    = 'Pilibaba Checkout Button';
 
 // Text
-$_['text_extension']   = 'Extensões';
-$_['text_success']     = 'Pilibaba Checkout Button modificado com sucesso!';
-$_['text_edit']        = 'Editando Pilibaba Checkout Button';
+$_['text_extension']   = 'Extensions';
+$_['text_success']     = 'Success: You have modified Pilibaba Checkout Button module!';
+$_['text_edit']        = 'Edit Pilibaba Checkout Button Module';
 
 // Entry
-$_['entry_status']     = 'Situação';
+$_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Pilibaba Checkout Button!';
+$_['error_permission'] = 'Warning: You do not have permission to modify Pilibaba Checkout Button module!';

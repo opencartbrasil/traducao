@@ -20,7 +20,7 @@ $_['entry_approval']    = 'Aprovar cliente?';
 $_['entry_sort_order']  = 'Posição';
 
 // Help
-$_['help_approval']     = 'Se sim, os clientes deverão ser aprovados antes de poderem acessar a loja.';
+$_['help_approval']     = 'Se sim, os clientes dependeram de aprovação para realizar pedidos';
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar os tipos de cliente!';

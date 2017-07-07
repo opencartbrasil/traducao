@@ -3,9 +3,9 @@
 $_['heading_title']         = 'United States Postal Service';
 
 // Text
-$_['text_extension']        = 'Extensões';
-$_['text_success']          = 'United States Postal Service modificado com sucesso!';
-$_['text_edit']             = 'Editando United States Postal Service';
+$_['text_extension']        = 'Extensions';
+$_['text_success']          = 'Success: You have modified United States Postal Service!';
+$_['text_edit']             = 'Edit United States Postal Service Shipping';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
 $_['text_domestic_02']      = 'First-Class Mail Letter';
@@ -55,21 +55,21 @@ $_['entry_user_id']         = 'User ID';
 $_['entry_postcode']        = 'Zip Code';
 $_['entry_domestic']        = 'Domestic Services';
 $_['entry_international']   = 'International Services';
-$_['entry_size']            = 'Tamanho';
+$_['entry_size']            = 'Size';
 $_['entry_container']       = 'Container';
 $_['entry_machinable']      = 'Machinable';
-$_['entry_dimension']       = 'Dimensão (C x L x A)';
-$_['entry_length']          = 'Comprimento';
-$_['entry_height']          = 'Altura';
-$_['entry_width']           = 'Largura';
+$_['entry_dimension']       = 'Dimensions (L x W x H)';
+$_['entry_length']          = 'Length';
+$_['entry_height']          = 'Height';
+$_['entry_width']           = 'Width';
 $_['entry_display_time']    = 'Display Delivery Time';
 $_['entry_display_weight']  = 'Display Delivery Weight';
-$_['entry_weight_class']    = 'Unidade de peso';
-$_['entry_tax']             = 'Grupo de impostos';
-$_['entry_geo_zone']        = 'Região geográfica';
-$_['entry_status']          = 'Situação';
-$_['entry_sort_order']      = 'Posição';
-$_['entry_debug']           = 'Modo de Debug';
+$_['entry_weight_class']    = 'Weight Class';
+$_['entry_tax']             = 'Tax Class';
+$_['entry_geo_zone']        = 'Geo Zone';
+$_['entry_status']          = 'Status';
+$_['entry_sort_order']      = 'Sort Order';
+$_['entry_debug']           = 'Debug Mode';
 
 // Help
 $_['help_dimension']        = 'Average package dimensions for shipping package. Product dimensions are not used for shipping at this time.';
@@ -79,10 +79,10 @@ $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']            = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'Atenção: Você não tem permissão para modificar a extensão United States Postal Service!';
-$_['error_user_id']         = 'User ID é obrigatório!';
-$_['error_postcode']        = 'Zip Code é obrigatório!';
-$_['error_width']           = 'Largura é obrigatório!';
-$_['error_length']          = 'Comprimento é obrigatório!';
-$_['error_height']          = 'Altura é obrigatório!';
-$_['error_girth']           = 'Girth é obrigatório!';
+$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_user_id']         = 'User ID Required!';
+$_['error_postcode']        = 'Zip Code Required!';
+$_['error_width']           = 'Width Required!';
+$_['error_length']          = 'Length Required!';
+$_['error_height']          = 'Height Required!';
+$_['error_girth']           = 'Girth Required!';

@@ -2,7 +2,7 @@
 $_['heading_title']                              = 'Secure Trading Payment Pages';
 
 $_['text_securetrading_pp']                      = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure_trading.png" alt="Secure Trading" title="Secure Trading" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_extension']                             = 'Extensões';
+$_['text_extension']                             = 'Extensions';
 $_['text_all_geo_zones']                         = 'All Geo Zones';
 $_['text_process_immediately']                   = 'Process immediately';
 $_['text_wait_x_days']                           = 'Wait %d days';
@@ -20,16 +20,16 @@ $_['entry_password']                             = 'Password';
 $_['entry_site_security_status']                 = 'Use Site Security hash';
 $_['entry_site_security_password']               = 'Site Security password';
 $_['entry_notification_password']                = 'Notification password';
-$_['entry_order_status']                         = 'Situação do pedido';
+$_['entry_order_status']                         = 'Order status';
 $_['entry_declined_order_status']                = 'Declined order status';
 $_['entry_refunded_order_status']                = 'Refunded order status';
 $_['entry_authorisation_reversed_order_status']  = 'Authorisation reversed order status';
 $_['entry_settle_status']                        = 'Settlement status';
 $_['entry_settle_due_date']                      = 'Settlement due date';
-$_['entry_geo_zone']                             = 'Região geográfica';
-$_['entry_sort_order']                           = 'Posição';
-$_['entry_status']                               = 'Situação';
-$_['entry_total']                                = 'Total mínimo';
+$_['entry_geo_zone']                             = 'Geo Zone';
+$_['entry_sort_order']                           = 'Sort Order';
+$_['entry_status']                               = 'Status';
+$_['entry_total']                                = 'Total';
 $_['entry_parent_css']                           = 'Parent CSS';
 $_['entry_child_css']                            = 'Child CSS';
 $_['entry_cards_accepted']                       = 'Accepted cards';
@@ -37,22 +37,23 @@ $_['entry_reverse_authorisation']                = 'Reverse Authorisation:';
 $_['entry_refunded']                             = 'Refunded:';
 $_['entry_refund']                               = 'Issue refund (%s):';
 
-$_['error_permission']                           = 'Atenção: Você não tem permissão para modificar a extensão Secure Trading Payment Pages!';
-$_['error_site_reference']                       = 'Site Reference é obrigatório';
-$_['error_notification_password']                = 'Notification password é obrigatório';
-$_['error_cards_accepted']                       = 'Accepted cards é obrigatório';
-$_['error_username']                             = 'Username é obrigatório';
-$_['error_password']                             = 'Password é obrigatório';
+$_['error_permission']                           = 'You do not have permissions to modify this module';
+$_['error_site_reference']                       = 'Site Reference is required';
+$_['error_notification_password']                = 'Notification password is required';
+$_['error_cards_accepted']                       = 'Accepted cards is required';
+$_['error_username']                             = 'Username is required';
+$_['error_password']                             = 'Password is required';
 $_['error_connection']                           = 'Could not connect to Secure Trading';
 $_['error_data_missing']                         = 'Data missing';
 
 $_['help_username']                              = 'Your webservice username';
 $_['help_password']                              = 'Your webservice password';
 $_['help_refund']                                = 'Please include the decimal point and the decimal part of the amount';
-$_['help_total']                                 = 'O valor mínimo que o pedido deve alcançar para que esta opção de pagamento seja oferecida ao cliente.';
+$_['help_total']                                 = 'The checkout total the order must reach before this payment method becomes active';
 
 $_['button_reverse_authorisation']               = 'Reverse Authorisation';
 $_['button_refund']                              = 'Refund';
+
 
 // Order page - payment tab
 $_['text_payment_info']                          = 'Payment information';

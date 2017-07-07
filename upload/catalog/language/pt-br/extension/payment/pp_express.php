@@ -1,25 +1,27 @@
 <?php
 // Heading
-$_['express_text_title']	  = 'Confirmar pedido';
+$_['express_text_title']      = 'Confirm order';
 
 // Text
-$_['text_title']			  = 'Cartão de crédito através do Paypal';
-$_['text_cart']				  = 'Carrinho de compras';
-$_['text_shipping_updated']	  = 'Serviço de frete atualizado';
-$_['text_trial']			  = '%s a cada %s %s repetido por %s vez(es) ';
-$_['text_recurring']		  = '%s a cada %s %s';
-$_['text_recurring_item']	  = 'Assinatura';
-$_['text_length']			  = ' para %s pagamentos';
+$_['text_title']              = 'PayPal Express Checkout';
+$_['text_cart']               = 'Shopping Cart';
+$_['text_shipping_updated']   = 'Shipping service updated';
+$_['text_trial']              = '%s every %s %s for %s payments then ';
+$_['text_recurring']          = '%s every %s %s';
+$_['text_recurring_item']     = 'Recurring Item';
+$_['text_length']             = ' for %s payments';
 
 // Entry
-$_['express_entry_coupon']	  = 'Código do cupom:';
+$_['express_entry_coupon']    = 'Enter your coupon here:';
 
 // Button
-$_['button_express_coupon']	  = 'Adicionar';
-$_['button_express_confirm']  = 'Confirmar';
-$_['button_express_login']	  = 'Ir para o PayPal';
-$_['button_express_shipping'] = 'Atualizar frete';
+$_['button_express_coupon']   = 'Add';
+$_['button_express_confirm']  = 'Confirm';
+$_['button_express_login']    = 'Continue to PayPal';
+$_['button_express_shipping'] = 'Update shipping';
 
 // Error
-$_['error_heading_title']	  = 'Ocorreu um erro!';
-$_['error_too_many_failures'] = 'Seu pagamento falhou por demora na confirmação!';
+$_['error_heading_title']	  = 'There was an error';
+$_['error_too_many_failures'] = 'Your payment has failed too many times';
+$_['error_unavailable'] 	  = 'Please use the full checkout with this order';
+$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';

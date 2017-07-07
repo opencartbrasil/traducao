@@ -1,42 +1,42 @@
 <?php
 
 // Text
-$_['text_title']												= 'Cartão de crédito (eWAY)';
-$_['text_credit_card']											= 'Detalhes do cartão';
-$_['text_testing']												= 'Este método de pagamento está em modo de teste, ou seja, seu cartão de crédito não será cobrado.<br /> Se você está fazendo um pedido válido, selecione outro método de pagamento.';
+$_['text_title']												= 'Pay with Credit Card (eWAY)';
+$_['text_credit_card']											= 'Credit Card Details';
+$_['text_testing']												= 'This payment gateway is currently being tested. Your credit card will not be charged.<br />If this is a real order, please use an alternate method of payment at this time.';
 
-$_['text_basket']												= 'Carrinho de compras';
-$_['text_checkout']												= 'Finalizar pedido';
-$_['text_success']												= 'Confirmado';
-$_['text_shipping']												= 'Frete';
+$_['text_basket']												= 'Basket';
+$_['text_checkout']												= 'Checkout';
+$_['text_success']												= 'Success';
+$_['text_shipping']												= 'Shipping';
 
 // Entry
-$_['entry_cc_number']											= 'Número do cartão';
-$_['entry_cc_name']												= 'Titular do cartão';
-$_['entry_cc_expire_date']										= 'Expira em';
-$_['entry_cc_cvv2']												= 'Código de segurança (CVV2)';
+$_['entry_cc_number']											= 'Card number';
+$_['entry_cc_name']												= 'Cardholder name';
+$_['entry_cc_expire_date']										= 'Card expiry date';
+$_['entry_cc_cvv2']												= 'Card security code (CVV2)';
 
-$_['button_pay']												= 'Pagar agora';
+$_['button_pay']												= 'Pay now';
 
-$_['text_card_accepted']										= 'Bandeira: ';
+$_['text_card_accepted']										= 'Accepted cards: ';
 $_['text_card_type_m']											= 'Mastercard';
-$_['text_card_type_v']											= 'Visa (Crédito/Débito)';
+$_['text_card_type_v']											= 'Visa (Credit/Debit/Electron/Delta)';
 $_['text_card_type_c']											= 'Diners';
 $_['text_card_type_a']											= 'American Express';
 $_['text_card_type_j']											= 'JCB';
 $_['text_card_type_pp']											= 'Paypal';
 $_['text_card_type_mp']											= 'Masterpass';
 $_['text_card_type_vm']											= 'Visa Checkout';
-$_['text_type_help']											= 'Após clicar em "Pagar agora" você será redirecionado para ';
+$_['text_type_help']											= 'After you click "Confirm Order"  you will be redirected to ';
 
-$_['text_transaction_failed']									= 'Desculpe, seu pagamento foi recusado.';
+$_['text_transaction_failed']									= 'Sorry, your payment has been declined.';
 
 // Help
-$_['help_cvv']													= 'Para Mastercard e Visa, é os três últimos dígitos na área de assinatura no verso do seu cartão.';
-$_['help_cvv_amex']												= 'Para American Express, são os quatro dígitos na frente do cartão.';
+$_['help_cvv']													= 'For Mastercard or Visa, this is the last three digits in the signature area on the back of your card.';
+$_['help_cvv_amex']												= 'For American Express, it\'s the four digits on the front of the card';
 
 // Validation Error codes
-$_['text_card_message_Please check the API Key and Password']   = 'Verifique a chave da API e a senha!';
+$_['text_card_message_Please check the API Key and Password']   = 'Please check the API Key and Password';
 
 $_['text_card_message_V6000']									= 'Undefined Validation Error';
 $_['text_card_message_V6001']									= 'Invalid Customer IP';
