@@ -4,6 +4,7 @@ $_['heading_title']         = 'Relatório de transações por cliente';
 
 // Column
 $_['text_extension']        = 'Extensões';
+$_['text_edit']             = 'Editando Relatório de transações por cliente';
 $_['text_success']          = 'Relatório modificado com sucesso!';
 $_['text_filter']           = 'Filtros';
 

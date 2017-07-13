@@ -4,6 +4,7 @@ $_['heading_title']     = 'Relatório de devoluções';
 
 // Text
 $_['text_extension']    = 'Extensões';
+$_['text_edit']         = 'Editando Relatório de devoluções';
 $_['text_success']      = 'Relatório modificado com sucesso!';
 $_['text_filter']       = 'Filtros';
 $_['text_year']         = 'Anos';

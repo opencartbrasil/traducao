@@ -28,6 +28,7 @@ $_['text_rating']        = 'Avaliação';
 $_['text_reviews']       = 'Comentários';
 $_['text_compatibility'] = 'Compatibilidade';
 $_['text_downloaded']    = 'downloads';
+$_['text_member_since']  = 'Membro desde:';
 $_['text_price']         = 'Preço';
 $_['text_partner']       = 'Desenvolvido por parceiro OpenCart';
 $_['text_support']       = '12 meses de suporte';
@@ -56,14 +57,16 @@ $_['tab_download']       = 'Download';
 $_['tab_comment']        = 'Comentário';
 
 // Button
-$_['button_opencart']    = 'Marketplace API';
+$_['button_opencart']    = 'Credencial de acesso para o marketplace do OpenCart';
 $_['button_purchase']    = 'Comprar';
+$_['button_view_all']    = 'Ver todas as extensões';
+$_['button_get_support'] = 'Solicitar suporte';
 $_['button_comment']     = 'Comentar';
 $_['button_reply']       = 'Responder';
 
 // Error
 $_['error_permission']   = 'Atenção: Você não tem permissão para modificar extensões no Marketplace!';
-$_['error_opencart']     = 'Atenção: Você deve inserir uma API do OpenCart antes de realizar compras!';
+$_['error_opencart']     = 'Atenção: Você deve inserir uma credencial de acesso para o marketplace do OpenCart antes de realizar sua compra!';
 $_['error_install']      = 'Aguarde alguns segundos antes de tentar instalar!';
 $_['error_purchase']     = 'Não foi possível comprar a extensão!';
 $_['error_download']     = 'Não foi possível baixar a extensão!';

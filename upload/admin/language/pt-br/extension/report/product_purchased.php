@@ -4,6 +4,7 @@ $_['heading_title']     = 'Relatório de produtos vendidos';
 
 // Text
 $_['text_extension']    = 'Extensões';
+$_['text_edit']         = 'Editando Relatório de produtos vendidos';
 $_['text_success']      = 'Relatório modificado com sucesso!';
 $_['text_filter']       = 'Filtros';
 $_['text_all_status']   = 'Todas as situações';
