@@ -20,7 +20,7 @@ http://www.opencartbrasil.com.br/instalando-traducao-opencart
 
 Antes de enviar uma Issue, pesquise em nosso fórum [clicando aqui](https://forum.opencartbrasil.com.br/).
 
-[opencart-badge]: https://img.shields.io/badge/opencart-3.0.1.1-blue.svg
+[opencart-badge]: https://img.shields.io/badge/opencart-3.0.1.2-blue.svg
 [CHANGELOG]: ./CHANGELOG.md
 [licenca-badge]: https://img.shields.io/badge/licença-GPLv3-blue.svg
 [LICENSE]: ./LICENSE
