@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_success']     = 'Extensão modificada com sucesso!';
-$_['text_unzip']       = 'Extraindo arquivos...!';
+$_['text_unzip']       = 'Extraindo arquivos...';
 $_['text_move']        = 'Copiando arquivos...';
 $_['text_xml']         = 'Aplicando modificação...';
 $_['text_remove']      = 'Excluindo arquivos temporários...';

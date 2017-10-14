@@ -24,6 +24,7 @@ $_['entry_image']           = 'Avatar';
 // Error
 $_['error_permission']      = 'Atenção: Você não tem permissão para modificar seu perfil!';
 $_['error_exists_username'] = 'Atenção: O usuário já está em uso!';
+$_['error_username_exists'] = 'Atenção: O usuário já está em uso!';
 $_['error_username']        = 'Usuário deve ter entre 3 e 20 caracteres!';
 $_['error_password']        = 'Senha deve ter entre 4 e 20 caracteres!';
 $_['error_confirm']         = 'Senha e repetida esta errada!';
@@ -31,3 +32,4 @@ $_['error_firstname']       = 'Nome deve ter entre 1 e 32 caracteres!';
 $_['error_lastname']        = 'Sobrenome deve ter entre 1 e 32 caracteres!';
 $_['error_email']           = 'O e-mail não é válido!';
 $_['error_exists_username'] = 'Atenção: O e-mail já está em uso!';
+$_['error_email_exists']    = 'Atenção: O e-mail já está em uso!';

@@ -7,13 +7,13 @@ $_['text_success']         = 'Sua mensagem foi enviada com sucesso!';
 $_['text_sent']            = 'Sua mensagem foi enviada com sucesso para %s de %s destinatários!';
 $_['text_list']            = 'Listando layouts';
 $_['text_default']         = 'Padrão';
-$_['text_newsletter']      = 'Todos os assinantes';
+$_['text_newsletter']      = 'Todos que assinaram o informativo';
 $_['text_customer_all']    = 'Todos os clientes';
-$_['text_customer_group']  = 'Tipo de cliente';
-$_['text_customer']        = 'Clientes';
+$_['text_customer_group']  = 'Tipo de cliente específico';
+$_['text_customer']        = 'Clientes selecionados';
 $_['text_affiliate_all']   = 'Todos os afiliados';
-$_['text_affiliate']       = 'Afiliados';
-$_['text_product']         = 'Produtos comprados';
+$_['text_affiliate']       = 'Afiliados selecionados';
+$_['text_product']         = 'Clientes que compraram os produtos selecionados';
 
 // Entry
 $_['entry_store']          = 'De';
