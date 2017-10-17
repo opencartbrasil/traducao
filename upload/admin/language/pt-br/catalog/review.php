@@ -29,7 +29,7 @@ $_['entry_date_added']  = 'Cadastro';
 $_['help_product']      = '(autocompletar)';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os comentários.!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os comentários!';
 $_['error_product']     = 'Produto é obrigatório!';
 $_['error_author']      = 'Autor deve ter entre 3 e 64 caracteres!';
 $_['error_text']        = 'Comentário dever ter pelo menos 1 caractere!';

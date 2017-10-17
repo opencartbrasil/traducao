@@ -5,7 +5,7 @@ $_['heading_title']     = 'Produtos por marca';
 // Text
 $_['text_brand']        = 'Produtos por marca';
 $_['text_index']        = 'Índice alfabético:';
-$_['text_error']        = 'Marca não encontrada!';
+$_['text_error']        = 'Marca não encontrada.';
 $_['text_empty']        = 'Não há produtos para listar.';
 $_['text_quantity']     = 'Qtd:';
 $_['text_manufacturer'] = 'Marca:';

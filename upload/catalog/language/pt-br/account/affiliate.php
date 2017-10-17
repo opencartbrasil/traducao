@@ -27,9 +27,9 @@ $_['entry_bank_account_name']   = 'Titular da conta';
 $_['entry_bank_account_number'] = 'Conta corrente';
 
 // Error
-$_['error_agree']               = 'Atenção: Você precisa aceitar o contrato de %s!';
-$_['error_cheque']              = 'O beneficiário é obrigatório!';
-$_['error_paypal']              = 'O e-mail no PayPal não é válido!';
-$_['error_bank_account_name']   = 'O titular da conta é obrigatório!';
-$_['error_bank_account_number'] = 'A conta corrente é obrigatória!';
-$_['error_custom_field']        = 'O campo %s é obrigatório!';
+$_['error_agree']               = 'Atenção: Você precisa aceitar o contrato de %s.';
+$_['error_cheque']              = 'O beneficiário é obrigatório.';
+$_['error_paypal']              = 'O e-mail no PayPal não é válido.';
+$_['error_bank_account_name']   = 'O titular da conta é obrigatório.';
+$_['error_bank_account_number'] = 'A conta corrente é obrigatória.';
+$_['error_custom_field']        = 'O campo %s é obrigatório.';

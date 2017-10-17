@@ -30,7 +30,7 @@ $_['entry_top']              = 'Exibir no topo';
 $_['entry_column']           = 'Colunas';
 $_['entry_sort_order']       = 'Posição';
 $_['entry_status']           = 'Situação';
-$_['entry_layout']           = 'Layout do departamento';
+$_['entry_layout']           = 'Layout para este departamento';
 
 // Help
 $_['help_filter']            = '(autocompletar)';
@@ -38,7 +38,7 @@ $_['help_top']               = 'A exibição no topo será no menu superior da l
 $_['help_column']            = 'O número de colunas para organizar os departamentos inferiores em até 3 níveis. Só funciona para um departamento principal.';
 
 // Error
-$_['error_warning']          = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
+$_['error_warning']          = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
 $_['error_permission']       = 'Atenção: Você não tem permissão para modificar os departamentos!';
 $_['error_name']             = 'Departamento deve ter entre 2 e 255 caracteres!';
 $_['error_meta_title']       = 'Meta título deve ter entre 3 e 255 caracteres!';

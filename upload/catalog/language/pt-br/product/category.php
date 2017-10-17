@@ -2,7 +2,7 @@
 // Text
 $_['text_refine']       = 'Subdepartamento:';
 $_['text_product']      = 'Produtos';
-$_['text_error']        = 'Departamento não encontrado!';
+$_['text_error']        = 'Departamento não encontrado.';
 $_['text_empty']        = 'Não há produtos neste departamento';
 $_['text_quantity']     = 'Qtd:';
 $_['text_manufacturer'] = 'Marca:';

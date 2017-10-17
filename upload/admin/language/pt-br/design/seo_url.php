@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Editor de URL amigável';
 
 // Text
-$_['text_success']     = 'URL amigável modificada com sucesso!';
+$_['text_success']     = 'URL amigável editada com sucesso!';
 $_['text_list']        = 'Listando URLs amigáveis';
 $_['text_add']         = 'Adicionando URL amigável';
 $_['text_edit']        = 'Editando URL amigável';

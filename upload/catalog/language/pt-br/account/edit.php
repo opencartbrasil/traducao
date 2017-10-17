@@ -15,9 +15,9 @@ $_['entry_email']        = 'E-mail';
 $_['entry_telephone']    = 'Telefone';
 
 // Error
-$_['error_exists']       = 'Atenção: Este e-mail já está cadastrado!';
-$_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres!';
-$_['error_lastname']     = 'O sobrenome deve entre 1 e 32 caracteres!';
-$_['error_email']        = 'O e-mail não é válido!';
-$_['error_telephone']    = 'O telefone deve ter entre 10 e 14 caracteres!';
-$_['error_custom_field'] = 'O campo %s é obrigatório!';
+$_['error_exists']       = 'Atenção: Este e-mail já está cadastrado.';
+$_['error_firstname']    = 'O nome deve ter entre 1 e 32 caracteres.';
+$_['error_lastname']     = 'O sobrenome deve entre 1 e 32 caracteres.';
+$_['error_email']        = 'O e-mail não é válido.';
+$_['error_telephone']    = 'O telefone deve ter entre 10 e 11 números.';
+$_['error_custom_field'] = 'O campo %s é obrigatório.';

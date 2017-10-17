@@ -16,11 +16,11 @@ $_['text_reviews']             = '%s comentários';
 $_['text_write']               = 'Escreva um comentário';
 $_['text_login']               = 'Você deve <a href="%s">acessar</a> ou <a href="%s">cadastrar-se</a> para comentar.';
 $_['text_no_reviews']          = 'Não há comentários para este produto.';
-$_['text_note']                = '<span class="text-danger">Nota:</span> HTML não suportado!';
+$_['text_note']                = '<span class="text-danger">Nota:</span> HTML não suportado.';
 $_['text_success']             = 'Obrigado por seu comentário. Ele foi enviado para aprovação.';
 $_['text_related']             = 'Produtos relacionados';
 $_['text_tags']                = 'Etiquetas:';
-$_['text_error']               = 'Produto não encontrado!';
+$_['text_error']               = 'Produto não encontrado.';
 $_['text_payment_recurring']   = 'Assinatura';
 $_['text_trial_description']   = '%s a cada %d %s(s) repetido por %d vez(es)';
 $_['text_payment_description'] = '%s a cada %d %s(s) repetido por %d vez(es)';
@@ -45,6 +45,6 @@ $_['tab_attribute']            = 'Especificação';
 $_['tab_review']               = 'Comentários (%s)';
 
 // Error
-$_['error_name']               = 'Atenção: Seu nome deve ter entre 3 e 25 caracteres!';
-$_['error_text']               = 'Atenção: Seu comentário deve ter entre 25 e 1000 caracteres!';
-$_['error_rating']             = 'Atenção: Faça a avaliação!';
+$_['error_name']               = 'Atenção: Seu nome deve ter entre 3 e 25 caracteres.';
+$_['error_text']               = 'Atenção: Seu comentário deve ter entre 25 e 1000 caracteres.';
+$_['error_rating']             = 'Atenção: Faça a avaliação.';

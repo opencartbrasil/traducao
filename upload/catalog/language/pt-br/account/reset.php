@@ -12,6 +12,6 @@ $_['entry_password'] = 'Senha';
 $_['entry_confirm']  = 'Repetir a senha';
 
 // Error
-$_['error_password'] = 'A senha deve ter entre 4 e 20 caracteres!';
-$_['error_confirm']  = 'A senha repetida está errada!';
-$_['error_code']     = 'O código para redefinir a senha é inválido ou foi já foi utilizado!';
+$_['error_password'] = 'A senha deve ter entre 4 e 20 caracteres.';
+$_['error_confirm']  = 'A senha repetida está errada.';
+$_['error_code']     = 'O código para redefinir a senha é inválido ou foi já foi utilizado.';

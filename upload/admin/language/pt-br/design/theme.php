@@ -3,8 +3,8 @@
 $_['heading_title']     = 'Editor de temas';
 
 // Text
-$_['text_success']      = 'Tema modificado com sucesso!';
-$_['text_edit']         = 'Editando temas';
+$_['text_success']      = 'Tema editado com sucesso!';
+$_['text_edit']         = 'Editando tema';
 $_['text_store']        = 'Selecione a loja';
 $_['text_template']     = 'Selecione o arquivo';
 $_['text_default']      = 'Padrão';
@@ -21,4 +21,4 @@ $_['column_action']     = 'Ação';
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para utilizar o Editor de temas!';
-$_['error_twig']        = 'Atenção: Você só pode editar e salvar arquivo com a extensão .twig!';
+$_['error_twig']        = 'Atenção: Você só pode editar e salvar arquivos com a extensão .twig!';

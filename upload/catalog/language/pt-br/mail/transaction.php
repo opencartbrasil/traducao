@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Crédito de afiliado';
-$_['text_received'] = 'Congratulations! You have received a commission payment from the %s affiliate program';
-$_['text_amount']   = 'Você recebeu:';
-$_['text_total']    = 'O total de seu crédito é:';
+$_['text_subject']  = '%s - Nova transação em sua conta';
+$_['text_received'] = 'Sua conta na loja %s, teve um registro de transação.';
+$_['text_amount']   = 'Valor da transação:';
+$_['text_total']    = 'Saldo atual:';

@@ -26,13 +26,13 @@ $_['entry_keyword']          = 'URL amigável';
 $_['entry_bottom']           = 'Exibir no rodapé';
 $_['entry_status']           = 'Situação';
 $_['entry_sort_order']       = 'Posição';
-$_['entry_layout']           = 'Layout da página de informação';
+$_['entry_layout']           = 'Layout para estas página de informação';
 
 // Help
-$_['help_bottom']            = 'Exibir um link para a página de informações no rodapé da loja.';
+$_['help_bottom']            = 'Exibe o link para a página de informações no rodapé da loja.';
 
 // Error
-$_['error_warning']          = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
+$_['error_warning']          = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
 $_['error_permission']       = 'Atenção: Você não tem permissão para modificar as páginas de informações!';
 $_['error_title']            = 'Título da página deve ter entre 3 e 64 caracteres!';
 $_['error_description']      = 'Conteúdo deve possuir pelo menos 3 caracteres!';

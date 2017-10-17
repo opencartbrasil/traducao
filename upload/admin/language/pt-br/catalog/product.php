@@ -77,10 +77,10 @@ $_['entry_sort_order']       = 'Posição';
 $_['entry_category']         = 'Departamentos';
 $_['entry_filter']           = 'Filtros';
 $_['entry_download']         = 'Downloads';
-$_['entry_related']          = 'Outros produtos';
+$_['entry_related']          = 'Produtos relacionados';
 $_['entry_tag']              = 'Etiquetas';
 $_['entry_reward']           = 'Pontos';
-$_['entry_layout']           = 'Layout do produto';
+$_['entry_layout']           = 'Layout para este produto';
 $_['entry_recurring']        = 'Tipo de assinatura';
 
 // Help
@@ -101,7 +101,7 @@ $_['help_related']           = '(autocompletar)';
 $_['help_tag']               = 'Separadas por vírgulas';
 
 // Error
-$_['error_warning']          = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
+$_['error_warning']          = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
 $_['error_permission']       = 'Atenção: Você não tem permissão para modificar os produtos!';
 $_['error_name']             = 'Produto deve ter entre 3 e 255 caracteres!';
 $_['error_meta_title']       = 'Meta título deve ter entre 3 e 255 caracteres!';

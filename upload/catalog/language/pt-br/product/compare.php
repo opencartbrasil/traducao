@@ -17,6 +17,6 @@ $_['text_summary']      = 'Resumo';
 $_['text_weight']       = 'Peso';
 $_['text_dimension']    = 'Dimensões (C x L x A)';
 $_['text_compare']      = 'Produtos para comparar (%s)';
-$_['text_success']      = 'Você adicionou o produto <a href="%s">%s</a> na lista de <a href="%s">produtos para comparar</a>!';
-$_['text_remove']       = 'Você modificou a lista de produtos para comparar!';
+$_['text_success']      = 'Você adicionou o produto <a href="%s">%s</a> na lista de <a href="%s">produtos para comparar</a>.';
+$_['text_remove']       = 'Você modificou a lista de produtos para comparar.';
 $_['text_empty']        = 'Você não escolheu nenhum produto para comparar.';

@@ -8,22 +8,22 @@ $_['text_list']                 = 'Listando clientes';
 $_['text_add']                  = 'Novo cliente';
 $_['text_edit']                 = 'Editando cliente';
 $_['text_default']              = 'Padrão';
-$_['text_account']              = 'Detalhes do cliente';
+$_['text_account']              = 'Informações do cliente';
 $_['text_password']             = 'Senha';
 $_['text_other']                = 'Outros';
-$_['text_affiliate']            = 'Detalhes da afiliação';
+$_['text_affiliate']            = 'Informações da afiliação';
 $_['text_payment']              = 'Informações para pagamento';
-$_['text_balance']              = 'Balanço';
+$_['text_balance']              = 'Saldo';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Transferência bancária';
-$_['text_history']              = 'Histórico';
+$_['text_history']              = 'Histórico do cliente';
 $_['text_history_add']          = 'Adicionar histórico';
-$_['text_transaction']          = 'Transações';
+$_['text_transaction']          = 'Histórico de transações';
 $_['text_transaction_add']      = 'Adicionar transação';
-$_['text_reward']               = 'Pontos';
+$_['text_reward']               = 'Histórico de pontos';
 $_['text_reward_add']           = 'Adicionar pontos';
-$_['text_ip']                   = 'IP';
+$_['text_ip']                   = 'Histórico do IP';
 $_['text_option']               = 'Opções';
 $_['text_login']                = 'Acessar a loja com essa conta';
 $_['text_unlock']               = 'Desbloquear a conta';
@@ -38,8 +38,8 @@ $_['column_comment']            = 'Comentário';
 $_['column_description']        = 'Detalhes';
 $_['column_amount']             = 'Valor';
 $_['column_points']             = 'Pontos';
-$_['column_ip']                 = 'IP';
-$_['column_total']              = 'Total de contas';
+$_['column_ip']                 = 'Endereço IP';
+$_['column_total']              = 'Contas registradas';
 $_['column_action']             = 'Ação';
 
 // Entry
@@ -80,7 +80,7 @@ $_['entry_description']         = 'Detalhes';
 $_['entry_amount']              = 'Valor';
 $_['entry_points']              = 'Pontos';
 $_['entry_name']                = 'Cliente';
-$_['entry_ip']                  = 'IP';
+$_['entry_ip']                  = 'Endereço IP';
 $_['entry_date_added']          = 'Cadastro';
 
 // Help
@@ -91,7 +91,7 @@ $_['help_commission']           = 'Percentual que o afiliado recebe a cada pedid
 $_['help_points']               = 'Use o sinal de menos para remover pontos';
 
 // Error
-$_['error_warning']             = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
+$_['error_warning']             = 'Atenção: Faltou preencher alguma informação, verifique todos os campos.';
 $_['error_permission']          = 'Atenção: Você não tem permissão para modificar os clientes!';
 $_['error_exists']              = 'Atenção: O e-mail já está cadastrado!';
 $_['error_firstname']           = 'O nome deve ter entre 1 e 32 caracteres!';

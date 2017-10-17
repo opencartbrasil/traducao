@@ -12,4 +12,4 @@ $_['entry_generator']  = 'Digite o nome do produto';
 $_['entry_link']       = 'Link para divulgação';
 
 // Help
-$_['help_generator']   = 'Digite o nome de um produto para gerar o link de divulgação';
+$_['help_generator']   = 'Digite o nome de um produto para gerar o link de divulgação.';

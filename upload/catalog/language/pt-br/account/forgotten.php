@@ -15,7 +15,7 @@ $_['entry_password']  = 'Nova senha';
 $_['entry_confirm']   = 'Repetir a senha';
 
 // Error
-$_['error_email']     = 'Atenção: O e-mail informado não foi localizado em nossa loja, tente novamente!';
+$_['error_email']     = 'Atenção: O e-mail informado não foi localizado em nossa loja, tente novamente.';
 $_['error_approved']  = 'Atenção: A sua conta necessita de aprovação antes que você possa acessá-la.';
-$_['error_password']  = 'A senha deve ter entre 4 e 20 caracteres!';
-$_['error_confirm']   = 'A senha repetida está errada!';
+$_['error_password']  = 'A senha deve ter entre 4 e 20 caracteres.';
+$_['error_confirm']   = 'A senha repetida está errada.';

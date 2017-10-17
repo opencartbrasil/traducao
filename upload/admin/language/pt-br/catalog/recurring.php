@@ -36,7 +36,7 @@ $_['column_sort_order']     = 'Posição';
 $_['column_action']         = 'Ação';
 
 // Error
-$_['error_warning']         = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
+$_['error_warning']         = 'Atenção: Faltou você preencher alguma informação, verifique todos os campos.';
 $_['error_permission']      = 'Atenção: Você não tem permissão para modificar os tipos de assinatura!';
 $_['error_name']            = 'Tipo de assinatura deve ter entre 3 e 255 caracteres!';
 $_['error_product']         = 'Atenção: Este tipo de assinatura não pode ser excluída, pois está vinculado a %s produtos!';

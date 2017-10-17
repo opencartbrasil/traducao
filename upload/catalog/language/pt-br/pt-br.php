@@ -18,7 +18,7 @@ $_['text_select']           = ' --- Selecione --- ';
 $_['text_all_zones']        = 'Todas as regiões';
 $_['text_pagination']       = 'Exibindo de %d a %d do total de %d (%d páginas)';
 $_['text_loading']          = 'Carregando...';
-$_['text_no_results']       = 'Não há resultados!';
+$_['text_no_results']       = 'Não há resultados.';
 
 // Buttons
 $_['button_address_add']    = 'Adicionar endereço';
@@ -60,14 +60,14 @@ $_['button_map']            = 'Ver mapa no Google';
 
 // Error
 $_['error_exception']       = 'Código do erro(%s): %s de %s na linha %s';
-$_['error_upload_1']        = 'Atenção: O arquivo enviado excede o especificado na linha upload_max_filesize no php.ini!';
-$_['error_upload_2']        = 'Atenção: O arquivo enviado excede o especificado na opção MAX_FILE_SIZE no formulário HTML!';
-$_['error_upload_3']        = 'Atenção: O arquivo foi apenas parcialmente carregado!';
-$_['error_upload_4']        = 'Atenção: Nenhum arquivo foi enviado!';
-$_['error_upload_6']        = 'Atenção: A pasta temporária não foi localizada!';
-$_['error_upload_7']        = 'Atenção: Falha ao gravar arquivo em disco!';
-$_['error_upload_8']        = 'Atenção: O envio do arquivo foi interrompido por causa da extensão!';
-$_['error_upload_999']      = 'Atenção: Nenhum código de erro disponível!';
+$_['error_upload_1']        = 'Atenção: O arquivo enviado excede o especificado na linha upload_max_filesize no php.ini.';
+$_['error_upload_2']        = 'Atenção: O arquivo enviado excede o especificado na opção MAX_FILE_SIZE no formulário HTML.';
+$_['error_upload_3']        = 'Atenção: O arquivo foi apenas parcialmente carregado.';
+$_['error_upload_4']        = 'Atenção: Nenhum arquivo foi enviado.';
+$_['error_upload_6']        = 'Atenção: A pasta temporária não foi localizada.';
+$_['error_upload_7']        = 'Atenção: Falha ao gravar arquivo em disco.';
+$_['error_upload_8']        = 'Atenção: O envio do arquivo foi interrompido por causa da extensão.';
+$_['error_upload_999']      = 'Atenção: Nenhum código de erro disponível.';
 $_['error_curl']            = 'CURL: Código de erro (%s): %s';
 
 $_['datepicker']            = 'pt-br';

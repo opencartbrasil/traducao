@@ -32,7 +32,7 @@ $_['text_transaction_suspended']           = 'Suspenso';
 $_['text_transaction_suspended_failed']    = 'Suspenso por falha';
 $_['text_transaction_outstanding_failed']  = 'Pendente por falha';
 $_['text_transaction_expired']             = 'Expirado';
-$_['text_empty']                           = 'Não há assinaturas!';
+$_['text_empty']                           = 'Não há assinaturas em sua conta.';
 $_['text_error']                           = 'A assinatura não foi encontrada!';
 $_['text_cancelled']                       = 'A assinatura foi cancelada';
 
