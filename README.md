@@ -4,13 +4,9 @@
 
 Essa tradução para português do Brasil do OpenCart, é mantida e revisada por OpenCart Brasil.
 
-Segue o link para download do pacote de instalação atualizado (baixe o arquivo traducao.ocmod.zip):
+Segue o link para download do pacote de instalação atualizado:
 
-https://github.com/opencartbrasil/traducao/releases
-
-Caso deseje doar um valor para contribuir com este trabalho continuo e sempre gratuito, clique no botão abaixo:
-
-[![alt tag](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7G9TR9PXS6G5J)
+https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19865
 
 ### Instalação ou atualização da tradução
 
