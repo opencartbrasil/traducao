@@ -21,7 +21,7 @@ $_['button_express_login']    = 'Continue to PayPal';
 $_['button_express_shipping'] = 'Update shipping';
 
 // Error
-$_['error_heading_title']	  = 'There was an error';
+$_['error_heading_title']     = 'There was an error';
 $_['error_too_many_failures'] = 'Your payment has failed too many times';
-$_['error_unavailable'] 	  = 'Please use the full checkout with this order';
-$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_unavailable']       = 'Please use the full checkout with this order';
+$_['error_no_shipping']       = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';

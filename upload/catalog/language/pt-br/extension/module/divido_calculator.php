@@ -1,5 +1,5 @@
 <?php
-// Calculator
+// Text
 $_['text_checkout_title']      = 'Pagar parcelado';
 $_['text_choose_plan']         = 'Selecione o plano';
 $_['text_choose_deposit']      = 'Selecione o depósito';

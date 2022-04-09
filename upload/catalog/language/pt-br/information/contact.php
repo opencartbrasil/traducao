@@ -12,6 +12,7 @@ $_['text_fax']       = 'Fax';
 $_['text_open']      = 'Horário de funcionamento';
 $_['text_comment']   = 'Comentários';
 $_['text_success']   = '<p>Sua dúvida foi enviada para nosso atendimento.</p>';
+$_['text_message']   = '<p>Sua dúvida foi enviada para nosso atendimento.</p>';
 
 // Entry
 $_['entry_name']     = 'Seu nome';
